@@ -1,0 +1,2506 @@
+county,coordinates,state
+Bexar,"(29.4200763, -98.5721016)",Texas
+Fort Bend,"(29.5692614, -95.81428849999999)",Texas
+Harris,"(29.7751825, -95.3102505)",Texas
+Collin,"(33.1795213, -96.49297969999999)",Texas
+Dallas,"(32.8024682, -96.83509989999999)",Texas
+Montgomery,"(30.3213482, -95.4777811)",Texas
+Tarrant,"(32.7732044, -97.35165579999999)",Texas
+Gregg,"(32.4892547, -94.8520636)",Texas
+Bell,"(31.134411, -97.5247243)",Texas
+El Paso,"(31.8039824, -106.2051484)",Texas
+Galveston,"(29.37634989999999, -94.8520636)",Texas
+Smith,"(32.3352505, -95.3102505)",Texas
+Travis,"(30.2097015, -97.69822719999999)",Texas
+Brazoria,"(29.2131857, -95.4777811)",Texas
+Hays,"(30.0537607, -98.0028892)",Texas
+Denton,"(33.1418611, -97.179026)",Texas
+Bowie,"(33.4473287, -94.479976)",Texas
+Matagorda,"(28.8204837, -95.9832577)",Texas
+Brazos,"(30.6504141, -96.3226072)",Texas
+Ellis,"(32.2619765, -96.83509989999999)",Texas
+Lubbock,"(33.6753624, -101.7979613)",Texas
+Lavaca,"(29.33590539999999, -96.83509989999999)",Texas
+McLennan,"(31.5182285, -97.179026)",Texas
+Medina,"(29.2987871, -99.0128926)",Texas
+Rusk,"(32.1741887, -94.81059549999999)",Texas
+Webb,"(27.8174487, -99.0128926)",Texas
+Wichita,"(33.9309651, -98.7481167)",Texas
+Williamson,"(30.7591685, -97.69822719999999)",Texas
+Cameron,"(26.1284971, -97.5247243)",Texas
+Crane,"(31.4654966, -102.5298028)",Texas
+DeWitt,"(29.1235194, -97.35165579999999)",Texas
+Johnson,"(32.4133566, -97.35165579999999)",Texas
+Van Zandt,"(32.4936974, -95.81428849999999)",Texas
+Brown,"(31.7705105, -98.92453429999999)",Texas
+Cass,"(33.09443420000001, -94.315422)",Texas
+Fannin,"(33.5544296, -96.15269850000001)",Texas
+Hockley,"(33.6212592, -102.3463875)",Texas
+Upshur,"(32.7099747, -94.976654)",Texas
+Bastrop,"(30.0458708, -97.35165579999999)",Texas
+Castro,"(34.4985047, -102.3463875)",Texas
+Deaf Smith,"(35.0017354, -102.5298028)",Texas
+Midland,"(31.8781368, -101.9804613)",Texas
+Oldham,"(35.4247226, -102.6216211)",Texas
+Potter,"(35.404373, -101.9804613)",Texas
+Morris,"(33.122847, -94.7691586)",Texas
+Chambers,"(29.7524956, -94.6863782)",Texas
+Comal,"(29.8105572, -98.2212979)",Texas
+Falls,"(31.1636412, -97.0068393)",Texas
+Grayson,"(33.7062406, -96.663812)",Texas
+Hidalgo,"(26.4656319, -98.2212979)",Texas
+Jefferson,"(29.8165398, -94.15137639999999)",Texas
+Nueces,"(27.7693351, -97.4814163)",Texas
+Parker,"(32.7415519, -97.87216)",Texas
+Victoria,"(28.7712909, -97.0068393)",Texas
+Atascosa,"(28.8661281, -98.5721016)",Texas
+Austin,"(29.8711291, -96.2800864)",Texas
+Blanco,"(30.3500511, -98.3964938)",Texas
+Burnet,"(30.7270349, -98.2212979)",Texas
+Coryell,"(31.4774358, -97.87216)",Texas
+Eastland,"(32.3240465, -98.7481167)",Texas
+Erath,"(32.17934040000001, -98.2212979)",Texas
+Fayette,"(29.8896442, -96.83509989999999)",Texas
+Gaines,"(32.6987519, -102.7135121)",Texas
+Grimes,"(30.4829853, -95.9832577)",Texas
+Guadalupe,"(29.6477307, -97.87216)",Texas
+Hale,"(34.1064941, -101.8891721)",Texas
+Hardin,"(30.364764, -94.315422)",Texas
+Hopkins,"(33.2282942, -95.4777811)",Texas
+Hunt,"(33.1967938, -96.15269850000001)",Texas
+Kaufman,"(32.5889211, -96.3089299)",Texas
+Kendall,"(29.9603413, -98.7481167)",Texas
+Lamar,"(33.75694, -95.6457951)",Texas
+Liberty,"(30.1633593, -94.81059549999999)",Texas
+Limestone,"(31.5461078, -96.663812)",Texas
+Llano,"(30.692528, -98.7481167)",Texas
+Maverick,"(28.7410473, -100.3497895)",Texas
+Milam,"(30.8092642, -96.9795011)",Texas
+Orange,"(30.1484033, -93.86553029999999)",Texas
+Robertson,"(31.0080004, -96.49297969999999)",Texas
+San Patricio,"(27.9999695, -97.5247243)",Texas
+Terry,"(33.0909654, -102.3463875)",Texas
+Tom Green,"(31.3839017, -100.439656)",Texas
+Walker,"(30.6815394, -95.6457951)",Texas
+Wharton,"(29.36909319999999, -96.15269850000001)",Texas
+Wilson,"(29.2683783, -98.04651849999999)",Texas
+Angelina,"(31.2704698, -94.645035)",Texas
+Calhoun,"(28.4169365, -96.663812)",Texas
+Jackson,"(28.9340886, -96.5356449)",Texas
+Karnes,"(28.9089085, -97.87216)",Texas
+Martin,"(32.2364722, -101.9804613)",Texas
+Nacogdoches,"(31.6353071, -94.645035)",Texas
+Rockwall,"(32.8721646, -96.365157)",Texas
+Val Verde,"(29.8687682, -101.1617356)",Texas
+Cherokee,"(31.7981828, -95.1432068)",Texas
+Harrison,"(32.5539228, -94.315422)",Texas
+Hood,"(32.4296296, -97.8286368)",Texas
+Montague,"(33.6460993, -97.69822719999999)",Texas
+Navarro,"(32.0991878, -96.49297969999999)",Texas
+Randall,"(34.9020377, -101.7979613)",Texas
+Shelby,"(31.8343021, -94.15137639999999)",Texas
+Starr,"(26.6215167, -98.7481167)",Texas
+Taylor,"(32.2455088, -99.8124935)",Texas
+Uvalde,"(29.3342663, -99.8124935)",Texas
+Willacy,"(26.4948223, -97.69822719999999)",Texas
+Young,"(33.2200087, -98.7481167)",Texas
+Burleson,"(30.4500257, -96.663812)",Texas
+Caldwell,"(29.8849106, -97.6699144)",Texas
+Lamb,"(34.1486153, -102.3463875)",Texas
+Lynn,"(33.1446401, -101.7979613)",Texas
+Washington,"(30.2352956, -96.365157)",Texas
+Dawson,"(32.7717423, -101.9804613)",Texas
+Ector,"(31.8246483, -102.5298028)",Texas
+Franklin,"(33.1959954, -95.18492189999999)",Texas
+Henderson,"(32.1321367, -95.81428849999999)",Texas
+Kleberg,"(27.4308339, -97.69822719999999)",Texas
+Polk,"(30.7150882, -94.81059549999999)",Texas
+San Jacinto,"(30.5187687, -95.1432068)",Texas
+Swisher,"(34.5532757, -101.7979613)",Texas
+Waller,"(29.9751629, -96.02557379999999)",Texas
+Hill,"(32.0621768, -97.179026)",Texas
+Leon,"(31.2152685, -95.9832577)",Texas
+Moore,"(35.8446761, -101.8891721)",Texas
+Wise,"(33.2895861, -97.69822719999999)",Texas
+Anderson,"(31.776932, -95.6457951)",Texas
+Camp,"(32.9567043, -94.99744609999999)",Texas
+Clay,"(33.7900416, -98.2212979)",Texas
+Colorado,"(29.5378648, -96.49297969999999)",Texas
+Comanche,"(31.9755461, -98.5721016)",Texas
+Gonzales,"(29.4834878, -97.5247243)",Texas
+Gray,"(35.3352558, -100.8903099)",Texas
+Kerr,"(30.0945305, -99.456155)",Texas
+Live Oak,"(28.342294, -98.04651849999999)",Texas
+Newton,"(30.9359604, -93.66232389999999)",Texas
+San Augustine,"(31.4699363, -94.15137639999999)",Texas
+Wood,"(32.8296216, -95.35208759999999)",Texas
+Donley,"(34.9875355, -100.8903099)",Texas
+Gillespie,"(30.31499299999999, -98.92453429999999)",Texas
+Goliad,"(28.5673709, -97.35165579999999)",Texas
+Jasper,"(30.9263644, -93.9878427)",Texas
+Jim Wells,"(27.7841718, -98.04651849999999)",Texas
+Lee,"(30.2967161, -96.9638624)",Texas
+Palo Pinto,"(32.7511956, -98.31041839999999)",Texas
+Panola,"(32.1920035, -94.315422)",Texas
+Lampasas,"(31.2737682, -98.2212979)",Texas
+Titus,"(33.2493126, -94.976654)",Texas
+Andrews,"(32.342627, -102.7135121)",Texas
+Hemphill,"(35.9022267, -100.3497895)",Texas
+Hutchinson,"(35.8031909, -101.4339148)",Texas
+Mason,"(30.6556091, -99.2785583)",Texas
+Trinity,"(31.0687648, -95.1432068)",Texas
+Tyler,"(30.7324447, -94.315422)",Texas
+Aransas,"(28.0761262, -96.9638624)",Texas
+Pecos,"(30.8253214, -102.6216211)",Texas
+Zapata,"(26.9730763, -99.1013498)",Texas
+Callahan,"(32.2728116, -99.456155)",Texas
+Crosby,"(33.5500004, -101.2523792)",Texas
+Dallam,"(36.20745, -102.5298028)",Texas
+Hamilton,"(31.6368668, -98.2212979)",Texas
+Hansford,"(36.31837489999999, -101.4339148)",Texas
+Knox,"(33.6734243, -99.8124935)",Texas
+Mitchell,"(32.3360516, -100.8903099)",Texas
+Bee,"(28.3624206, -97.69822719999999)",Texas
+Delta,"(33.3493128, -95.77212039999999)",Texas
+Dickens,"(33.5985109, -100.7097867)",Texas
+Floyd,"(34.0791533, -101.2523792)",Texas
+Frio,"(28.831355, -99.1013498)",Texas
+Jones,"(32.7833435, -99.8124935)",Texas
+Bandera,"(29.7404135, -99.2785583)",Texas
+Jack,"(33.2560382, -98.2212979)",Texas
+Madison,"(30.9888479, -95.94097099999999)",Texas
+McCulloch,"(31.2016122, -99.2785583)",Texas
+Sabine,"(31.2974233, -93.8248241)",Texas
+Scurry,"(32.6937844, -100.8903099)",Texas
+Concho,"(31.3431641, -99.8124935)",Texas
+Cooke,"(33.6672185, -97.35165579999999)",Texas
+Howard,"(32.2875944, -101.4339148)",Texas
+Rains,"(32.9009129, -95.77212039999999)",Texas
+Stephens,"(32.7399935, -98.8400144)",Texas
+Winkler,"(31.76846, -103.0817903)",Texas
+Dimmit,"(28.4116514, -99.8124935)",Texas
+Motley,"(34.1280332, -100.7097867)",Texas
+Armstrong,"(34.937162, -101.4339148)",Texas
+Duval,"(27.7525271, -98.5721016)",Texas
+Wilbarger,"(34.0688089, -99.2785583)",Texas
+Bosque,"(31.8507607, -97.69822719999999)",Texas
+Freestone,"(31.7534889, -96.15269850000001)",Texas
+La Salle,"(28.2758921, -99.1013498)",Texas
+Marion,"(32.7780679, -94.35651299999999)",Texas
+Red River,"(33.6072302, -94.976654)",Texas
+Roberts,"(35.8540979, -100.8903099)",Texas
+Sherman,"(36.2643429, -101.9804613)",Texas
+Zavala,"(28.8801264, -99.72326729999999)",Texas
+Carson,"(35.4578717, -101.4339148)",Texas
+Yoakum,"(33.2114703, -102.8975098)",Texas
+Childress,"(34.5257527, -100.1703257)",Texas
+Houston,"(31.2377559, -95.4777811)",Texas
+Parmer,"(34.4604292, -102.7135121)",Texas
+Hartley,"(35.86479569999999, -102.5298028)",Texas
+Brooks,"(27.0273057, -98.2212979)",Texas
+Wheeler,"(35.3830893, -100.3497895)",Texas
+Cochran,"(33.5643803, -102.8975098)",Texas
+Jim Hogg,"(26.995506, -98.7481167)",Texas
+Nolan,"(32.3818737, -100.3497895)",Texas
+Ochiltree,"(36.2921544, -100.8000051)",Texas
+Cottle,"(34.159117, -100.3497895)",Texas
+Lipscomb,"(36.2464455, -100.3497895)",Texas
+Runnels,"(31.8714508, -99.99122539999999)",Texas
+Garza,"(33.1955897, -101.2523792)",Texas
+Glasscock,"(31.912308, -101.6157773)",Texas
+Brewster,"(29.6629938, -103.3587288)",Texas
+Briscoe,"(34.526178, -101.1617356)",Texas
+Coleman,"(31.7320219, -99.456155)",Texas
+Refugio,"(28.3465339, -97.1359377)",Texas
+Bailey,"(34.0913057, -102.8975098)",Texas
+Coke,"(31.82776629999999, -100.5296115)",Texas
+Collingsworth,"(35.0351623, -100.3497895)",Texas
+Shackelford,"(32.8242297, -99.2785583)",Texas
+Kimble,"(30.4338473, -99.8124935)",Texas
+Reeves,"(31.4307975, -103.7289167)",Texas
+Archer,"(33.5761511, -98.7481167)",Texas
+Fisher,"(32.7398733, -100.3497895)",Texas
+Haskell,"(33.1403423, -99.8124935)",Texas
+Mills,"(31.6137467, -98.5721016)",Texas
+San Saba,"(31.238909, -98.7481167)",Texas
+Hall,"(34.4793521, -100.7097867)",Texas
+Hardeman,"(34.2177242, -99.634135)",Texas
+Ward,"(31.5395559, -103.1279039)",Texas
+Presidio,"(29.9480666, -104.1001326)",Texas
+Hudspeth,"(31.5707433, -105.5943388)",Texas
+Reagan,"(31.2903569, -101.5248055)",Texas
+Kinney,"(29.2934865, -100.3497895)",Texas
+Irion,"(31.2557696, -100.8903099)",Texas
+Baylor,"(33.5373926, -99.2785583)",Texas
+Crockett,"(30.5977955, -101.1617356)",Texas
+Real,"(29.8851459, -99.8124935)",Texas
+Somervell,"(32.2547696, -97.7416703)",Texas
+Schleicher,"(30.9234947, -100.5296115)",Texas
+Sutton,"(30.5598827, -100.5296115)",Texas
+Upton,"(31.33848429999999, -101.9804613)",Texas
+Culberson,"(31.347767, -104.4723301)",Texas
+Menard,"(30.9802428, -99.8124935)",Texas
+Terrell,"(30.2348611, -102.1632718)",Texas
+Edwards,"(29.9282955, -100.439656)",Texas
+Jeff Davis,"(30.750805, -104.1930918)",Texas
+Kenedy,"(26.8697147, -97.69822719999999)",Texas
+Throckmorton,"(33.1814565, -99.2785583)",Texas
+Foard,"(33.9865825, -99.7678687)",Texas
+Kent,"(33.2438434, -100.7097867)",Texas
+McMullen,"(28.3102323, -98.5721016)",Texas
+Stonewall,"(33.1114912, -100.1703257)",Texas
+Hillsborough,"(27.9903597, -82.3017728)",Florida
+Manatee,"(27.4799195, -82.34518899999999)",Florida
+Santa Rosa,"(30.7689907, -86.9824288)",Florida
+Broward,"(26.190096, -80.365865)",Florida
+Lee,"(26.6630286, -81.9534815)",Florida
+Charlotte,"(26.8946009, -81.909826)",Florida
+Okaloosa,"(30.57734009999999, -86.6611083)",Florida
+Volusia,"(29.0279842, -81.0754657)",Florida
+Alachua,"(29.6579549, -82.3017728)",Florida
+Collier,"(26.069985, -81.42789839999999)",Florida
+Nassau,"(30.5927334, -81.8224362)",Florida
+Pasco,"(28.3232418, -82.4319405)",Florida
+Pinellas,"(27.876394, -82.7778579)",Florida
+Miami-Dade,"(25.5516034, -80.6326916)",Florida
+St. Johns,"(29.9719419, -81.42789839999999)",Florida
+Clay,"(29.9943564, -81.77870209999999)",Florida
+Duval,"(30.3500511, -81.6035062)",Florida
+Palm Beach,"(26.6514503, -80.2767327)",Florida
+Sarasota,"(27.1995986, -82.34518899999999)",Florida
+Seminole,"(28.7131688, -81.20781640000001)",Florida
+Orange,"(28.4844995, -81.2518833)",Florida
+Osceola,"(28.1019838, -81.0754657)",Florida
+Baker,"(30.3931168, -82.3017728)",Florida
+Citrus,"(28.8848842, -82.5185837)",Florida
+Escambia,"(30.6389408, -87.3413599)",Florida
+Lake,"(28.702847, -81.77870209999999)",Florida
+Brevard,"(28.263933, -80.7214417)",Florida
+Polk,"(27.8617347, -81.6911559)",Florida
+Leon,"(30.4906177, -84.1857115)",Florida
+Sumter,"(28.6747526, -82.08429009999999)",Florida
+Walton,"(30.56401989999999, -86.17517590000001)",Florida
+Hernando,"(28.5578826, -82.4752757)",Florida
+Indian River,"(27.6947732, -80.54384499999999)",Florida
+Jackson,"(30.7150882, -85.1894045)",Florida
+Martin,"(27.0804935, -80.4103957)",Florida
+Monroe,"(24.5557001, -81.78259849999999)",Florida
+Bay,"(30.1805306, -85.684578)",Florida
+Highlands,"(27.3400286, -81.34002679999999)",Florida
+Marion,"(29.2787765, -82.12783999999999)",Florida
+Putnam,"(29.6265157, -81.77870209999999)",Florida
+St. Lucie,"(27.3225563, -80.54384499999999)",Florida
+Bradford,"(29.97238179999999, -82.1713632)",Florida
+Columbia,"(30.1812696, -82.605118)",Florida
+DeSoto,"(27.2142078, -81.77870209999999)",Florida
+Flagler,"(29.4086072, -81.2518833)",Florida
+Gadsden,"(30.5562947, -84.6479124)",Florida
+Washington,"(30.548737, -85.684578)",Florida
+Levy,"(29.3178545, -82.82097399999999)",Florida
+Suwannee,"(30.24850959999999, -82.99316069999999)",Florida
+Hendry,"(26.6105319, -81.0754657)",Florida
+Glades,"(26.984415, -81.0754657)",Florida
+Wakulla,"(30.1301689, -84.3542049)",Florida
+Holmes,"(30.8740806, -85.80766)",Florida
+Calhoun,"(30.3475302, -85.1894045)",Florida
+Union,"(30.0745112, -82.34518899999999)",Florida
+Gulf,"(29.8001623, -85.35496499999999)",Florida
+Hardee,"(27.4501733, -81.8224362)",Florida
+Madison,"(30.4586334, -83.5070203)",Florida
+Okeechobee,"(27.3462015, -80.89865019999999)",Florida
+Franklin,"(29.7817695, -84.8567932)",Florida
+Dixie,"(29.5207227, -83.1649001)",Florida
+Jefferson,"(30.4311978, -83.8897057)",Florida
+Hamilton,"(30.47559579999999, -82.95015579999999)",Florida
+Gilchrist,"(29.6871128, -82.82097399999999)",Florida
+Taylor,"(30.0993767, -83.67739279999999)",Florida
+Lafayette,"(30.0299573, -83.2077645)",Florida
+Liberty,"(30.1507777, -84.8567932)",Florida
+Fulton,"(33.8033965, -84.3962535)",Georgia
+Polk,"(34.0132398, -85.14793639999999)",Georgia
+Cobb,"(33.8999297, -84.56414699999999)",Georgia
+Gwinnett,"(33.9190653, -84.01674229999999)",Georgia
+Cherokee,"(34.2514526, -84.4802606)",Georgia
+DeKalb,"(33.7956441, -84.2278796)",Georgia
+Fayette,"(33.4502206, -84.4802606)",Georgia
+Floyd,"(34.2828967, -85.2308414)",Georgia
+Charlton,"(30.7917361, -82.08429009999999)",Georgia
+Bartow,"(34.2660473, -84.8150781)",Georgia
+Lee,"(31.8128435, -84.14351359999999)",Georgia
+Lowndes,"(30.8600022, -83.2934086)",Georgia
+Gordon,"(34.4891699, -84.8567932)",Georgia
+Henry,"(33.4347963, -84.14351359999999)",Georgia
+Coweta,"(33.3716708, -84.7315563)",Georgia
+Clarke,"(33.9519347, -83.357567)",Georgia
+Clayton,"(33.5571944, -84.375233)",Georgia
+Dougherty,"(31.5439375, -84.2278796)",Georgia
+Newton,"(33.5544296, -83.8473015)",Georgia
+Forsyth,"(34.2358502, -84.14351359999999)",Georgia
+Hall,"(34.30778, -83.804868)",Georgia
+Paulding,"(33.9142037, -84.8984775)",Georgia
+Troup,"(33.0698575, -85.02334599999999)",Georgia
+Richmond,"(33.3205339, -82.08429009999999)",Georgia
+Whitfield,"(34.8033566, -84.981754)",Georgia
+Columbia,"(33.5098514, -82.25832969999999)",Georgia
+Houston,"(32.4219655, -83.63484299999999)",Georgia
+Bibb,"(32.7865735, -83.7199136)",Georgia
+Early,"(31.3901106, -84.8984775)",Georgia
+Effingham,"(32.378148, -81.38393260000001)",Georgia
+Glynn,"(31.2624169, -81.6035062)",Georgia
+Laurens,"(32.433014, -82.99316069999999)",Georgia
+Peach,"(32.5892926, -83.8260884)",Georgia
+Rockdale,"(33.6752492, -84.0378894)",Georgia
+Carroll,"(33.5642239, -85.0649071)",Georgia
+Chatham,"(31.9994194, -81.1196075)",Georgia
+Dawson,"(34.412912, -84.14351359999999)",Georgia
+Douglas,"(33.7290225, -84.7315563)",Georgia
+Heard,"(33.2990406, -85.14793639999999)",Georgia
+Lamar,"(33.0765883, -84.14351359999999)",Georgia
+Lincoln,"(33.7875101, -82.4319405)",Georgia
+Miller,"(31.2008218, -84.7315563)",Georgia
+Monroe,"(32.9746846, -83.8897057)",Georgia
+Muscogee,"(32.4794133, -84.8984775)",Georgia
+Oconee,"(33.8231988, -83.4430118)",Georgia
+Pickens,"(34.4497166, -84.4592701)",Georgia
+Randolph,"(31.7913398, -84.68974949999999)",Georgia
+Spalding,"(33.2636732, -84.3121264)",Georgia
+Sumter,"(31.9981596, -84.2278796)",Georgia
+Terrell,"(31.7370079, -84.4802606)",Georgia
+Tift,"(31.4205597, -83.54965659999999)",Georgia
+Turner,"(31.6976531, -83.63484299999999)",Georgia
+Worth,"(31.5282489, -83.8897057)",Georgia
+Baldwin,"(33.0338083, -83.2934086)",Georgia
+Lumpkin,"(34.5813972, -83.9744262)",Georgia
+Barrow,"(34.0142667, -83.6986568)",Georgia
+Butts,"(33.2691443, -83.9532571)",Georgia
+Chattooga,"(34.4632661, -85.31362179999999)",Georgia
+Clinch,"(30.9716985, -82.82097399999999)",Georgia
+Coffee,"(31.5182285, -82.82097399999999)",Georgia
+Tattnall,"(32.0634576, -82.08429009999999)",Georgia
+Twiggs,"(32.68356, -83.46435509999999)",Georgia
+Burke,"(33.088805, -81.9534815)",Georgia
+Catoosa,"(34.8981727, -85.14793639999999)",Georgia
+Harris,"(32.7032697, -84.8567932)",Georgia
+Liberty,"(31.842969, -81.47183869999999)",Georgia
+Madison,"(34.0990245, -83.2077645)",Georgia
+Morgan,"(33.5794186, -83.46435509999999)",Georgia
+Pierce,"(31.343806, -82.1713632)",Georgia
+Washington,"(32.962702, -82.82097399999999)",Georgia
+Baker,"(31.2816037, -84.4802606)",Georgia
+Ben Hill,"(31.7664035, -83.2077645)",Georgia
+Bryan,"(32.0236584, -81.47183869999999)",Georgia
+Camden,"(30.898276, -81.6035062)",Georgia
+Colquitt,"(31.2072856, -83.8473015)",Georgia
+Crisp,"(31.8875724, -83.804868)",Georgia
+Fannin,"(34.8580405, -84.2278796)",Georgia
+Greene,"(33.5186591, -83.1649001)",Georgia
+Irwin,"(31.5893221, -83.2934086)",Georgia
+Jasper,"(33.3246924, -83.7199136)",Georgia
+Macon,"(32.3523607, -84.05902900000001)",Georgia
+Meriwether,"(33.0561282, -84.68974949999999)",Georgia
+Mitchell,"(31.2230067, -84.1857115)",Georgia
+Pulaski,"(32.232644, -83.46435509999999)",Georgia
+Seminole,"(30.9331429, -84.8984775)",Georgia
+Stephens,"(34.5458998, -83.2934086)",Georgia
+Decatur,"(30.8720058, -84.5222189)",Georgia
+Dodge,"(32.1287268, -83.2077645)",Georgia
+Jackson,"(34.1174511, -83.54965659999999)",Georgia
+Jones,"(33.0002582, -83.5070203)",Georgia
+Long,"(31.7755541, -81.8224362)",Georgia
+Taylor,"(32.5407455, -84.2278796)",Georgia
+Thomas,"(30.8417409, -83.8473015)",Georgia
+Ware,"(31.134411, -82.4752757)",Georgia
+White,"(34.6567728, -83.7199136)",Georgia
+Wilkes,"(33.808264, -82.7778579)",Georgia
+Calhoun,"(31.5621777, -84.6479124)",Georgia
+Franklin,"(34.3645724, -83.2077645)",Georgia
+Haralson,"(33.8021715, -85.1900684)",Georgia
+McDuffie,"(33.5258626, -82.5185837)",Georgia
+Toombs,"(32.0795072, -82.34518899999999)",Georgia
+Chattahoochee,"(32.2952274, -84.8150781)",Georgia
+Habersham,"(34.6478893, -83.54965659999999)",Georgia
+Hart,"(34.3500039, -82.95015579999999)",Georgia
+Upson,"(32.9047684, -84.3121264)",Georgia
+Bulloch,"(32.3595678, -81.77870209999999)",Georgia
+Jenkins,"(32.7781246, -81.9971108)",Georgia
+Murray,"(34.7928029, -84.7315563)",Georgia
+Pike,"(33.0881873, -84.3962535)",Georgia
+Walton,"(33.7708613, -83.7199136)",Georgia
+Wheeler,"(32.0999794, -82.6915429)",Georgia
+Bacon,"(31.5412085, -82.4319405)",Georgia
+Brooks,"(30.8730159, -83.54965659999999)",Georgia
+Candler,"(32.4241804, -82.08429009999999)",Georgia
+Appling,"(31.712238, -82.25832969999999)",Georgia
+Banks,"(34.378542, -83.46435509999999)",Georgia
+Berrien,"(31.3118535, -83.2077645)",Georgia
+Bleckley,"(32.4087854, -83.3789389)",Georgia
+Clay,"(31.6447931, -85.0025539)",Georgia
+Cook,"(31.1428037, -83.46435509999999)",Georgia
+Dade,"(34.9109017, -85.47880649999999)",Georgia
+Dooly,"(32.1593447, -83.804868)",Georgia
+Gilmer,"(34.6935359, -84.4802606)",Georgia
+Jefferson,"(33.0740753, -82.4319405)",Georgia
+Johnson,"(32.7308194, -82.6915429)",Georgia
+McIntosh,"(31.4748147, -81.38393260000001)",Georgia
+Schley,"(32.2736136, -84.3121264)",Georgia
+Talbot,"(32.6891322, -84.5222189)",Georgia
+Warren,"(33.4470392, -82.6915429)",Georgia
+Emanuel,"(32.5726629, -82.3017728)",Georgia
+Grady,"(30.9050079, -84.2278796)",Georgia
+Oglethorpe,"(33.9119731, -83.03613759999999)",Georgia
+Rabun,"(34.9027286, -83.3789389)",Georgia
+Screven,"(32.7074673, -81.6035062)",Georgia
+Stewart,"(32.1141344, -84.8150781)",Georgia
+Walker,"(34.6858231, -85.35496499999999)",Georgia
+Webster,"(32.0129889, -84.56414699999999)",Georgia
+Wilcox,"(31.9611759, -83.46435509999999)",Georgia
+Wilkinson,"(32.8024682, -83.1649001)",Georgia
+Lanier,"(31.02912689999999, -83.03613759999999)",Georgia
+Putnam,"(33.3069978, -83.3789389)",Georgia
+Union,"(34.8457601, -83.9744262)",Georgia
+Telfair,"(31.8907647, -82.99316069999999)",Georgia
+Elbert,"(34.0795372, -82.8640623)",Georgia
+Marion,"(32.328102, -84.5222189)",Georgia
+Quitman,"(31.8485969, -84.981754)",Georgia
+Towns,"(34.9208214, -83.7199136)",Georgia
+Wayne,"(31.5092107, -81.909826)",Georgia
+Crawford,"(32.7090798, -83.9744262)",Georgia
+Atkinson,"(31.2932161, -82.8640623)",Georgia
+Brantley,"(31.1510963, -81.9971108)",Georgia
+Echols,"(30.7503289, -82.95015579999999)",Georgia
+Jeff Davis,"(31.8234851, -82.605118)",Georgia
+Treutlen,"(32.3870233, -82.5834947)",Georgia
+Hancock,"(33.2882621, -83.03613759999999)",Georgia
+Montgomery,"(32.1802095, -82.5185837)",Georgia
+Evans,"(32.1427011, -81.909826)",Georgia
+Taliaferro,"(33.56978780000001, -82.8855961)",Georgia
+Glascock,"(33.2422994, -82.6267345)",Georgia
+Charleston,"(32.7956561, -79.7848422)",South Carolina
+Kershaw,"(34.3671762, -80.5882803)",South Carolina
+Spartanburg,"(34.860551, -81.9534815)",South Carolina
+Lancaster,"(34.7253411, -80.6770787)",South Carolina
+Beaufort,"(32.2860396, -80.7214417)",South Carolina
+Lexington,"(33.9309651, -81.2518833)",South Carolina
+Anderson,"(34.5528328, -82.6483442)",South Carolina
+Greenville,"(34.9297484, -82.34518899999999)",South Carolina
+Horry,"(33.9196567, -78.9288242)",South Carolina
+Fairfield,"(34.4478348, -81.0754657)",South Carolina
+Calhoun,"(33.6738638, -80.7657804)",South Carolina
+Richland,"(34.0412165, -80.9428911)",South Carolina
+York,"(34.9871367, -81.2518833)",South Carolina
+Lee,"(34.1630345, -80.23213129999999)",South Carolina
+Abbeville,"(34.1891221, -82.4752757)",South Carolina
+Dorchester,"(33.1680383, -80.54384499999999)",South Carolina
+Saluda,"(34.008713, -81.73494199999999)",South Carolina
+Aiken,"(33.6005783, -81.6035062)",South Carolina
+Berkeley,"(33.1260618, -80.0087746)",South Carolina
+Clarendon,"(33.6734243, -80.1875065)",South Carolina
+Darlington,"(34.3649897, -80.0087746)",South Carolina
+Florence,"(33.9828684, -79.6502105)",South Carolina
+Orangeburg,"(33.5635155, -81.0754657)",South Carolina
+Pickens,"(34.9046217, -82.6483442)",South Carolina
+Sumter,"(33.9123048, -80.4103957)",South Carolina
+Dillon,"(34.3596012, -79.4253776)",South Carolina
+Edgefield,"(33.8015886, -81.9534815)",South Carolina
+Greenwood,"(34.1672949, -82.12783999999999)",South Carolina
+Jasper,"(32.491436, -81.0754657)",South Carolina
+Marlboro,"(34.5582435, -79.6951103)",South Carolina
+Newberry,"(34.309094, -81.6035062)",South Carolina
+Colleton,"(32.8242297, -80.7214417)",South Carolina
+Chester,"(34.6707995, -81.1196075)",South Carolina
+Georgetown,"(33.4213399, -79.29021329999999)",South Carolina
+Oconee,"(34.74924500000001, -82.99316069999999)",South Carolina
+Chesterfield,"(34.6830936, -80.1428584)",South Carolina
+Marion,"(34.0879705, -79.33528989999999)",South Carolina
+Union,"(34.6612778, -81.6035062)",South Carolina
+Williamsburg,"(33.62936060000001, -79.6502105)",South Carolina
+Laurens,"(34.5203466, -82.12783999999999)",South Carolina
+Barnwell,"(33.279925, -81.47183869999999)",South Carolina
+Bamberg,"(33.2074402, -81.0754657)",South Carolina
+Allendale,"(33.0059695, -81.38393260000001)",South Carolina
+Cherokee,"(35.0120404, -81.6035062)",South Carolina
+Hampton,"(32.8084577, -81.1196075)",South Carolina
+McCormick,"(33.8655162, -82.25832969999999)",South Carolina
+Wake,"(35.8031909, -78.5660852)",North Carolina
+Chatham,"(35.7211289, -79.17806999999999)",North Carolina
+Cabarrus,"(35.4168123, -80.5882803)",North Carolina
+Forsyth,"(36.1200003, -80.1875065)",North Carolina
+Johnston,"(35.4403514, -78.3842227)",North Carolina
+Mecklenburg,"(35.2632655, -80.8543847)",North Carolina
+Onslow,"(34.6540094, -77.4701972)",North Carolina
+Wayne,"(35.3565499, -77.973865)",North Carolina
+Brunswick,"(34.0275398, -78.2020387)",North Carolina
+Craven,"(35.0877672, -77.0564464)",North Carolina
+Harnett,"(35.35786480000001, -78.8835548)",North Carolina
+Watauga,"(36.1941825, -81.73494199999999)",North Carolina
+Wilson,"(35.6925497, -77.88245959999999)",North Carolina
+Durham,"(36.0221805, -78.9031279)",North Carolina
+Iredell,"(35.8310501, -80.89865019999999)",North Carolina
+Sampson,"(34.9197548, -78.3842227)",North Carolina
+Gaston,"(35.2895651, -81.20781640000001)",North Carolina
+Guilford,"(36.0899873, -79.8296743)",North Carolina
+Hoke,"(35.0432488, -79.24511489999999)",North Carolina
+Lincoln,"(35.4637028, -81.20781640000001)",North Carolina
+Moore,"(35.3674493, -79.4703885)",North Carolina
+New Hanover,"(34.2154913, -77.88245959999999)",North Carolina
+Carteret,"(34.9019263, -76.5488232)",North Carolina
+Davidson,"(35.7748479, -80.1875065)",North Carolina
+Franklin,"(36.0741417, -78.2426748)",North Carolina
+Orange,"(36.0263022, -79.1096901)",North Carolina
+Pasquotank,"(36.2927068, -76.317414)",North Carolina
+Pitt,"(35.5589221, -77.4242972)",North Carolina
+Rowan,"(35.6303455, -80.54384499999999)",North Carolina
+Stanly,"(35.30145540000001, -80.23213129999999)",North Carolina
+Buncombe,"(35.59313770000001, -82.4752757)",North Carolina
+Catawba,"(35.6840748, -81.2518833)",North Carolina
+Cherokee,"(35.1134803, -84.05902900000001)",North Carolina
+Cumberland,"(34.9542604, -78.74762079999999)",North Carolina
+Davie,"(35.9367033, -80.5882803)",North Carolina
+Granville,"(36.2799451, -78.6114999)",North Carolina
+Henderson,"(35.3725873, -82.4319405)",North Carolina
+Lee,"(35.4693744, -79.1548533)",North Carolina
+Nash,"(35.9597948, -77.973865)",North Carolina
+Robeson,"(34.6383858, -79.1096901)",North Carolina
+Scotland,"(34.8451203, -79.4703885)",North Carolina
+Union,"(34.9338651, -80.54384499999999)",North Carolina
+Alamance,"(36.0117388, -79.4253776)",North Carolina
+Vance,"(36.3479057, -78.4297187)",North Carolina
+Montgomery,"(35.3587922, -79.87448359999999)",North Carolina
+Randolph,"(35.7449531, -79.8296743)",North Carolina
+Transylvania,"(35.2190534, -82.7778579)",North Carolina
+Bertie,"(36.0245185, -76.964306)",North Carolina
+Burke,"(35.7616931, -81.73494199999999)",North Carolina
+Caldwell,"(35.9227448, -81.5596427)",North Carolina
+Cleveland,"(35.361354, -81.6035062)",North Carolina
+Duplin,"(34.8840095, -78.0195387)",North Carolina
+Hertford,"(36.3761772, -77.0564464)",North Carolina
+Lenoir,"(35.2326725, -77.6077865)",North Carolina
+McDowell,"(35.6984405, -82.08429009999999)",North Carolina
+Northampton,"(36.4159635, -77.4242972)",North Carolina
+Beaufort,"(35.4613504, -76.91820969999999)",North Carolina
+Greene,"(35.5013936, -77.69941969999999)",North Carolina
+Person,"(36.3528221, -78.9288242)",North Carolina
+Surry,"(36.3743453, -80.6770787)",North Carolina
+Edgecombe,"(35.8840053, -77.6536125)",North Carolina
+Perquimans,"(36.1329763, -76.4100267)",North Carolina
+Polk,"(35.2686842, -82.1713632)",North Carolina
+Alleghany,"(36.4940839, -81.1196075)",North Carolina
+Caswell,"(36.3860217, -79.29021329999999)",North Carolina
+Columbus,"(34.2548658, -78.74762079999999)",North Carolina
+Currituck,"(36.4189826, -75.94632399999999)",North Carolina
+Halifax,"(36.2646764, -77.6077865)",North Carolina
+Pamlico,"(35.1337865, -76.6874701)",North Carolina
+Washington,"(35.8120333, -76.5950555)",North Carolina
+Yadkin,"(36.2023597, -80.6770787)",North Carolina
+Alexander,"(35.8974199, -81.20781640000001)",North Carolina
+Rutherford,"(35.4258737, -81.909826)",North Carolina
+Anson,"(34.9054732, -80.1875065)",North Carolina
+Clay,"(35.0964003, -83.7199136)",North Carolina
+Martin,"(35.8733053, -77.1485163)",North Carolina
+Rockingham,"(36.4335041, -79.8296743)",North Carolina
+Wilkes,"(36.202858, -81.2518833)",North Carolina
+Dare,"(35.6549619, -75.62080879999999)",North Carolina
+Gates,"(36.4202077, -76.6874701)",North Carolina
+Macon,"(35.1197519, -83.33618799999999)",North Carolina
+Mitchell,"(36.0277763, -82.1496049)",North Carolina
+Stokes,"(36.4244396, -80.23213129999999)",North Carolina
+Bladen,"(34.5882404, -78.5660852)",North Carolina
+Chowan,"(36.1354131, -76.6181655)",North Carolina
+Haywood,"(35.624394, -82.99316069999999)",North Carolina
+Ashe,"(36.4339674, -81.47183869999999)",North Carolina
+Warren,"(36.4352131, -78.0195387)",North Carolina
+Pender,"(34.5170729, -77.8367282)",North Carolina
+Richmond,"(35.003045, -79.7848422)",North Carolina
+Jones,"(35.0306293, -77.3324425)",North Carolina
+Jackson,"(35.3265409, -83.12200740000002)",North Carolina
+Tyrrell,"(35.8925537, -76.17837390000001)",North Carolina
+Madison,"(35.8237518, -82.6915429)",North Carolina
+Camden,"(36.2600564, -76.0391909)",North Carolina
+Graham,"(35.3634623, -83.804868)",North Carolina
+Hyde,"(35.3777712, -76.17837390000001)",North Carolina
+Swain,"(35.4328955, -83.46435509999999)",North Carolina
+Yancey,"(35.888897, -82.34518899999999)",North Carolina
+Avery,"(36.1198414, -81.909826)",North Carolina
+Forrest,"(31.2148677, -89.28472510000002)",Mississippi
+Copiah,"(31.9012453, -90.37483540000001)",Mississippi
+Leflore,"(33.5274427, -90.37483540000001)",Mississippi
+Pearl River,"(30.8034081, -89.62516459999999)",Mississippi
+Hinds,"(32.2648353, -90.37483540000001)",Mississippi
+Hancock,"(30.3887582, -89.5120084)",Mississippi
+Monroe,"(33.8773585, -88.55653099999999)",Mississippi
+Harrison,"(30.432087, -89.0179332)",Mississippi
+Jackson,"(30.4278212, -88.55653099999999)",Mississippi
+Bolivar,"(33.8829962, -90.8294002)",Mississippi
+Coahoma,"(34.1960298, -90.6393702)",Mississippi
+DeSoto,"(34.9065453, -89.9626799)",Mississippi
+Madison,"(32.6729459, -90.0373201)",Mississippi
+Perry,"(31.1673115, -89.0179332)",Mississippi
+Holmes,"(33.16886600000001, -90.0746767)",Mississippi
+Jones,"(31.5343241, -89.1705998)",Mississippi
+Scott,"(32.4456315, -89.4742177)",Mississippi
+Walthall,"(31.125165, -90.11206960000001)",Mississippi
+Wilkinson,"(31.1646163, -91.28910359999999)",Mississippi
+Winston,"(33.1650338, -89.0179332)",Mississippi
+Yazoo,"(32.8078912, -90.37483540000001)",Mississippi
+Adams,"(31.5305353, -91.28910359999999)",Mississippi
+Franklin,"(31.4883928, -90.86751339999999)",Mississippi
+Humphreys,"(33.1677834, -90.52578229999999)",Mississippi
+Lafayette,"(34.4186994, -89.4742177)",Mississippi
+Lawrence,"(31.5369786, -90.0746767)",Mississippi
+Lee,"(34.2354138, -88.7108964)",Mississippi
+Marshall,"(34.7729491, -89.4742177)",Mississippi
+Pike,"(31.1704959, -90.37483540000001)",Mississippi
+Rankin,"(32.2653668, -89.9253233)",Mississippi
+Smith,"(32.0826588, -89.4742177)",Mississippi
+Tippah,"(34.76880970000001, -88.86469799999999)",Mississippi
+Attala,"(33.1683267, -89.62516459999999)",Mississippi
+Clay,"(33.65678380000001, -88.8263006)",Mississippi
+George,"(30.8431226, -88.6723578)",Mississippi
+Grenada,"(33.7516314, -89.81303559999999)",Mississippi
+Itawamba,"(34.2317882, -88.4016041)",Mississippi
+Leake,"(32.8073509, -89.4742177)",Mississippi
+Lincoln,"(31.5359248, -90.52578229999999)",Mississippi
+Lowndes,"(33.473423, -88.4403883)",Mississippi
+Panola,"(34.4198016, -89.9253233)",Mississippi
+Simpson,"(31.9017736, -89.9253233)",Mississippi
+Tunica,"(34.6407083, -90.4125181)",Mississippi
+Union,"(34.459946, -88.9796776)",Mississippi
+Washington,"(33.3001466, -90.9438468)",Mississippi
+Chickasaw,"(33.8818791, -89.0179332)",Mississippi
+Montgomery,"(33.5274427, -89.62516459999999)",Mississippi
+Oktibbeha,"(33.3886689, -88.90306)",Mississippi
+Pontotoc,"(34.2382446, -89.0179332)",Mississippi
+Sunflower,"(33.526164, -90.6773046)",Mississippi
+Tate,"(34.6413971, -89.9626799)",Mississippi
+Webster,"(33.5707456, -89.28472510000002)",Mississippi
+Lamar,"(31.1699705, -89.4742177)",Mississippi
+Marion,"(31.1708442, -89.77553379999999)",Mississippi
+Tallahatchie,"(33.9302578, -90.1869644)",Mississippi
+Choctaw,"(33.3914427, -89.28472510000002)",Mississippi
+Newton,"(32.4440058, -89.1705998)",Mississippi
+Noxubee,"(33.1605608, -88.55653099999999)",Mississippi
+Calhoun,"(33.8839218, -89.3226954)",Mississippi
+Prentiss,"(34.6324369, -88.5178518)",Mississippi
+Benton,"(34.7712669, -89.1705998)",Mississippi
+Lauderdale,"(32.4401578, -88.7108964)",Mississippi
+Quitman,"(34.2863303, -90.26200419999999)",Mississippi
+Yalobusha,"(33.9768292, -89.6759101)",Mississippi
+Jefferson,"(31.7157817, -90.9820668)",Mississippi
+Kemper,"(32.8018452, -88.7108964)",Mississippi
+Neshoba,"(32.8057157, -89.1705998)",Mississippi
+Sharkey,"(32.9860902, -90.8294002)",Mississippi
+Amite,"(31.1683803, -90.8294002)",Mississippi
+Clarke,"(32.077218, -88.7108964)",Mississippi
+Covington,"(31.6732735, -89.5874819)",Mississippi
+Carroll,"(33.5279848, -89.9253233)",Mississippi
+Claiborne,"(31.9438205, -90.9438468)",Mississippi
+Warren,"(32.3989469, -90.7913227)",Mississippi
+Alcorn,"(34.8984684, -88.59517509999999)",Mississippi
+Tishomingo,"(34.7615024, -88.24611829999999)",Mississippi
+Jasper,"(32.0810429, -89.1705998)",Mississippi
+Wayne,"(31.7130601, -88.7108964)",Mississippi
+Stone,"(30.8013069, -89.1705998)",Mississippi
+Greene,"(31.1646163, -88.7108964)",Mississippi
+Jefferson Davis,"(31.58252809999999, -89.81303559999999)",Mississippi
+Issaquena,"(32.8494351, -91.02032240000001)",Mississippi
+Elmore,"(32.5647083, -86.0121573)",Alabama
+Jefferson,"(33.4914122, -86.9824288)",Alabama
+Limestone,"(34.78000720000001, -86.9423801)",Alabama
+Montgomery,"(32.2077447, -86.17517590000001)",Alabama
+Tuscaloosa,"(33.3227653, -87.460397)",Alabama
+Baldwin,"(30.6010744, -87.77633329999999)",Alabama
+Lee,"(32.5888702, -85.39627689999999)",Alabama
+Shelby,"(33.3039292, -86.6611083)",Alabama
+Madison,"(34.72397309999999, -86.49965460000001)",Alabama
+St. Clair,"(33.6530112, -86.3376761)",Alabama
+Calhoun,"(33.7701576, -85.80766)",Alabama
+Talladega,"(33.4231716, -86.1344697)",Alabama
+Chambers,"(32.9028048, -85.35496499999999)",Alabama
+Mobile,"(30.6082227, -88.24611829999999)",Alabama
+Walker,"(33.8563605, -87.30161319999999)",Alabama
+Cullman,"(34.2011537, -86.8220341)",Alabama
+Jackson,"(34.7090388, -86.0121573)",Alabama
+Lamar,"(33.6923649, -88.0900762)",Alabama
+Lauderdale,"(34.8840876, -87.658113)",Alabama
+Washington,"(31.3422346, -88.24611829999999)",Alabama
+Marion,"(34.0441174, -87.77633329999999)",Alabama
+Franklin,"(34.3967457, -87.6186379)",Alabama
+Houston,"(31.1318686, -85.31362179999999)",Alabama
+Tallapoosa,"(32.9201244, -85.84862360000001)",Alabama
+Autauga,"(32.5791817, -86.49965460000001)",Alabama
+Morgan,"(34.4240875, -86.86218269999999)",Alabama
+Blount,"(34.0145152, -86.49965460000001)",Alabama
+Butler,"(31.6760284, -86.6611083)",Alabama
+Cherokee,"(34.1665322, -85.684578)",Alabama
+Chilton,"(32.944392, -86.6611083)",Alabama
+Clay,"(33.279527, -85.84862360000001)",Alabama
+Cleburne,"(33.6261707, -85.52002399999999)",Alabama
+Colbert,"(34.7117567, -87.89424509999999)",Alabama
+Dallas,"(32.2332138, -87.14228949999999)",Alabama
+Etowah,"(34.0455341, -86.05296039999999)",Alabama
+Lawrence,"(34.567428, -87.30161319999999)",Alabama
+Marshall,"(34.3652297, -86.3376761)",Alabama
+Pickens,"(33.3339954, -88.0900762)",Alabama
+Pike,"(31.8395163, -86.0121573)",Alabama
+Russell,"(32.3552497, -85.1894045)",Alabama
+Wilcox,"(32.0105439, -87.3413599)",Alabama
+Bullock,"(32.0573536, -85.7256372)",Alabama
+Choctaw,"(32.0716631, -88.24611829999999)",Alabama
+Coosa,"(32.8897772, -86.2196937)",Alabama
+Crenshaw,"(31.6671872, -86.3376761)",Alabama
+DeKalb,"(34.5211397, -85.684578)",Alabama
+Lowndes,"(32.221464, -86.6611083)",Alabama
+Marengo,"(32.2459085, -87.77633329999999)",Alabama
+Covington,"(31.3066438, -86.49965460000001)",Alabama
+Escambia,"(31.1394734, -87.14228949999999)",Alabama
+Greene,"(32.9718107, -87.9334803)",Alabama
+Randolph,"(33.2681523, -85.52002399999999)",Alabama
+Winston,"(34.1690087, -87.3413599)",Alabama
+Monroe,"(31.5119068, -87.460397)",Alabama
+Macon,"(32.3731182, -85.684578)",Alabama
+Bibb,"(32.9562798, -87.14228949999999)",Alabama
+Fayette,"(33.6871392, -87.77633329999999)",Alabama
+Hale,"(32.7859102, -87.6186379)",Alabama
+Sumter,"(32.6155551, -88.24611829999999)",Alabama
+Clarke,"(31.7002461, -87.77633329999999)",Alabama
+Conecuh,"(31.501571, -86.9824288)",Alabama
+Dale,"(31.4645298, -85.684578)",Alabama
+Coffee,"(31.4751172, -86.0121573)",Alabama
+Barbour,"(31.8172896, -85.35496499999999)",Alabama
+Henry,"(31.4469377, -85.1894045)",Alabama
+Perry,"(32.598888, -87.30161319999999)",Alabama
+Geneva,"(31.0990456, -85.684578)",Alabama
+Fairfax,"(38.9085472, -77.2405153)",Virginia
+Virginia Beach city,"(36.8529263, -75.97798499999999)",Virginia
+Loudoun,"(39.076767, -77.6536125)",Virginia
+Arlington,"(38.8816208, -77.09098089999999)",Virginia
+Alexandria city,"(38.8048355, -77.0469214)",Virginia
+Hanover,"(37.7772071, -77.5160788)",Virginia
+James City,"(37.3002132, -76.8028933)",Virginia
+Prince Edward,"(37.1982888, -78.4297187)",Virginia
+Prince William,"(38.7838939, -77.6077865)",Virginia
+Harrisonburg city,"(38.4495688, -78.8689155)",Virginia
+Chesterfield,"(37.3673217, -77.6077865)",Virginia
+Spotsylvania,"(38.204165, -77.6077865)",Virginia
+Stafford,"(38.4334566, -77.4242972)",Virginia
+York,"(37.2103925, -76.3868797)",Virginia
+Charlottesville city,"(38.0293059, -78.47667810000002)",Virginia
+Goochland,"(37.74159969999999, -77.973865)",Virginia
+Henrico,"(37.5059332, -77.3324425)",Virginia
+Williamsburg city,"(37.2707022, -76.7074571)",Virginia
+Charles City,"(37.4018216, -77.1485163)",Virginia
+Richmond city,"(37.5407246, -77.4360481)",Virginia
+Accomack,"(37.7063323, -75.8069082)",Virginia
+Gloucester,"(37.4128281, -76.5025742)",Virginia
+Newport News city,"(37.0870821, -76.4730122)",Virginia
+Norfolk city,"(36.8507689, -76.28587259999999)",Virginia
+Portsmouth city,"(36.8354258, -76.2982742)",Virginia
+Albemarle,"(38.0567092, -78.6114999)",Virginia
+Botetourt,"(37.5774613, -79.7848422)",Virginia
+Franklin,"(36.9458815, -79.8296743)",Virginia
+Isle of Wight,"(36.9288915, -76.6874701)",Virginia
+Mecklenburg,"(36.6421724, -78.3842227)",Virginia
+Suffolk city,"(36.7282054, -76.5835621)",Virginia
+Amherst,"(37.5588285, -79.1096901)",Virginia
+Bedford,"(37.2538794, -79.4703885)",Virginia
+Culpeper,"(38.491821, -77.973865)",Virginia
+Fluvanna,"(37.8532863, -78.24761459999999)",Virginia
+Lee,"(36.7075931, -83.03613759999999)",Virginia
+Louisa,"(37.9925909, -77.973865)",Virginia
+Rockingham,"(38.5825919, -78.8835548)",Virginia
+Danville city,"(36.5859718, -79.39502279999999)",Virginia
+Rockbridge,"(37.8062214, -79.5153773)",Virginia
+Chesapeake city,"(36.7682088, -76.2874927)",Virginia
+Halifax,"(36.6945049, -78.9288242)",Virginia
+Frederick,"(39.2096441, -78.2601024)",Virginia
+Fredericksburg city,"(38.3031837, -77.4605399)",Virginia
+Madison,"(38.436934, -78.24761459999999)",Virginia
+Manassas city,"(38.7509488, -77.47526669999999)",Virginia
+Mathews,"(37.3912302, -76.317414)",Virginia
+Nelson,"(37.7478599, -78.8835548)",Virginia
+Nottoway,"(37.1148487, -78.0195387)",Virginia
+Orange,"(38.24266739999999, -77.973865)",Virginia
+Roanoke,"(37.2467123, -80.1205256)",Virginia
+Shenandoah,"(38.8413778, -78.5660852)",Virginia
+Amelia,"(37.3212714, -77.973865)",Virginia
+Fauquier,"(38.7208787, -77.79097759999999)",Virginia
+Greene,"(38.3120359, -78.4524591)",Virginia
+Hampton city,"(37.0298687, -76.34522179999999)",Virginia
+King George,"(38.2372863, -77.1485163)",Virginia
+Lynchburg city,"(37.4137536, -79.14224639999999)",Virginia
+Northampton,"(37.226762, -75.9927652)",Virginia
+Pittsylvania,"(36.7440186, -79.4703885)",Virginia
+Poquoson city,"(37.1223664, -76.3457773)",Virginia
+Prince George,"(37.1593052, -77.2405153)",Virginia
+Radford city,"(37.13179239999999, -80.5764477)",Virginia
+Southampton,"(36.6788512, -77.10249019999999)",Virginia
+Warren,"(38.9331749, -78.24761459999999)",Virginia
+Washington,"(36.7678354, -81.9534815)",Virginia
+Bristol city,"(36.595142, -82.1887368)",Virginia
+Galax city,"(36.6612387, -80.9239671)",Virginia
+Roanoke city,"(37.2709704, -79.9414266)",Virginia
+Hopewell city,"(37.3043154, -77.28720009999999)",Virginia
+Lancaster,"(37.7475945, -76.5025742)",Virginia
+Montgomery,"(37.2070304, -80.4103957)",Virginia
+New Kent,"(37.4653757, -76.964306)",Virginia
+Northumberland,"(37.9035732, -76.4100267)",Virginia
+Powhatan,"(37.5643209, -77.88245959999999)",Virginia
+Alleghany,"(37.8531975, -80.0534923)",Virginia
+Greensville,"(36.60568860000001, -77.6077865)",Virginia
+Manassas Park city,"(38.7840035, -77.4697111)",Virginia
+Tazewell,"(37.124747, -81.5596427)",Virginia
+Winchester city,"(39.1856597, -78.1633341)",Virginia
+Wythe,"(36.9484414, -81.0848477)",Virginia
+Henry,"(36.6588867, -79.96403389999999)",Virginia
+King William,"(37.7372121, -77.1485163)",Virginia
+Petersburg city,"(37.2279279, -77.40192669999999)",Virginia
+Smyth,"(36.8687921, -81.5596427)",Virginia
+Brunswick,"(36.7570589, -77.8367282)",Virginia
+Buckingham,"(37.50700800000001, -78.5660852)",Virginia
+Campbell,"(37.221014, -79.1096901)",Virginia
+Carroll,"(36.6778699, -80.7214417)",Virginia
+Clarke,"(39.15165830000001, -77.973865)",Virginia
+Franklin city,"(36.6776507, -76.9224608)",Virginia
+King and Queen,"(37.7298568, -76.8951551)",Virginia
+Page,"(38.63013309999999, -78.52065)",Virginia
+Surry,"(37.1185515, -76.8720961)",Virginia
+Waynesboro city,"(38.0684692, -78.8894682)",Virginia
+Augusta,"(38.2004562, -79.24511489999999)",Virginia
+Sussex,"(36.9058167, -77.2405153)",Virginia
+Cumberland,"(37.5175385, -78.24761459999999)",Virginia
+Salem city,"(37.2934681, -80.05476259999999)",Virginia
+Buena Vista city,"(37.7343004, -79.35392379999999)",Virginia
+Caroline,"(38.0445557, -77.2864879)",Virginia
+Emporia city,"(36.6859829, -77.5424809)",Virginia
+Lexington city,"(37.78402080000001, -79.4428157)",Virginia
+Pulaski,"(37.0583986, -80.6770787)",Virginia
+Richmond,"(37.9175609, -76.7105632)",Virginia
+Westmoreland,"(38.112732, -76.7798172)",Virginia
+Wise,"(37.0240877, -82.605118)",Virginia
+Charlotte,"(37.0467412, -78.6114999)",Virginia
+Staunton city,"(38.149576, -79.0716958)",Virginia
+Appomattox,"(37.402489, -78.792953)",Virginia
+Giles,"(37.3132885, -80.6770787)",Virginia
+Russell,"(36.9904385, -82.08429009999999)",Virginia
+Buchanan,"(37.2403134, -81.9971108)",Virginia
+Craig,"(37.44658950000001, -80.23213129999999)",Virginia
+Dinwiddie,"(37.0769043, -77.6536125)",Virginia
+Lunenburg,"(36.92614349999999, -78.24761459999999)",Virginia
+Rappahannock,"(38.6762327, -78.1564432)",Virginia
+Floyd,"(36.9446308, -80.32131059999999)",Virginia
+Middlesex,"(37.6040106, -76.5257007)",Virginia
+Colonial Heights city,"(37.244039, -77.4102607)",Virginia
+Fairfax city,"(38.84622359999999, -77.30637329999999)",Virginia
+Scott,"(36.6815794, -82.605118)",Virginia
+Falls Church city,"(38.88233400000001, -77.1710914)",Virginia
+Essex,"(37.9671684, -76.964306)",Virginia
+Norton city,"(36.933433, -82.6290459)",Virginia
+Patrick,"(36.6886252, -80.32131059999999)",Virginia
+Highland,"(38.3999743, -79.60528839999999)",Virginia
+Grayson,"(36.6721195, -81.20781640000001)",Virginia
+Covington city,"(37.7934585, -79.99394629999999)",Virginia
+Dickenson,"(37.0929465, -82.34518899999999)",Virginia
+Bland,"(37.0924986, -81.1196075)",Virginia
+Bath,"(38.111733, -79.6502105)",Virginia
+Martinsville city,"(36.6915262, -79.8725386)",Virginia
+Williamson,"(35.9179271, -86.86218269999999)",Tennessee
+Davidson,"(36.1342563, -86.8220341)",Tennessee
+Shelby,"(35.1268552, -89.9253233)",Tennessee
+Sullivan,"(36.4933147, -82.34518899999999)",Tennessee
+Knox,"(35.9874629, -83.9419784)",Tennessee
+Hamilton,"(35.1618966, -85.14793639999999)",Tennessee
+Jefferson,"(36.0417825, -83.46435509999999)",Tennessee
+Rutherford,"(35.7724263, -86.3376761)",Tennessee
+Campbell,"(36.3817326, -84.1857115)",Tennessee
+Sevier,"(35.8271682, -83.5070203)",Tennessee
+Cheatham,"(36.184749, -87.10237459999999)",Tennessee
+Robertson,"(36.5250666, -86.86218269999999)",Tennessee
+Sumner,"(36.4718084, -86.49965460000001)",Tennessee
+Cumberland,"(35.8994729, -85.02334599999999)",Tennessee
+Dyer,"(36.0445248, -89.436391)",Tennessee
+Montgomery,"(36.4960406, -87.460397)",Tennessee
+Washington,"(36.3321016, -82.5185837)",Tennessee
+Wilson,"(36.1626241, -86.2970998)",Tennessee
+Anderson,"(36.0809574, -84.2278796)",Tennessee
+Blount,"(35.6710541, -83.8473015)",Tennessee
+Bradley,"(35.1937778, -84.8567932)",Tennessee
+Dickson,"(36.1459799, -87.30161319999999)",Tennessee
+Greene,"(36.1347943, -82.82097399999999)",Tennessee
+Hamblen,"(36.2054334, -83.2934086)",Tennessee
+Maury,"(35.6195242, -87.14228949999999)",Tennessee
+Tipton,"(35.5217179, -89.7379958)",Tennessee
+Carroll,"(35.9917193, -88.4016041)",Tennessee
+Cocke,"(35.9359517, -83.12200740000002)",Tennessee
+Fayette,"(35.1257427, -89.4742177)",Tennessee
+Monroe,"(35.471793, -84.2278796)",Tennessee
+Putnam,"(36.134602, -85.47880649999999)",Tennessee
+Roane,"(35.836117, -84.56414699999999)",Tennessee
+Scott,"(36.3976209, -84.5222189)",Tennessee
+Chester,"(35.4270939, -88.6723578)",Tennessee
+Franklin,"(35.1946865, -86.05296039999999)",Tennessee
+Gibson,"(35.9969735, -88.86469799999999)",Tennessee
+Houston,"(36.283619, -87.658113)",Tennessee
+Loudon,"(35.7374411, -84.3121264)",Tennessee
+Marion,"(35.0928512, -85.64348700000001)",Tennessee
+McMinn,"(35.4037048, -84.6479124)",Tennessee
+Perry,"(35.6786596, -87.89424509999999)",Tennessee
+Claiborne,"(36.4830423, -83.63484299999999)",Tennessee
+DeKalb,"(35.9728357, -85.80766)",Tennessee
+Grundy,"(35.4013452, -85.684578)",Tennessee
+Hardin,"(35.1142443, -88.24611829999999)",Tennessee
+Lincoln,"(35.1239397, -86.6207943)",Tennessee
+Madison,"(35.6479574, -88.86469799999999)",Tennessee
+Overton,"(36.3880346, -85.31362179999999)",Tennessee
+Bedford,"(35.4702472, -86.4592091)",Tennessee
+Hawkins,"(36.4445545, -82.95015579999999)",Tennessee
+Lewis,"(35.4962054, -87.5000082)",Tennessee
+White,"(35.9189882, -85.52002399999999)",Tennessee
+Benton,"(36.1170244, -88.050979)",Tennessee
+Cannon,"(35.8070317, -86.05296039999999)",Tennessee
+Macon,"(36.4983882, -85.971322)",Tennessee
+Meigs,"(35.519359, -84.79420909999999)",Tennessee
+Unicoi,"(36.073032, -82.5185837)",Tennessee
+Smith,"(36.2388468, -85.971322)",Tennessee
+Bledsoe,"(35.6028856, -85.2308414)",Tennessee
+Carter,"(36.2638604, -82.12783999999999)",Tennessee
+Hardeman,"(35.1229172, -89.0179332)",Tennessee
+Johnson,"(36.4585672, -81.8224362)",Tennessee
+Morgan,"(36.1004285, -84.6479124)",Tennessee
+Trousdale,"(36.396385, -86.15482689999999)",Tennessee
+Union,"(36.3194272, -83.804868)",Tennessee
+Weakley,"(36.3428865, -88.7108964)",Tennessee
+Coffee,"(35.4576849, -86.05296039999999)",Tennessee
+Haywood,"(35.593858, -89.2621216)",Tennessee
+Henry,"(36.3369938, -88.24611829999999)",Tennessee
+McNairy,"(35.1183208, -88.55653099999999)",Tennessee
+Obion,"(36.3469439, -89.1705998)",Tennessee
+Fentress,"(36.37106, -84.8984775)",Tennessee
+Giles,"(35.0894745, -86.9824288)",Tennessee
+Lawrence,"(35.2761735, -87.460397)",Tennessee
+Marshall,"(35.4792517, -86.7818523)",Tennessee
+Warren,"(35.7115652, -85.80766)",Tennessee
+Wayne,"(35.282369, -87.77633329999999)",Tennessee
+Humphreys,"(36.0245773, -87.7369607)",Tennessee
+Clay,"(36.5701766, -85.56121)",Tennessee
+Grainger,"(36.3059333, -83.54965659999999)",Tennessee
+Hickman,"(35.80127969999999, -87.460397)",Tennessee
+Lauderdale,"(35.7838834, -89.6628111)",Tennessee
+Sequatchie,"(35.3469428, -85.39627689999999)",Tennessee
+Jackson,"(36.4004931, -85.64348700000001)",Tennessee
+Polk,"(35.1371578, -84.56414699999999)",Tennessee
+Stewart,"(36.5023236, -87.77633329999999)",Tennessee
+Henderson,"(35.6427245, -88.4016041)",Tennessee
+Decatur,"(35.595087, -88.1291387)",Tennessee
+Lake,"(36.3270676, -89.49311759999999)",Tennessee
+Van Buren,"(35.6996916, -85.47880649999999)",Tennessee
+Moore,"(35.2700506, -86.357952)",Tennessee
+Rhea,"(35.5927914, -84.981754)",Tennessee
+Crockett,"(35.7812386, -89.1324866)",Tennessee
+Pickett,"(36.5541091, -85.14793639999999)",Tennessee
+Hancock,"(36.5456022, -83.2077645)",Tennessee
+Jefferson,"(29.6498691, -90.11206960000001)",Louisiana
+Orleans,"(30.1126874, -89.8879304)",Louisiana
+Caddo,"(32.6136798, -93.86553029999999)",Louisiana
+St. Charles,"(29.9273657, -90.3371889)",Louisiana
+St. Tammany,"(30.4357418, -89.9253233)",Louisiana
+Terrebonne,"(29.2299682, -90.7532809)",Louisiana
+Bossier,"(32.7551322, -93.66232389999999)",Louisiana
+Lafourche,"(29.6952295, -90.52578229999999)",Louisiana
+St. John the Baptist,"(30.1118331, -90.4879916)",Louisiana
+St. Bernard,"(29.879791, -89.3226954)",Louisiana
+Ascension,"(30.2017295, -90.9438468)",Louisiana
+East Baton Rouge,"(30.5693593, -91.09693999999999)",Louisiana
+Washington,"(30.80392599999999, -90.0746767)",Louisiana
+Assumption,"(29.9232544, -91.09693999999999)",Louisiana
+Calcasieu,"(30.2089286, -93.33889169999999)",Louisiana
+Iberia,"(29.4992629, -91.7538817)",Louisiana
+Iberville,"(30.2899179, -91.4048249)",Louisiana
+Lafayette,"(30.1895142, -92.02731899999999)",Louisiana
+Livingston,"(30.4340146, -90.6773046)",Louisiana
+Plaquemines,"(29.3240045, -89.4742177)",Louisiana
+St. James,"(30.0179292, -90.7913227)",Louisiana
+St. Landry,"(30.6036535, -92.0665197)",Louisiana
+Webster,"(32.7641355, -93.33889169999999)",Louisiana
+West Baton Rouge,"(30.4751202, -91.3276422)",Louisiana
+Catahoula,"(31.7053083, -91.9099238)",Louisiana
+De Soto,"(32.0310567, -93.66232389999999)",Louisiana
+Rapides,"(31.1461104, -92.539603)",Louisiana
+Tangipahoa,"(30.8760151, -90.5120391)",Louisiana
+Avoyelles,"(30.9711824, -92.0665197)",Louisiana
+Beauregard,"(30.7611484, -93.33889169999999)",Louisiana
+Bienville,"(32.4107403, -93.0175712)",Louisiana
+Claiborne,"(32.7722557, -93.0175712)",Louisiana
+Evangeline,"(30.7821781, -92.38136209999999)",Louisiana
+Ouachita,"(32.4271852, -92.2236667)",Louisiana
+St. Mary,"(29.502976, -91.44346900000001)",Louisiana
+Acadia,"(30.2297347, -92.38136209999999)",Louisiana
+Allen,"(30.5887484, -92.8577105)",Louisiana
+Grant,"(31.6943716, -92.539603)",Louisiana
+Lincoln,"(32.598888, -92.6983868)",Louisiana
+Natchitoches,"(31.7607195, -93.08627489999999)",Louisiana
+Richland,"(32.3887281, -91.7928402)",Louisiana
+St. Martin,"(30.2395901, -91.7538817)",Louisiana
+Vernon,"(31.1320009, -93.17796589999999)",Louisiana
+Jackson,"(32.2399791, -92.539603)",Louisiana
+Jefferson Davis,"(30.2672346, -92.8178291)",Louisiana
+Morehouse,"(32.796224, -91.7538817)",Louisiana
+Union,"(32.7859102, -92.38136209999999)",Louisiana
+Winn,"(31.91961239999999, -92.6586401)",Louisiana
+East Feliciana,"(30.8458948, -91.02032240000001)",Louisiana
+LaSalle,"(31.7002461, -92.2236667)",Louisiana
+Madison,"(32.4401578, -91.28910359999999)",Louisiana
+Pointe Coupee,"(30.6102166, -91.5983959)",Louisiana
+Vermilion,"(29.8601413, -92.38136209999999)",Louisiana
+West Feliciana,"(30.8423123, -91.4048249)",Louisiana
+East Carroll,"(32.7570923, -91.2506002)",Louisiana
+Franklin,"(32.0737103, -91.5983959)",Louisiana
+Red River,"(32.0842949, -93.3792057)",Louisiana
+Sabine,"(31.4893252, -93.5003454)",Louisiana
+Concordia,"(31.4808983, -91.63721500000001)",Louisiana
+St. Helena,"(30.8021866, -90.6773046)",Louisiana
+Caldwell,"(32.0669717, -92.0665197)",Louisiana
+West Carroll,"(32.7545792, -91.4821482)",Louisiana
+Cameron,"(29.8434436, -93.17796589999999)",Louisiana
+Tensas,"(32.077218, -91.28910359999999)",Louisiana
+Bristol,"(41.7257893, -71.3111773)",Rhode Island
+Kent,"(41.6579147, -71.7147951)",Rhode Island
+Newport,"(41.5016969, -71.2399037)",Rhode Island
+Providence,"(41.8881582, -71.4774291)",Rhode Island
+Washington,"(41.45681130000001, -71.6673352)",Rhode Island
+Androscoggin,"(44.19124160000001, -70.17070369999999)",Maine
+Cumberland,"(43.81329789999999, -70.3870587)",Maine
+Lincoln,"(44.108282, -69.511031)",Maine
+Kennebec,"(44.4499153, -69.7038278)",Maine
+Oxford,"(44.4906897, -70.7840564)",Maine
+York,"(43.4132697, -70.6702521)",Maine
+Penobscot,"(45.3230777, -68.5806727)",Maine
+Sagadahoc,"(43.8171265, -69.7825531)",Maine
+Knox,"(43.9969995, -68.9242652)",Maine
+Waldo,"(44.5106837, -69.20778960000001)",Maine
+Franklin,"(45.0386059, -70.3979538)",Maine
+Somerset,"(45.5913402, -69.9999212)",Maine
+Hancock,"(44.5770308, -68.3566919)",Maine
+Aroostook,"(46.819941, -68.4766064)",Maine
+Washington,"(44.98493149999999, -67.6776835)",Maine
+Piscataquis,"(45.70498569999999, -69.3375071)",Maine
+Delaware,"(39.907793, -75.3878525)",Pennsylvania
+Wayne,"(41.67388649999999, -75.2479061)",Pennsylvania
+Montgomery,"(40.2290075, -75.3878525)",Pennsylvania
+Monroe,"(41.0458376, -75.2479061)",Pennsylvania
+Philadelphia,"(40.0152766, -75.1311874)",Pennsylvania
+Bucks,"(40.4107964, -75.2479061)",Pennsylvania
+Northampton,"(40.7749283, -75.294569)",Pennsylvania
+Pike,"(41.3361875, -75.06111469999999)",Pennsylvania
+Chester,"(40.0010204, -75.8069082)",Pennsylvania
+Cumberland,"(40.1299841, -77.2405153)",Pennsylvania
+Washington,"(40.1367719, -80.1875065)",Pennsylvania
+Allegheny,"(40.4450813, -80.0087746)",Pennsylvania
+Lehigh,"(40.6519679, -75.5742467)",Pennsylvania
+Luzerne,"(41.1404353, -75.9927652)",Pennsylvania
+Beaver,"(40.6367812, -80.365865)",Pennsylvania
+Adams,"(39.8522417, -77.2864879)",Pennsylvania
+Berks,"(40.3451566, -75.9927652)",Pennsylvania
+Lackawanna,"(41.4421199, -75.5742467)",Pennsylvania
+York,"(39.9512496, -76.7336521)",Pennsylvania
+Lancaster,"(40.0466571, -76.17837390000001)",Pennsylvania
+Lebanon,"(40.3666686, -76.5025742)",Pennsylvania
+Westmoreland,"(40.2353963, -79.4703885)",Pennsylvania
+Centre,"(40.8765649, -77.8367282)",Pennsylvania
+Erie,"(42.0521954, -80.1875065)",Pennsylvania
+Franklin,"(39.8923855, -77.6536125)",Pennsylvania
+Potter,"(41.6682559, -77.8367282)",Pennsylvania
+Butler,"(40.9115243, -79.8296743)",Pennsylvania
+Montour,"(41.02623029999999, -76.6874701)",Pennsylvania
+Columbia,"(41.0274439, -76.3637285)",Pennsylvania
+Dauphin,"(40.2734277, -76.7336521)",Pennsylvania
+Fayette,"(39.9272324, -79.6502105)",Pennsylvania
+Mercer,"(41.2619821, -80.1875065)",Pennsylvania
+Schuylkill,"(40.6873058, -76.17837390000001)",Pennsylvania
+Cambria,"(40.4894231, -78.74762079999999)",Pennsylvania
+Armstrong,"(40.8790518, -79.4703885)",Pennsylvania
+Bradford,"(41.83625019999999, -76.5488232)",Pennsylvania
+Carbon,"(40.901975, -75.667356)",Pennsylvania
+Clearfield,"(40.9519685, -78.5660852)",Pennsylvania
+Juniata,"(40.5521642, -77.4242972)",Pennsylvania
+Somerset,"(40.022493, -78.9288242)",Pennsylvania
+Greene,"(39.8113005, -80.1875065)",Pennsylvania
+Lawrence,"(40.957855, -80.365865)",Pennsylvania
+Lycoming,"(41.2720004, -77.10249019999999)",Pennsylvania
+Warren,"(41.8143331, -79.29021329999999)",Pennsylvania
+Blair,"(40.4531318, -78.3842227)",Pennsylvania
+Crawford,"(41.6661391, -80.2767327)",Pennsylvania
+Indiana,"(40.6850762, -79.1096901)",Pennsylvania
+Susquehanna,"(41.745553, -75.8069082)",Pennsylvania
+Northumberland,"(40.86743389999999, -76.6874701)",Pennsylvania
+Cameron,"(41.4261564, -78.1564432)",Pennsylvania
+Clarion,"(41.1982095, -79.4703885)",Pennsylvania
+Huntingdon,"(40.4155273, -78.0195387)",Pennsylvania
+McKean,"(41.8133351, -78.4751945)",Pennsylvania
+Perry,"(40.371376, -77.2405153)",Pennsylvania
+Snyder,"(40.750748, -77.0564464)",Pennsylvania
+Tioga,"(41.76494659999999, -77.2864879)",Pennsylvania
+Mifflin,"(40.652279, -77.6077865)",Pennsylvania
+Venango,"(41.3896611, -79.8296743)",Pennsylvania
+Union,"(40.9894888, -77.0564464)",Pennsylvania
+Bedford,"(39.98695499999999, -78.5660852)",Pennsylvania
+Forest,"(41.53410119999999, -79.24511489999999)",Pennsylvania
+Clinton,"(41.3331937, -77.6536125)",Pennsylvania
+Sullivan,"(41.4781004, -76.5025742)",Pennsylvania
+Wyoming,"(41.5004703, -76.0391909)",Pennsylvania
+Fulton,"(39.9048759, -78.1564432)",Pennsylvania
+Elk,"(41.4284924, -78.5660852)",Pennsylvania
+Jefferson,"(41.147013, -78.9288242)",Pennsylvania
+New York City,"(40.7127753, -74.0059728)",New York
+Westchester,"(41.1220194, -73.7948516)",New York
+Nassau,"(40.6546145, -73.55941279999999)",New York
+Rockland,"(41.1489458, -73.98300290000002)",New York
+Saratoga,"(43.0324245, -73.93598209999999)",New York
+Suffolk,"(40.9848784, -72.61511689999999)",New York
+Ulster,"(41.8586493, -74.3118212)",New York
+Monroe,"(43.2841246, -77.7452081)",New York
+Albany,"(42.57567969999999, -73.93598209999999)",New York
+Delaware,"(42.2452081, -74.8741045)",New York
+Dutchess,"(41.7784372, -73.7477857)",New York
+Herkimer,"(43.1630587, -74.8741045)",New York
+Orange,"(41.3911653, -74.3118212)",New York
+Schenectady,"(42.8493445, -73.98300290000002)",New York
+Broome,"(42.1791865, -75.8533954)",New York
+Tioga,"(42.1256317, -76.3637285)",New York
+Tompkins,"(42.4575747, -76.5488232)",New York
+Erie,"(42.9023958, -78.8661589)",New York
+Greene,"(42.2957321, -74.12399599999999)",New York
+Montgomery,"(42.915521, -74.4525627)",New York
+Putnam,"(41.4351069, -73.7948516)",New York
+Allegany,"(42.3129816, -78.0195387)",New York
+Onondaga,"(43.026819, -76.17837390000001)",New York
+Ontario,"(42.85098379999999, -77.2864879)",New York
+Clinton,"(44.7904203, -73.6005824)",New York
+Rensselaer,"(42.673664, -73.55941279999999)",New York
+Sullivan,"(41.6897493, -74.7805192)",New York
+Wyoming,"(42.64205200000001, -78.2020387)",New York
+Chenango,"(42.4972314, -75.62080879999999)",New York
+Essex,"(44.0107408, -73.9507728)",New York
+Hamilton,"(43.4764406, -74.4056612)",New York
+Jefferson,"(44.0607421, -75.9927652)",New York
+Livingston,"(42.7576923, -77.8367282)",New York
+Warren,"(43.6078891, -73.7477857)",New York
+Washington,"(43.2519472, -73.37086959999999)",New York
+Schoharie,"(42.65503349999999, -74.4994517)",New York
+Wayne,"(43.2020024, -77.010385)",New York
+Columbia,"(42.3678759, -73.55941279999999)",New York
+Fulton,"(43.1118737, -74.4994517)",New York
+Genesee,"(42.9837843, -78.1564432)",New York
+Niagara,"(43.3119496, -78.74762079999999)",New York
+Oneida,"(43.2371798, -75.4344727)",New York
+Steuben,"(42.321027, -77.3783789)",New York
+Cortland,"(42.5440918, -75.9927652)",New York
+Madison,"(42.98059749999999, -75.8069082)",New York
+St. Lawrence,"(44.4473142, -74.930206)",New York
+Cayuga,"(42.7655231, -76.5488232)",New York
+Oswego,"(43.482533, -76.17837390000001)",New York
+Otsego,"(42.5779779, -75.06111469999999)",New York
+Chemung,"(42.1362071, -76.7798172)",New York
+Orleans,"(43.4088624, -78.2020387)",New York
+Chautauqua,"(42.2312829, -79.560344)",New York
+Franklin,"(44.5926135, -74.3387798)",New York
+Cattaraugus,"(42.2318132, -78.74762079999999)",New York
+Schuyler,"(42.3796425, -76.8720961)",New York
+Lewis,"(43.840112, -75.4344727)",New York
+Seneca,"(42.7651891, -76.8720961)",New York
+Yates,"(42.64308459999999, -77.1485163)",New York
+Fairfield,"(41.2559654, -73.37086959999999)",Connecticut
+Litchfield,"(41.7866294, -73.2765361)",Connecticut
+Hartford,"(41.7924343, -72.8042797)",Connecticut
+New Haven,"(41.3266911, -72.8042797)",Connecticut
+Middlesex,"(41.46985050000001, -72.4731529)",Connecticut
+Tolland,"(41.8418987, -72.37846789999999)",Connecticut
+Windham,"(41.8275622, -72.0468164)",Connecticut
+New London,"(41.5185189, -72.0468164)",Connecticut
+Montgomery,"(39.1547426, -77.2405153)",Maryland
+Harford,"(39.5838964, -76.3637285)",Maryland
+Prince George's,"(38.78492110000001, -76.8720961)",Maryland
+Baltimore,"(39.4647665, -76.7336521)",Maryland
+Anne Arundel,"(38.9530109, -76.5488232)",Maryland
+Charles,"(38.5221781, -77.10249019999999)",Maryland
+Carroll,"(39.5423418, -77.0564464)",Maryland
+Baltimore city,"(39.2903848, -76.6121893)",Maryland
+Howard,"(39.2873463, -76.964306)",Maryland
+Frederick,"(39.3844507, -77.4701972)",Maryland
+Talbot,"(38.7803973, -76.1319953)",Maryland
+Calvert,"(38.49495030000001, -76.5025742)",Maryland
+Wicomico,"(38.3941813, -75.667356)",Maryland
+Worcester,"(38.1584227, -75.4344727)",Maryland
+Caroline,"(38.9105018, -75.8533954)",Maryland
+Somerset,"(38.0862333, -75.8533954)",Maryland
+Washington,"(39.641762, -77.719993)",Maryland
+Cecil,"(39.5739403, -75.94632399999999)",Maryland
+St. Mary's,"(38.1060259, -76.3637285)",Maryland
+Garrett,"(39.5681243, -79.29021329999999)",Maryland
+Queen Anne's,"(39.0263572, -76.1319953)",Maryland
+Kent,"(39.2713804, -76.1319953)",Maryland
+Dorchester,"(38.4152819, -76.17837390000001)",Maryland
+Allegany,"(39.6255251, -78.6114999)",Maryland
+Grafton,"(43.9087929, -71.825994)",New Hampshire
+Rockingham,"(42.9931261, -71.0497768)",New Hampshire
+Hillsborough,"(42.83347939999999, -71.6673352)",New Hampshire
+Carroll,"(43.8128209, -71.25060669999999)",New Hampshire
+Belknap,"(43.5024246, -71.4073938)",New Hampshire
+Merrimack,"(43.2844846, -71.6673352)",New Hampshire
+Cheshire,"(42.9259375, -72.236379)",New Hampshire
+Strafford,"(43.238329, -71.0236044)",New Hampshire
+Sullivan,"(43.3770392, -72.236379)",New Hampshire
+Coos,"(44.7288907, -71.27872669999999)",New Hampshire
+Jefferson,"(34.227351, -91.9099238)",Arkansas
+Pulaski,"(34.75386150000001, -92.2236667)",Arkansas
+Garland,"(34.5559285, -93.17796589999999)",Arkansas
+Saline,"(34.5708215, -92.539603)",Arkansas
+Cleburne,"(35.4605769, -92.0665197)",Arkansas
+Cleveland,"(33.86580070000001, -92.2236667)",Arkansas
+Desha,"(33.8773585, -91.44346900000001)",Arkansas
+Lincoln,"(33.9185116, -91.714958)",Arkansas
+Bradley,"(33.5081368, -92.2236667)",Arkansas
+Faulkner,"(35.1035858, -92.38136209999999)",Arkansas
+Washington,"(35.9307703, -94.15137639999999)",Arkansas
+Benton,"(36.2661518, -94.479976)",Arkansas
+Boone,"(36.3118662, -93.0175712)",Arkansas
+Clark,"(34.0232374, -93.17796589999999)",Arkansas
+Craighead,"(35.8260959, -90.6773046)",Arkansas
+Crittenden,"(35.3021443, -90.37483540000001)",Arkansas
+Grant,"(34.2628015, -92.4208713)",Arkansas
+Greene,"(36.1314931, -90.563609)",Arkansas
+Independence,"(35.8174139, -91.5983959)",Arkansas
+Poinsett,"(35.6078586, -90.6393702)",Arkansas
+Polk,"(34.5268097, -94.15137639999999)",Arkansas
+Pope,"(35.440627, -93.0175712)",Arkansas
+Searcy,"(35.9721, -92.6983868)",Arkansas
+Sebastian,"(35.2260397, -94.315422)",Arkansas
+Sevier,"(34.0346222, -94.27436279999999)",Arkansas
+Van Buren,"(35.6266232, -92.539603)",Arkansas
+Columbia,"(33.1285176, -93.17796589999999)",Arkansas
+Conway,"(35.2727492, -92.6983868)",Arkansas
+Crawford,"(35.5762761, -94.315422)",Arkansas
+Cross,"(35.2998913, -90.8294002)",Arkansas
+Hot Spring,"(34.3393795, -92.97755579999999)",Arkansas
+Lawrence,"(35.9969735, -91.13530200000001)",Arkansas
+Pike,"(34.1876975, -93.66232389999999)",Arkansas
+Stone,"(35.8075142, -92.2236667)",Arkansas
+Union,"(33.1431092, -92.539603)",Arkansas
+White,"(35.2900612, -91.7538817)",Arkansas
+Woodruff,"(35.1215846, -91.13530200000001)",Arkansas
+Drew,"(33.5156463, -91.7538817)",Arkansas
+Chicot,"(33.3419551, -91.28910359999999)",Arkansas
+Howard,"(34.1318213, -94.028678)",Arkansas
+Lonoke,"(34.7591647, -91.9099238)",Arkansas
+Randolph,"(36.3457918, -90.9820668)",Arkansas
+Baxter,"(36.3261815, -92.38136209999999)",Arkansas
+Johnson,"(35.6026275, -93.5003454)",Arkansas
+Arkansas,"(34.2354138, -91.28910359999999)",Arkansas
+Ashley,"(33.1565939, -91.7538817)",Arkansas
+Hempstead,"(33.6530112, -93.66232389999999)",Arkansas
+Nevada,"(33.6621386, -93.33889169999999)",Arkansas
+Perry,"(34.96032, -92.8976254)",Arkansas
+Newton,"(35.9603994, -93.17796589999999)",Arkansas
+St. Francis,"(34.9926533, -90.7152749)",Arkansas
+Miller,"(33.3335556, -93.86553029999999)",Arkansas
+Scott,"(34.8854732, -93.9878427)",Arkansas
+Carroll,"(36.2987495, -93.5003454)",Arkansas
+Lee,"(34.7712669, -90.8294002)",Arkansas
+Mississippi,"(35.8279728, -90.0746767)",Arkansas
+Monroe,"(34.5918747, -91.13530200000001)",Arkansas
+Ouachita,"(33.5828512, -92.9375739)",Arkansas
+Sharp,"(36.16759740000001, -91.44346900000001)",Arkansas
+Lafayette,"(33.2511695, -93.62178019999999)",Arkansas
+Prairie,"(34.7636336, -91.5983959)",Arkansas
+Dallas,"(34.0346533, -92.6983868)",Arkansas
+Phillips,"(34.4611206, -90.86751339999999)",Arkansas
+Yell,"(35.0810824, -93.33889169999999)",Arkansas
+Clay,"(36.3492244, -90.37483540000001)",Arkansas
+Franklin,"(35.5927966, -93.8248241)",Arkansas
+Izard,"(36.1610924, -91.9099238)",Arkansas
+Logan,"(35.2475011, -93.66232389999999)",Arkansas
+Madison,"(35.9466415, -93.66232389999999)",Arkansas
+Marion,"(36.3194702, -92.6983868)",Arkansas
+Jackson,"(35.6479574, -91.13530200000001)",Arkansas
+Fulton,"(36.3797374, -91.7928402)",Arkansas
+Montgomery,"(34.5424074, -93.66232389999999)",Arkansas
+Little River,"(33.6808926, -94.19234000000002)",Arkansas
+Calhoun,"(33.5020885, -92.539603)",Arkansas
+Fayette,"(38.06064780000001, -84.4802606)",Kentucky
+Harrison,"(38.4333045, -84.3542049)",Kentucky
+Jefferson,"(38.1938097, -85.64348700000001)",Kentucky
+Montgomery,"(38.0314578, -83.8897057)",Kentucky
+Bourbon,"(38.2170752, -84.2278796)",Kentucky
+Nelson,"(37.7647455, -85.47880649999999)",Kentucky
+Clark,"(37.959945, -84.14351359999999)",Kentucky
+Lyon,"(37.0247261, -88.0900762)",Kentucky
+Franklin,"(38.2481018, -84.8984775)",Kentucky
+Kenton,"(38.9863872, -84.56414699999999)",Kentucky
+Warren,"(36.9886043, -86.49965460000001)",Kentucky
+Christian,"(36.8410586, -87.460397)",Kentucky
+Daviess,"(37.7307984, -87.10237459999999)",Kentucky
+Henderson,"(37.7415161, -87.5791287)",Kentucky
+Pulaski,"(37.0853508, -84.5222189)",Kentucky
+Scott,"(38.3172361, -84.56414699999999)",Kentucky
+Calloway,"(36.6402766, -88.28504199999999)",Kentucky
+Anderson,"(37.998648, -84.981754)",Kentucky
+Madison,"(37.7143001, -84.3121264)",Kentucky
+Spencer,"(38.0123167, -85.31362179999999)",Kentucky
+Allen,"(36.7650471, -86.21584969999999)",Kentucky
+Breathitt,"(37.5359616, -83.33618799999999)",Kentucky
+Hardin,"(37.6565708, -86.0121573)",Kentucky
+Jessamine,"(37.895573, -84.56414699999999)",Kentucky
+Oldham,"(38.3560025, -85.47880649999999)",Kentucky
+Logan,"(36.869834, -86.86218269999999)",Kentucky
+Martin,"(37.7833756, -82.5185837)",Kentucky
+McCracken,"(37.03306070000001, -88.7108964)",Kentucky
+Menifee,"(37.9335368, -83.63484299999999)",Kentucky
+Muhlenberg,"(37.17725009999999, -87.14228949999999)",Kentucky
+Simpson,"(36.7772014, -86.6207943)",Kentucky
+Grayson,"(37.4554962, -86.3782198)",Kentucky
+Laurel,"(37.0693489, -84.1857115)",Kentucky
+McCreary,"(36.6973499, -84.4802606)",Kentucky
+Wayne,"(36.7571907, -84.8567932)",Kentucky
+Boone,"(38.9940572, -84.7315563)",Kentucky
+Hopkins,"(37.3153093, -87.5791287)",Kentucky
+Mason,"(38.6194103, -83.8897057)",Kentucky
+Mercer,"(37.8258603, -84.8984775)",Kentucky
+Union,"(37.6638744, -87.97268100000001)",Kentucky
+Webster,"(37.4892188, -87.7369607)",Kentucky
+Bullitt,"(37.9842107, -85.684578)",Kentucky
+Campbell,"(38.8951891, -84.3962535)",Kentucky
+Larue,"(37.5189552, -85.7256372)",Kentucky
+Woodford,"(38.0721662, -84.7315563)",Kentucky
+Boyle,"(37.6526034, -84.8150781)",Kentucky
+Bracken,"(38.7117016, -84.05902900000001)",Kentucky
+Breckinridge,"(37.7982002, -86.4592091)",Kentucky
+Butler,"(37.2086395, -86.7013894)",Kentucky
+Carroll,"(38.6748355, -85.0649071)",Kentucky
+Floyd,"(37.5455463, -82.7778579)",Kentucky
+Grant,"(38.6565245, -84.6479124)",Kentucky
+Nicholas,"(38.37676250000001, -84.05902900000001)",Kentucky
+Shelby,"(38.1778076, -85.2308414)",Kentucky
+Washington,"(37.7516142, -85.14793639999999)",Kentucky
+Boyd,"(38.3833265, -82.6915429)",Kentucky
+Lewis,"(38.5079686, -83.3789389)",Kentucky
+Taylor,"(37.332884, -85.31362179999999)",Kentucky
+Marion,"(37.585137, -85.2308414)",Kentucky
+Marshall,"(36.8573767, -88.4016041)",Kentucky
+Barren,"(36.9676836, -85.84862360000001)",Kentucky
+Edmonson,"(37.1941682, -86.21584969999999)",Kentucky
+Graves,"(36.6887728, -88.7108964)",Kentucky
+Hancock,"(37.8280909, -86.761749)",Kentucky
+Henry,"(38.4268385, -85.14793639999999)",Kentucky
+Lawrence,"(38.05267500000001, -82.7778579)",Kentucky
+Powell,"(37.8380647, -83.8260884)",Kentucky
+Rockcastle,"(37.3743065, -84.3121264)",Kentucky
+Russell,"(36.9806476, -85.0649071)",Kentucky
+Bath,"(38.1068164, -83.7199136)",Kentucky
+Crittenden,"(37.3673645, -88.0900762)",Kentucky
+Cumberland,"(36.7776446, -85.35496499999999)",Kentucky
+Lincoln,"(37.4751264, -84.6479124)",Kentucky
+Meade,"(37.9601502, -86.21584969999999)",Kentucky
+Pendleton,"(38.7283386, -84.3962535)",Kentucky
+Caldwell,"(37.1501019, -87.89424509999999)",Kentucky
+Clinton,"(36.7263899, -85.14793639999999)",Kentucky
+Ohio,"(37.5108523, -86.8220341)",Kentucky
+Perry,"(37.3160706, -83.2077645)",Kentucky
+Adair,"(37.076403, -85.31362179999999)",Kentucky
+Carter,"(38.3204714, -83.03613759999999)",Kentucky
+Greenup,"(38.5665695, -82.95015579999999)",Kentucky
+Johnson,"(37.8048335, -82.8640623)",Kentucky
+Leslie,"(37.0698286, -83.3789389)",Kentucky
+Letcher,"(37.12535099999999, -82.8640623)",Kentucky
+McLean,"(37.5644352, -87.2618328)",Kentucky
+Monroe,"(36.7484915, -85.7256372)",Kentucky
+Pike,"(37.4842087, -82.4752757)",Kentucky
+Green,"(37.2570117, -85.56121)",Kentucky
+Hart,"(37.3101304, -85.84862360000001)",Kentucky
+Todd,"(36.8338638, -87.14228949999999)",Kentucky
+Ballard,"(37.0359869, -89.0179332)",Kentucky
+Jackson,"(37.4023274, -84.01674229999999)",Kentucky
+Whitley,"(36.726335, -84.1857115)",Kentucky
+Knox,"(36.9260578, -83.8897057)",Kentucky
+Trimble,"(38.6013284, -85.31362179999999)",Kentucky
+Fleming,"(38.3987633, -83.67739279999999)",Kentucky
+Gallatin,"(38.7295069, -84.87763919999999)",Kentucky
+Knott,"(37.3461117, -82.99316069999999)",Kentucky
+Rowan,"(38.177068, -83.46435509999999)",Kentucky
+Morgan,"(37.9145713, -83.2934086)",Kentucky
+Owsley,"(37.4294933, -83.7199136)",Kentucky
+Trigg,"(36.8473642, -87.77633329999999)",Kentucky
+Casey,"(37.3157449, -84.8984775)",Kentucky
+Garrard,"(37.6413234, -84.56414699999999)",Kentucky
+Livingston,"(37.2431347, -88.362785)",Kentucky
+Clay,"(37.1738044, -83.7199136)",Kentucky
+Fulton,"(36.5630482, -89.1324866)",Kentucky
+Hickman,"(36.6482184, -88.9796776)",Kentucky
+Carlisle,"(36.8206685, -88.9796776)",Kentucky
+Metcalfe,"(37.0032438, -85.64348700000001)",Kentucky
+Owen,"(38.4965261, -84.8150781)",Kentucky
+Harlan,"(36.8890304, -83.2077645)",Kentucky
+Magoffin,"(37.730555, -83.03613759999999)",Kentucky
+Bell,"(36.741122, -83.63484299999999)",Kentucky
+Wolfe,"(37.75508689999999, -83.46435509999999)",Kentucky
+Elliott,"(38.1575088, -83.12200740000002)",Kentucky
+Lee,"(37.599443, -83.7199136)",Kentucky
+Estill,"(37.6975384, -83.9744262)",Kentucky
+Robertson,"(38.5224338, -84.0378894)",Kentucky
+Cook,"(41.7376587, -87.697554)",Illinois
+Kane,"(41.987884, -88.4016041)",Illinois
+McHenry,"(42.3039993, -88.4016041)",Illinois
+Lake,"(42.3689363, -87.8271534)",Illinois
+Cumberland,"(39.2653533, -88.2071598)",Illinois
+DuPage,"(41.8243831, -88.0900762)",Illinois
+Sangamon,"(39.7337353, -89.62516459999999)",Illinois
+St. Clair,"(38.40081199999999, -89.9253233)",Illinois
+Woodford,"(40.7128889, -89.1705998)",Illinois
+Clinton,"(38.56844419999999, -89.62516459999999)",Illinois
+Whiteside,"(41.7605503, -89.8505012)",Illinois
+Winnebago,"(42.3121109, -89.1705998)",Illinois
+Peoria,"(40.7156396, -89.77553379999999)",Illinois
+Will,"(41.5054724, -88.0900762)",Illinois
+Jackson,"(37.7218304, -89.3226954)",Illinois
+Kankakee,"(41.1790977, -87.77633329999999)",Illinois
+Kendall,"(41.5507043, -88.4403883)",Illinois
+LaSalle,"(41.4363987, -88.94138650000001)",Illinois
+Madison,"(38.9041402, -89.9253233)",Illinois
+Washington,"(38.3988869, -89.3226954)",Illinois
+Williamson,"(37.7183241, -88.86469799999999)",Illinois
+Adams,"(40.0577692, -91.13530200000001)",Illinois
+Christian,"(39.5672183, -89.3226954)",Illinois
+McLean,"(40.5478429, -88.86469799999999)",Illinois
+DeKalb,"(41.8329981, -88.7108964)",Illinois
+Champaign,"(40.2138865, -88.24611829999999)",Illinois
+Jo Daviess,"(42.3148804, -90.2244662)",Illinois
+Livingston,"(40.8688604, -88.55653099999999)",Illinois
+Rock Island,"(41.39982089999999, -90.563609)",Illinois
+Stephenson,"(42.31448899999999, -89.62516459999999)",Illinois
+Monroe,"(38.2742526, -90.1869644)",Illinois
+Grundy,"(41.3500531, -88.4016041)",Illinois
+Douglas,"(39.7617631, -88.2071598)",Illinois
+Marshall,"(40.9972934, -89.3606298)",Illinois
+Morgan,"(39.7341219, -90.2244662)",Illinois
+Franklin,"(38.0157197, -88.90306)",Illinois
+Tazewell,"(40.5522078, -89.4742177)",Illinois
+Bureau,"(41.35991560000001, -89.4742177)",Illinois
+Henry,"(41.361088, -90.0746767)",Illinois
+Iroquois,"(40.7740275, -87.697554)",Illinois
+Carroll,"(42.0385843, -89.9626799)",Illinois
+Fayette,"(39.0669568, -89.0179332)",Illinois
+Macon,"(39.8949055, -89.0179332)",Illinois
+Bond,"(38.902985, -89.4742177)",Illinois
+Knox,"(40.8776411, -90.2244662)",Illinois
+Menard,"(40.0221361, -89.81303559999999)",Illinois
+Montgomery,"(39.2363688, -89.4742177)",Illinois
+Clark,"(39.3824189, -87.77633329999999)",Illinois
+Crawford,"(39.0499568, -87.77633329999999)",Illinois
+Marion,"(38.7313284, -88.86469799999999)",Illinois
+Randolph,"(38.0629321, -89.77553379999999)",Illinois
+Saline,"(37.7149675, -88.55653099999999)",Illinois
+Ford,"(40.4988592, -88.2071598)",Illinois
+Ogle,"(41.9969811, -89.3226954)",Illinois
+Massac,"(37.2478298, -88.7493998)",Illinois
+Vermilion,"(40.122469, -87.697554)",Illinois
+Logan,"(40.061338, -89.3226954)",Illinois
+Macoupin,"(39.2375268, -89.9253233)",Illinois
+Mercer,"(41.1985037, -90.6773046)",Illinois
+Moultrie,"(39.6020543, -88.59517509999999)",Illinois
+Piatt,"(40.0543526, -88.55653099999999)",Illinois
+De Witt,"(40.1810363, -88.90306)",Illinois
+Effingham,"(39.06217729999999, -88.55653099999999)",Illinois
+Jersey,"(39.0704754, -90.37483540000001)",Illinois
+Jasper,"(39.0554965, -88.0900762)",Illinois
+Lee,"(41.6789842, -89.3226954)",Illinois
+Mason,"(40.2271003, -89.9253233)",Illinois
+Pike,"(39.5662363, -90.8294002)",Illinois
+Boone,"(42.34849759999999, -88.8263006)",Illinois
+Calhoun,"(39.1733216, -90.658333)",Illinois
+Gallatin,"(37.7107751, -88.24611829999999)",Illinois
+Jefferson,"(38.2267348, -88.86469799999999)",Illinois
+Wabash,"(38.4226484, -87.8156715)",Illinois
+Coles,"(39.5560011, -88.24611829999999)",Illinois
+Lawrence,"(38.7157534, -87.77633329999999)",Illinois
+Richland,"(38.7212791, -88.0900762)",Illinois
+Shelby,"(39.3980704, -88.86469799999999)",Illinois
+Hancock,"(40.38493649999999, -91.13530200000001)",Illinois
+Stark,"(41.0795661, -89.81303559999999)",Illinois
+Pulaski,"(37.2512419, -89.1324866)",Illinois
+Schuyler,"(40.1844543, -90.6393702)",Illinois
+Fulton,"(40.5531823, -90.2244662)",Illinois
+Greene,"(39.4029862, -90.37483540000001)",Illinois
+McDonough,"(40.3885122, -90.6773046)",Illinois
+Perry,"(38.0612022, -89.3226954)",Illinois
+Warren,"(40.8758777, -90.6773046)",Illinois
+Johnson,"(37.42037639999999, -88.90306)",Illinois
+Clay,"(38.7279431, -88.55653099999999)",Illinois
+Union,"(37.5086525, -89.28472510000002)",Illinois
+Alexander,"(37.1670164, -89.3606298)",Illinois
+Henderson,"(40.83355479999999, -90.9438468)",Illinois
+Wayne,"(38.3899815, -88.4016041)",Illinois
+Hamilton,"(38.0543187, -88.55653099999999)",Illinois
+Cass,"(39.9398601, -90.26200419999999)",Illinois
+White,"(38.0501137, -88.24611829999999)",Illinois
+Hardin,"(37.4995097, -88.362785)",Illinois
+Brown,"(39.9379573, -90.7152749)",Illinois
+Pope,"(37.417132, -88.59517509999999)",Illinois
+Edwards,"(38.4267827, -88.050979)",Illinois
+Putnam,"(41.238474, -89.28472510000002)",Illinois
+Edgar,"(39.71312229999999, -87.77633329999999)",Illinois
+Scott,"(39.6094934, -90.4879916)",Illinois
+Marion,"(39.83618999999999, -86.17517590000001)",Indiana
+Hendricks,"(39.8064942, -86.5400674)",Indiana
+Noble,"(41.4277391, -85.35496499999999)",Indiana
+Adams,"(40.7249237, -84.8984775)",Indiana
+Boone,"(40.0106163, -86.49965460000001)",Indiana
+Howard,"(40.4482767, -86.1344697)",Indiana
+Johnson,"(39.4637793, -86.1344697)",Indiana
+St. Joseph,"(41.6228085, -86.3376761)",Indiana
+LaPorte,"(41.4775131, -86.8220341)",Indiana
+Wells,"(40.7778348, -85.1894045)",Indiana
+Hamilton,"(40.0372797, -86.05296039999999)",Indiana
+Bartholomew,"(39.206801, -85.8895551)",Indiana
+Floyd,"(38.2869276, -85.8895551)",Indiana
+Franklin,"(39.4233977, -85.0649071)",Indiana
+Lake,"(41.4897279, -87.30161319999999)",Indiana
+Clark,"(38.4492903, -85.7256372)",Indiana
+Fayette,"(39.5920377, -85.14793639999999)",Indiana
+Jennings,"(38.9914998, -85.684578)",Indiana
+Madison,"(40.1469349, -85.684578)",Indiana
+Owen,"(39.3603429, -86.8220341)",Indiana
+Tippecanoe,"(40.34697310000001, -86.8220341)",Indiana
+Wayne,"(39.831882, -84.981754)",Indiana
+Allen,"(41.0932622, -85.02334599999999)",Indiana
+Grant,"(40.4730605, -85.684578)",Indiana
+Shelby,"(39.4952877, -85.84862360000001)",Indiana
+Vanderburgh,"(38.0806099, -87.5791287)",Indiana
+Vigo,"(39.4165382, -87.42075179999999)",Indiana
+Delaware,"(40.2583533, -85.39627689999999)",Indiana
+Elkhart,"(41.6062253, -85.84862360000001)",Indiana
+Hancock,"(39.8249915, -85.84862360000001)",Indiana
+Harrison,"(38.1701136, -86.17517590000001)",Indiana
+Miami,"(40.77009899999999, -86.05296039999999)",Indiana
+Washington,"(38.6744747, -86.17517590000001)",Indiana
+Monroe,"(39.1851445, -86.49965460000001)",Indiana
+Morgan,"(39.51168089999999, -86.3376761)",Indiana
+Putnam,"(39.690997, -86.8220341)",Indiana
+Ripley,"(39.0986811, -85.2308414)",Indiana
+Scott,"(38.7008005, -85.7256372)",Indiana
+Tipton,"(40.2825661, -86.05296039999999)",Indiana
+Dubois,"(38.357918, -86.8220341)",Indiana
+Brown,"(39.1749729, -86.17517590000001)",Indiana
+Dearborn,"(39.1713075, -84.981754)",Indiana
+Decatur,"(39.3176186, -85.52002399999999)",Indiana
+Gibson,"(38.3338249, -87.5791287)",Indiana
+Jackson,"(38.8794321, -86.05296039999999)",Indiana
+Lawrence,"(38.8518863, -86.49965460000001)",Indiana
+Montgomery,"(40.019879, -86.8220341)",Indiana
+Ohio,"(38.9417259, -84.9609464)",Indiana
+Porter,"(41.5248577, -87.10237459999999)",Indiana
+Starke,"(41.2715616, -86.6207943)",Indiana
+Sullivan,"(39.08431220000001, -87.42075179999999)",Indiana
+Warrick,"(38.0736703, -87.2618328)",Indiana
+DeKalb,"(41.4138928, -85.02334599999999)",Indiana
+Jasper,"(41.0040981, -87.14228949999999)",Indiana
+Rush,"(39.6481768, -85.52002399999999)",Indiana
+Fountain,"(40.22271970000001, -87.3347575)",Indiana
+Marshall,"(41.303028, -86.3376761)",Indiana
+Orange,"(38.5169004, -86.49965460000001)",Indiana
+Posey,"(38.0020359, -87.89424509999999)",Indiana
+Warren,"(40.319245, -87.3413599)",Indiana
+Carroll,"(40.542415, -86.5400674)",Indiana
+Clinton,"(40.3376924, -86.49965460000001)",Indiana
+Fulton,"(41.0204161, -86.2970998)",Indiana
+Henry,"(39.9704844, -85.35496499999999)",Indiana
+Huntington,"(40.7911217, -85.52002399999999)",Indiana
+Kosciusko,"(41.2864679, -85.84862360000001)",Indiana
+LaGrange,"(41.62887020000001, -85.39627689999999)",Indiana
+Randolph,"(40.12045320000001, -85.02334599999999)",Indiana
+Whitley,"(41.1136133, -85.52002399999999)",Indiana
+Crawford,"(38.3054548, -86.4592091)",Indiana
+Newton,"(40.9703076, -87.42075179999999)",Indiana
+Switzerland,"(38.8419394, -85.0649071)",Indiana
+Vermillion,"(39.8512139, -87.48020679999999)",Indiana
+Wabash,"(40.8033875, -85.84862360000001)",Indiana
+White,"(40.6765551, -86.9824288)",Indiana
+Clay,"(39.36862199999999, -87.14228949999999)",Indiana
+Greene,"(39.0321796, -86.9824288)",Indiana
+Knox,"(38.6665815, -87.42075179999999)",Indiana
+Steuben,"(41.6115471, -84.981754)",Indiana
+Cass,"(40.8199089, -86.3376761)",Indiana
+Jefferson,"(38.7751543, -85.47880649999999)",Indiana
+Jay,"(40.4465288, -85.02334599999999)",Indiana
+Blackford,"(40.49927840000001, -85.31362179999999)",Indiana
+Spencer,"(37.9832621, -87.0224442)",Indiana
+Parke,"(39.69929459999999, -87.14228949999999)",Indiana
+Martin,"(38.6937856, -86.8220341)",Indiana
+Union,"(39.6637751, -84.8984775)",Indiana
+Daviess,"(38.7020241, -87.14228949999999)",Indiana
+Pulaski,"(40.9957383, -86.8220341)",Indiana
+Perry,"(38.0159043, -86.6611083)",Indiana
+Benton,"(40.644786, -87.3413599)",Indiana
+Pike,"(38.4110583, -87.2618328)",Indiana
+Oakland,"(42.59219239999999, -83.33618799999999)",Michigan
+Wayne,"(42.2790746, -83.33618799999999)",Michigan
+Ingham,"(42.6468943, -84.3542049)",Michigan
+Kent,"(43.0097027, -85.52002399999999)",Michigan
+Montcalm,"(43.3057341, -85.1894045)",Michigan
+St. Clair,"(43.016179, -82.6483442)",Michigan
+Washtenaw,"(42.3076493, -83.8473015)",Michigan
+Bay,"(43.7109732, -84.01674229999999)",Michigan
+Charlevoix,"(45.4342853, -85.4374778)",Michigan
+Leelanau,"(45.0821226, -86.07336339999999)",Michigan
+Macomb,"(42.7168759, -82.82097399999999)",Michigan
+Monroe,"(41.9738893, -83.5070203)",Michigan
+Ottawa,"(42.95302299999999, -86.0937312)",Michigan
+Jackson,"(42.1764362, -84.3542049)",Michigan
+Otsego,"(45.0992063, -84.6482398)",Michigan
+Clinton,"(42.9663458, -84.5222189)",Michigan
+Eaton,"(42.5886496, -84.7733325)",Michigan
+Genesee,"(43.0777289, -83.67739279999999)",Michigan
+Livingston,"(42.6207951, -83.8473015)",Michigan
+Midland,"(43.57509779999999, -84.3542049)",Michigan
+Allegan,"(42.5709865, -86.3376761)",Michigan
+Barry,"(42.5354321, -85.35496499999999)",Michigan
+Berrien,"(42.0320742, -86.7416374)",Michigan
+Calhoun,"(42.2073905, -85.02334599999999)",Michigan
+Clare,"(44.0565054, -84.8567932)",Michigan
+Saginaw,"(43.4044253, -84.01674229999999)",Michigan
+Tuscola,"(43.5301144, -83.5070203)",Michigan
+Wexford,"(44.387157, -85.52002399999999)",Michigan
+Emmet,"(45.6418969, -84.9769067)",Michigan
+Gladwin,"(44.0327885, -84.3542049)",Michigan
+Grand Traverse,"(44.687984, -85.52002399999999)",Michigan
+Roscommon,"(44.3516109, -84.68974949999999)",Michigan
+Chippewa,"(46.3117082, -84.59320939999999)",Michigan
+Kalamazoo,"(42.2278346, -85.52002399999999)",Michigan
+Muskegon,"(43.2831969, -86.7416374)",Michigan
+Newaygo,"(43.55935820000001, -85.76666449999999)",Michigan
+Hillsdale,"(41.8685961, -84.5222189)",Michigan
+Isabella,"(43.598799, -84.8567932)",Michigan
+Kalkaska,"(44.66744449999999, -85.02334599999999)",Michigan
+Lapeer,"(43.0482433, -83.1649001)",Michigan
+Manistee,"(44.2444704, -86.32422249999999)",Michigan
+Iosco,"(44.3340462, -83.63862259999999)",Michigan
+Lenawee,"(41.8433859, -84.01674229999999)",Michigan
+Marquette,"(46.644579, -87.5593823)",Michigan
+Sanilac,"(43.4069041, -82.7347142)",Michigan
+Van Buren,"(42.2459665, -86.0121573)",Michigan
+Gogebic,"(46.4392785, -89.92147399999999)",Michigan
+Ionia,"(42.9892119, -85.02334599999999)",Michigan
+Mecosta,"(43.6201025, -85.35496499999999)",Michigan
+Missaukee,"(44.366621, -85.02334599999999)",Michigan
+Oceana,"(43.6656285, -86.6611083)",Michigan
+Ogemaw,"(44.3270741, -84.1857115)",Michigan
+Shiawassee,"(42.949754, -84.1857115)",Michigan
+Cass,"(41.9299158, -86.0121573)",Michigan
+Crawford,"(44.6524316, -84.68974949999999)",Michigan
+Gratiot,"(43.2836505, -84.68974949999999)",Michigan
+Huron,"(43.9466791, -82.82097399999999)",Michigan
+Osceola,"(43.92572790000001, -85.35496499999999)",Michigan
+Cheboygan,"(45.5472257, -84.56362829999999)",Michigan
+Antrim,"(44.9730441, -85.1769095)",Michigan
+Delta,"(45.7124142, -86.98441749999999)",Michigan
+Houghton,"(47.1211215, -88.5694012)",Michigan
+St. Joseph,"(41.9118044, -85.52002399999999)",Michigan
+Arenac,"(43.9973355, -83.67739279999999)",Michigan
+Branch,"(41.8913835, -85.02334599999999)",Michigan
+Oscoda,"(44.6278903, -84.1857115)",Michigan
+Mackinac,"(46.02337199999999, -84.9963081)",Michigan
+Dickinson,"(45.9601394, -87.8616098)",Michigan
+Luce,"(46.5827512, -85.513329)",Michigan
+Presque Isle,"(45.5729299, -83.597821)",Michigan
+Mason,"(43.9664537, -86.49965460000001)",Michigan
+Schoolcraft,"(46.0693515, -86.1903622)",Michigan
+Menominee,"(45.4995277, -87.5746277)",Michigan
+Alpena,"(45.0168239, -83.1116742)",Michigan
+Lake,"(43.9446996, -85.84862360000001)",Michigan
+Montmorency,"(45.07427939999999, -84.1403141)",Michigan
+Alcona,"(44.6727944, -83.60223979999999)",Michigan
+Baraga,"(46.7352761, -88.3010401)",Michigan
+Benzie,"(44.678277, -86.2970998)",Michigan
+Iron,"(46.2758153, -88.4902778)",Michigan
+Alger,"(46.927418, -86.5087741)",Michigan
+Keweenaw,"(47.7515686, -88.3249369)",Michigan
+Ontonagon,"(46.8727913, -89.31311889999999)",Michigan
+Bennington,"(43.0278745, -73.13496049999999)",Vermont
+Chittenden,"(44.3959289, -72.9962431)",Vermont
+Washington,"(44.1986663, -72.6972529)",Vermont
+Windsor,"(43.4369244, -72.61511689999999)",Vermont
+Orange,"(44.0014186, -72.4003713)",Vermont
+Addison,"(44.1197293, -73.164338)",Vermont
+Rutland,"(43.6448675, -72.99329689999999)",Vermont
+Franklin,"(44.8429222, -72.9340443)",Vermont
+Windham,"(43.0151325, -72.8042797)",Vermont
+Caledonia,"(44.55051, -72.04819069999999)",Vermont
+Orleans,"(44.8905506, -72.2603468)",Vermont
+Lamoille,"(44.64334179999999, -72.6314026)",Vermont
+Grand Isle,"(44.8595928, -73.2957299)",Vermont
+Essex,"(44.7682631, -71.74361549999999)",Vermont
+New Castle,"(39.5392979, -75.667356)",Delaware
+Sussex,"(38.65308410000001, -75.4344727)",Delaware
+Kent,"(39.1440612, -75.4344727)",Delaware
+Bergen,"(40.9262762, -74.07701)",New Jersey
+Camden,"(39.8592439, -75.0143824)",New Jersey
+Passaic,"(41.1231647, -74.35874729999999)",New Jersey
+Hudson,"(40.7453199, -74.05351259999999)",New Jersey
+Monmouth,"(40.2589455, -74.12399599999999)",New Jersey
+Union,"(40.6595001, -74.2883536)",New Jersey
+Burlington,"(39.8558488, -74.6868815)",New Jersey
+Middlesex,"(40.4111363, -74.35874729999999)",New Jersey
+Essex,"(40.7947466, -74.2648829)",New Jersey
+Morris,"(40.8336038, -74.54632819999999)",New Jersey
+Ocean,"(39.9652553, -74.3118212)",New Jersey
+Mercer,"(40.3028533, -74.7337069)",New Jersey
+Hunterdon,"(40.56695149999999, -74.92087719999999)",New Jersey
+Somerset,"(40.5292099, -74.64004320000001)",New Jersey
+Gloucester,"(39.7103023, -75.1078332)",New Jersey
+Warren,"(40.8841854, -74.92087719999999)",New Jersey
+Atlantic,"(39.5333379, -74.6868815)",New Jersey
+Cape May,"(39.105884, -74.8273184)",New Jersey
+Sussex,"(41.1288481, -74.6868815)",New Jersey
+Cumberland,"(39.2587106, -75.06111469999999)",New Jersey
+Salem,"(39.5848777, -75.3878525)",New Jersey
+Suffolk,"(42.3522866, -71.0504229)",Massachusetts
+Norfolk,"(42.17668, -71.1448516)",Massachusetts
+Middlesex,"(42.467206, -71.2874209)",Massachusetts
+Berkshire,"(42.311782, -73.1821623)",Massachusetts
+Worcester,"(42.4096528, -71.8571331)",Massachusetts
+Essex,"(42.7051144, -70.90712359999999)",Massachusetts
+Barnstable,"(41.69909579999999, -70.32091129999999)",Massachusetts
+Bristol,"(41.7938406, -71.1448516)",Massachusetts
+Hampden,"(42.1172314, -72.6624209)",Massachusetts
+Plymouth,"(41.9120406, -70.7168469)",Massachusetts
+Franklin,"(42.530599, -72.61511689999999)",Massachusetts
+Hampshire,"(42.3471357, -72.6624209)",Massachusetts
+Nantucket,"(41.2834704, -70.099451)",Massachusetts
+Dukes,"(41.4039539, -70.6692655)",Massachusetts
+Jefferson,"(39.3059841, -77.88245959999999)",West Virginia
+Mercer,"(37.4322638, -81.1196075)",West Virginia
+Monongalia,"(39.6695849, -79.96403389999999)",West Virginia
+Tucker,"(39.1083806, -79.6502105)",West Virginia
+Jackson,"(38.8139943, -81.64734399999999)",West Virginia
+Kanawha,"(38.2556905, -81.42789839999999)",West Virginia
+Marshall,"(39.8926818, -80.6770787)",West Virginia
+Putnam,"(38.4991939, -81.909826)",West Virginia
+Berkeley,"(39.4885604, -78.0651931)",West Virginia
+Harrison,"(39.33481260000001, -80.365865)",West Virginia
+Preston,"(39.5641007, -79.6951103)",West Virginia
+Wood,"(39.2154345, -81.47183869999999)",West Virginia
+Logan,"(37.7883016, -81.9534815)",West Virginia
+Marion,"(39.5288627, -80.23213129999999)",West Virginia
+Ohio,"(40.1111311, -80.610489)",West Virginia
+Raleigh,"(37.7381597, -81.2518833)",West Virginia
+Mason,"(38.7553693, -81.9971108)",West Virginia
+Upshur,"(38.8696797, -80.23213129999999)",West Virginia
+Greenbrier,"(38.0198478, -80.54384499999999)",West Virginia
+Hancock,"(40.5123559, -80.5660657)",West Virginia
+Pleasants,"(39.3761707, -81.1416691)",West Virginia
+Cabell,"(38.43919270000001, -82.25832969999999)",West Virginia
+Morgan,"(39.5073361, -78.24761459999999)",West Virginia
+Wetzel,"(39.5655978, -80.6770787)",West Virginia
+Wirt,"(39.04360930000001, -81.38393260000001)",West Virginia
+Randolph,"(38.8092552, -80.0087746)",West Virginia
+Roane,"(38.7564882, -81.42789839999999)",West Virginia
+Hardy,"(39.0416116, -78.9288242)",West Virginia
+Barbour,"(39.1398692, -80.0087746)",West Virginia
+Pendleton,"(38.74517669999999, -79.29021329999999)",West Virginia
+Mineral,"(39.4068988, -78.8835548)",West Virginia
+Lewis,"(39.0196167, -80.54384499999999)",West Virginia
+Taylor,"(39.3417635, -79.96403389999999)",West Virginia
+Brooke,"(40.2697757, -80.5660657)",West Virginia
+Fayette,"(38.0615913, -81.0754657)",West Virginia
+McDowell,"(37.3860467, -81.64734399999999)",West Virginia
+Nicholas,"(38.3307714, -80.7657804)",West Virginia
+Tyler,"(39.4977025, -80.8543847)",West Virginia
+Wyoming,"(37.6339466, -81.5596427)",West Virginia
+Boone,"(37.9838605, -81.73494199999999)",West Virginia
+Braxton,"(38.7023371, -80.7214417)",West Virginia
+Hampshire,"(39.3349019, -78.5660852)",West Virginia
+Wayne,"(38.1598501, -82.4752757)",West Virginia
+Monroe,"(37.5601958, -80.5882803)",West Virginia
+Summers,"(37.5812062, -80.8543847)",West Virginia
+Grant,"(39.1042079, -79.1548533)",West Virginia
+Mingo,"(37.76078010000001, -82.1713632)",West Virginia
+Lincoln,"(38.1761009, -82.08429009999999)",West Virginia
+Gilmer,"(38.9203312, -80.8543847)",West Virginia
+Calhoun,"(38.857973, -81.1196075)",West Virginia
+Pocahontas,"(38.3101706, -80.0087746)",West Virginia
+Ritchie,"(39.1822303, -81.0312989)",West Virginia
+Clay,"(38.4417717, -81.1196075)",West Virginia
+Webster,"(38.5070383, -80.365865)",West Virginia
+Doddridge,"(39.2367791, -80.6770787)",West Virginia
+Cuyahoga,"(41.433923, -81.67582)",Ohio
+Stark,"(40.8684676, -81.2518833)",Ohio
+Trumbull,"(41.3064984, -80.7214417)",Ohio
+Belmont,"(40.0325848, -80.89865019999999)",Ohio
+Butler,"(39.440463, -84.5222189)",Ohio
+Franklin,"(40.0154745, -82.99316069999999)",Ohio
+Lorain,"(41.4116881, -82.12783999999999)",Ohio
+Summit,"(41.0918991, -81.5596427)",Ohio
+Tuscarawas,"(40.3978972, -81.42789839999999)",Ohio
+Lucas,"(41.6894388, -83.3789389)",Ohio
+Medina,"(41.080133, -81.9534815)",Ohio
+Geauga,"(41.4641521, -81.20781640000001)",Ohio
+Coshocton,"(40.27358230000001, -81.9534815)",Ohio
+Darke,"(40.1056572, -84.68974949999999)",Ohio
+Lake,"(41.981532, -81.2518833)",Ohio
+Mahoning,"(40.9871753, -80.7214417)",Ohio
+Ashland,"(40.9435588, -82.3017728)",Ohio
+Clark,"(39.8912092, -83.67739279999999)",Ohio
+Delaware,"(40.3033098, -83.03613759999999)",Ohio
+Huron,"(41.1266687, -82.6483442)",Ohio
+Miami,"(40.081473, -84.1857115)",Ohio
+Hamilton,"(39.2355447, -84.56414699999999)",Ohio
+Montgomery,"(39.7620028, -84.3542049)",Ohio
+Richland,"(40.7566723, -82.5185837)",Ohio
+Ashtabula,"(41.9396982, -80.7214417)",Ohio
+Columbiana,"(40.7902581, -80.7657804)",Ohio
+Marion,"(40.5518645, -83.12200740000002)",Ohio
+Union,"(40.36163820000001, -83.33618799999999)",Ohio
+Warren,"(39.4241422, -84.1857115)",Ohio
+Clermont,"(39.0928449, -84.1857115)",Ohio
+Defiance,"(41.3491725, -84.4802606)",Ohio
+Erie,"(41.4349882, -82.4752757)",Ohio
+Licking,"(40.1460895, -82.4752757)",Ohio
+Carroll,"(40.5328331, -81.0754657)",Ohio
+Clinton,"(39.4067432, -83.8473015)",Ohio
+Gallia,"(38.8619254, -82.34518899999999)",Ohio
+Greene,"(39.697399, -83.8897057)",Ohio
+Hancock,"(41.0273131, -83.67739279999999)",Ohio
+Portage,"(41.1887572, -81.2518833)",Ohio
+Wood,"(41.34784579999999, -83.67739279999999)",Ohio
+Knox,"(40.459564, -82.3017728)",Ohio
+Logan,"(40.38996789999999, -83.8473015)",Ohio
+Madison,"(39.9154985, -83.3789389)",Ohio
+Sandusky,"(41.3559092, -83.12200740000002)",Ohio
+Washington,"(39.4626397, -81.47183869999999)",Ohio
+Champaign,"(40.10258169999999, -83.804868)",Ohio
+Crawford,"(40.8268068, -82.99316069999999)",Ohio
+Fairfield,"(39.830506, -82.6483442)",Ohio
+Highland,"(39.2228606, -83.5070203)",Ohio
+Fayette,"(39.5919809, -83.46435509999999)",Ohio
+Lawrence,"(38.6232686, -82.5185837)",Ohio
+Mercer,"(40.59405479999999, -84.68974949999999)",Ohio
+Pickaway,"(39.687828, -82.99316069999999)",Ohio
+Seneca,"(41.1585179, -83.1649001)",Ohio
+Wayne,"(40.7588598, -81.9534815)",Ohio
+Athens,"(39.30303079999999, -82.12783999999999)",Ohio
+Jefferson,"(40.38717219999999, -80.7657804)",Ohio
+Muskingum,"(39.9478393, -81.9534815)",Ohio
+Wyandot,"(40.8471492, -83.33618799999999)",Ohio
+Fulton,"(41.5719341, -84.14351359999999)",Ohio
+Shelby,"(40.3689335, -84.2278796)",Ohio
+Allen,"(40.769946, -84.14351359999999)",Ohio
+Auglaize,"(40.5781556, -84.3542049)",Ohio
+Ottawa,"(41.6268435, -82.99316069999999)",Ohio
+Pike,"(39.0713471, -83.03613759999999)",Ohio
+Van Wert,"(40.871234, -84.56414699999999)",Ohio
+Brown,"(38.9092089, -83.8473015)",Ohio
+Holmes,"(40.5540928, -81.909826)",Ohio
+Preble,"(39.7778251, -84.68974949999999)",Ohio
+Ross,"(39.3584253, -82.99316069999999)",Ohio
+Perry,"(39.7641353, -82.25832969999999)",Ohio
+Morrow,"(40.5303751, -82.8007993)",Ohio
+Guernsey,"(40.0731129, -81.42789839999999)",Ohio
+Hardin,"(40.704961, -83.67739279999999)",Ohio
+Williams,"(41.55076020000001, -84.5222189)",Ohio
+Adams,"(38.8907822, -83.5070203)",Ohio
+Monroe,"(39.7199038, -81.0754657)",Ohio
+Morgan,"(39.6521907, -81.8224362)",Ohio
+Paulding,"(41.0783882, -84.68974949999999)",Ohio
+Putnam,"(41.0540759, -84.1857115)",Ohio
+Scioto,"(38.861065, -82.99316069999999)",Ohio
+Meigs,"(39.0874307, -81.9971108)",Ohio
+Henry,"(41.3659897, -84.01674229999999)",Ohio
+Jackson,"(39.0060382, -82.6483442)",Ohio
+Noble,"(39.7465639, -81.42789839999999)",Ohio
+Hocking,"(39.4909358, -82.4752757)",Ohio
+Harrison,"(40.3340479, -81.1196075)",Ohio
+Vinton,"(39.2875595, -82.5185837)",Ohio
+St. Louis,"(38.6103023, -90.4125181)",Missouri
+Greene,"(37.3311215, -93.5003454)",Missouri
+Henry,"(38.3386592, -93.8248241)",Missouri
+Cass,"(38.6574448, -94.315422)",Missouri
+Boone,"(39.0468547, -92.38136209999999)",Missouri
+Cole,"(38.5052486, -92.2630393)",Missouri
+Jackson,"(38.9914998, -94.315422)",Missouri
+St. Charles,"(38.7338885, -90.8294002)",Missouri
+St. Louis city,"(38.6270025, -90.19940419999999)",Missouri
+Christian,"(36.99764400000001, -93.17796589999999)",Missouri
+Dunklin,"(36.2364268, -90.055447)",Missouri
+Kansas City,"(39.0997265, -94.5785667)",Missouri
+Pulaski,"(37.8727481, -92.2236667)",Missouri
+Scott,"(37.0394443, -89.62516459999999)",Missouri
+Bates,"(38.3216754, -94.315422)",Missouri
+Jasper,"(37.17455650000001, -94.35651299999999)",Missouri
+Johnson,"(38.6744747, -93.8248241)",Missouri
+Adair,"(40.1993655, -92.539603)",Missouri
+Callaway,"(38.8886044, -91.9099238)",Missouri
+Camden,"(38.0322944, -92.6983868)",Missouri
+Clay,"(39.3176186, -94.479976)",Missouri
+Clinton,"(39.6481768, -94.479976)",Missouri
+Lafayette,"(39.0031288, -93.9878427)",Missouri
+Moniteau,"(38.5827118, -92.5792482)",Missouri
+Perry,"(37.723555, -89.77553379999999)",Missouri
+St. Francois,"(37.7652755, -90.4879916)",Missouri
+Taney,"(36.6576378, -93.0175712)",Missouri
+Cape Girardeau,"(37.3821319, -89.62516459999999)",Missouri
+Franklin,"(38.3953601, -91.13530200000001)",Missouri
+Jefferson,"(38.2310301, -90.52578229999999)",Missouri
+Pemiscot,"(36.2195399, -89.81303559999999)",Missouri
+Cooper,"(38.8693247, -92.8577105)",Missouri
+McDonald,"(36.617812, -94.315422)",Missouri
+Montgomery,"(38.9365599, -91.4821482)",Missouri
+Newton,"(36.9618494, -94.315422)",Missouri
+Platte,"(39.34756489999999, -94.7691586)",Missouri
+Ralls,"(39.5582351, -91.5983959)",Missouri
+Randolph,"(39.4182626, -92.49999179999999)",Missouri
+Shelby,"(39.8388716, -92.1057549)",Missouri
+Benton,"(38.3534598, -93.33889169999999)",Missouri
+Bollinger,"(37.2115595, -90.0746767)",Missouri
+Carter,"(36.9073725, -90.9438468)",Missouri
+Stoddard,"(36.8680558, -89.9253233)",Missouri
+Atchison,"(40.42389600000001, -95.4777811)",Missouri
+Barry,"(36.6345264, -93.8248241)",Missouri
+Buchanan,"(39.6349791, -94.81059549999999)",Missouri
+Chariton,"(39.5301517, -93.0175712)",Missouri
+Lincoln,"(39.0669568, -90.9820668)",Missouri
+Pettis,"(38.6893153, -93.33889169999999)",Missouri
+Ray,"(39.3354791, -93.9878427)",Missouri
+Wright,"(37.3555654, -92.539603)",Missouri
+Ripley,"(36.6928452, -90.8294002)",Missouri
+Warren,"(38.7313284, -91.13530200000001)",Missouri
+Cedar,"(37.7031209, -93.86553029999999)",Missouri
+Crawford,"(38.0561057, -91.28910359999999)",Missouri
+Livingston,"(39.8464073, -93.5003454)",Missouri
+Macon,"(39.871344, -92.539603)",Missouri
+Maries,"(38.1738674, -91.949021)",Missouri
+Morgan,"(38.3661344, -92.8577105)",Missouri
+Osage,"(38.3853377, -91.9099238)",Missouri
+Pike,"(39.3964742, -91.28910359999999)",Missouri
+Reynolds,"(37.378663, -90.9820668)",Missouri
+Stone,"(36.7748882, -93.4599326)",Missouri
+Webster,"(37.3483339, -92.8577105)",Missouri
+Harrison,"(40.3219529, -93.9878427)",Missouri
+Ste. Genevieve,"(37.8934532, -90.2244662)",Missouri
+Butler,"(36.6951341, -90.37483540000001)",Missouri
+Caldwell,"(39.6660775, -93.9878427)",Missouri
+DeKalb,"(39.8554602, -94.43879)",Missouri
+Gasconade,"(38.4335915, -91.4821482)",Missouri
+Howell,"(36.8527979, -91.9099238)",Missouri
+New Madrid,"(36.5227538, -89.77553379999999)",Missouri
+Clark,"(40.3772378, -91.7538817)",Missouri
+Linn,"(39.8556605, -93.17796589999999)",Missouri
+Saline,"(39.1943564, -93.17796589999999)",Missouri
+Nodaway,"(40.2907281, -94.81059549999999)",Missouri
+Gentry,"(40.1406981, -94.479976)",Missouri
+Madison,"(37.5528602, -90.37483540000001)",Missouri
+Phelps,"(37.8806538, -91.7538817)",Missouri
+Worth,"(40.4730605, -94.315422)",Missouri
+Dallas,"(37.6853001, -93.0175712)",Missouri
+Howard,"(39.2064126, -92.6983868)",Missouri
+Oregon,"(36.6870089, -91.44346900000001)",Missouri
+Polk,"(37.6766686, -93.33889169999999)",Missouri
+Scotland,"(40.4921465, -92.18432849999999)",Missouri
+Washington,"(37.8907566, -90.8294002)",Missouri
+St. Clair,"(38.001146, -93.8248241)",Missouri
+Vernon,"(37.8148489, -94.315422)",Missouri
+Andrew,"(39.9637436, -94.81059549999999)",Missouri
+Iron,"(37.5515182, -90.6773046)",Missouri
+Daviess,"(39.9949074, -93.9878427)",Missouri
+Holt,"(40.0704458, -95.18492189999999)",Missouri
+Miller,"(38.2081417, -92.38136209999999)",Missouri
+Lewis,"(40.0500853, -91.7538817)",Missouri
+Marion,"(39.8464028, -91.63721500000001)",Missouri
+Audrain,"(39.22195300000001, -91.9099238)",Missouri
+Carroll,"(39.5166572, -93.5003454)",Missouri
+Mississippi,"(36.8661576, -89.3226954)",Missouri
+Lawrence,"(37.1500679, -93.8248241)",Missouri
+Sullivan,"(40.1836505, -93.17796589999999)",Missouri
+Laclede,"(37.6965235, -92.539603)",Missouri
+Dent,"(37.544666, -91.44346900000001)",Missouri
+Schuyler,"(40.4857709, -92.49999179999999)",Missouri
+Grundy,"(40.1743786, -93.5003454)",Missouri
+Monroe,"(39.5508815, -92.0665197)",Missouri
+Shannon,"(37.2028249, -91.44346900000001)",Missouri
+Texas,"(37.3673645, -91.9099238)",Missouri
+Douglas,"(36.9708648, -92.49999179999999)",Missouri
+Mercer,"(40.3977043, -93.5755526)",Missouri
+Putnam,"(40.4744901, -92.97755579999999)",Missouri
+Knox,"(40.2058437, -92.2236667)",Missouri
+Barton,"(37.4748791, -94.315422)",Missouri
+Dade,"(37.48636090000001, -93.9878427)",Missouri
+Ozark,"(36.6720061, -92.38136209999999)",Missouri
+Wayne,"(37.0388739, -90.52578229999999)",Missouri
+Joplin,"(37.08422710000001, -94.51328099999999)",Missouri
+Hickory,"(37.9747242, -93.29861059999999)",Missouri
+Tulsa,"(36.1593471, -95.94097099999999)",Oklahoma
+Oklahoma,"(35.6038323, -97.35165579999999)",Oklahoma
+Jackson,"(34.5834576, -99.456155)",Oklahoma
+Cleveland,"(35.254964, -97.35165579999999)",Oklahoma
+Kay,"(36.8234478, -97.179026)",Oklahoma
+Payne,"(36.1449988, -97.0068393)",Oklahoma
+Canadian,"(35.5593784, -98.04651849999999)",Oklahoma
+Pawnee,"(36.2918339, -96.7065914)",Oklahoma
+Custer,"(35.6710818, -98.92453429999999)",Oklahoma
+Grady,"(35.0472662, -97.87216)",Oklahoma
+Logan,"(35.9404623, -97.5247243)",Oklahoma
+McClain,"(35.0282316, -97.4814163)",Oklahoma
+Washington,"(36.6770984, -95.94097099999999)",Oklahoma
+Garvin,"(34.7289063, -97.35165579999999)",Oklahoma
+Muskogee,"(35.7111198, -95.3102505)",Oklahoma
+Noble,"(36.4799034, -97.179026)",Oklahoma
+Pontotoc,"(34.7685043, -96.663812)",Oklahoma
+Mayes,"(36.2322429, -95.3102505)",Oklahoma
+Wagoner,"(35.91923970000001, -95.51973939999999)",Oklahoma
+Adair,"(35.9127307, -94.645035)",Oklahoma
+Bryan,"(33.902127, -96.3226072)",Oklahoma
+Carter,"(34.1996254, -97.35165579999999)",Oklahoma
+Creek,"(35.8362494, -96.3226072)",Oklahoma
+Delaware,"(36.4263135, -94.81059549999999)",Oklahoma
+Osage,"(36.6189367, -96.2375947)",Oklahoma
+Pottawatomie,"(35.275439, -97.0068393)",Oklahoma
+Stephens,"(34.5203466, -97.87216)",Oklahoma
+Comanche,"(34.6612778, -98.3964938)",Oklahoma
+Craig,"(36.7571907, -95.1432068)",Oklahoma
+Lincoln,"(35.6342646, -96.83509989999999)",Oklahoma
+Okmulgee,"(35.6795873, -95.9832577)",Oklahoma
+Ottawa,"(36.7710787, -94.81059549999999)",Oklahoma
+Sequoyah,"(35.5155322, -94.7691586)",Oklahoma
+Caddo,"(35.10556, -98.3088441)",Oklahoma
+Cherokee,"(35.8994729, -94.976654)",Oklahoma
+Choctaw,"(33.9851472, -95.51973939999999)",Oklahoma
+Latimer,"(34.835035, -95.3102505)",Oklahoma
+Pittsburg,"(34.9879281, -95.81428849999999)",Oklahoma
+Le Flore,"(34.8622042, -94.645035)",Oklahoma
+Nowata,"(36.7344388, -95.6457951)",Oklahoma
+Garfield,"(36.4361392, -97.87216)",Oklahoma
+Rogers,"(36.3898068, -95.6457951)",Oklahoma
+Seminole,"(35.1197519, -96.663812)",Oklahoma
+Texas,"(36.8301318, -101.4339148)",Oklahoma
+Beckham,"(35.2687266, -99.634135)",Oklahoma
+Cotton,"(34.309094, -98.3964938)",Oklahoma
+Love,"(33.985839, -97.2221421)",Oklahoma
+Greer,"(34.9338651, -99.456155)",Oklahoma
+Atoka,"(34.4509901, -95.9832577)",Oklahoma
+Kingfisher,"(35.9181468, -97.87216)",Oklahoma
+Kiowa,"(34.9742541, -98.92453429999999)",Oklahoma
+Woodward,"(36.413792, -99.3673084)",Oklahoma
+Grant,"(36.79093, -97.69822719999999)",Oklahoma
+Major,"(36.3479671, -98.5281613)",Oklahoma
+McCurtain,"(34.1481711, -94.81059549999999)",Oklahoma
+Tillman,"(34.4478348, -98.92453429999999)",Oklahoma
+Jefferson,"(34.1672949, -97.87216)",Oklahoma
+Beaver,"(36.7440186, -100.5296115)",Oklahoma
+Dewey,"(36.017265, -98.92453429999999)",Oklahoma
+Marshall,"(34.0103349, -96.79223549999999)",Oklahoma
+Murray,"(34.4383273, -97.0498442)",Oklahoma
+Okfuskee,"(35.4878871, -96.3226072)",Oklahoma
+Alfalfa,"(36.7435919, -98.3964938)",Oklahoma
+Johnston,"(34.2855117, -96.62106109999999)",Oklahoma
+Haskell,"(35.2393825, -95.1015225)",Oklahoma
+McIntosh,"(35.3466151, -95.6457951)",Oklahoma
+Woods,"(36.7181862, -98.7481167)",Oklahoma
+Harper,"(36.8203755, -99.634135)",Oklahoma
+Cimarron,"(36.7936335, -102.6216211)",Oklahoma
+Pushmataha,"(34.4820384, -95.3102505)",Oklahoma
+Blaine,"(35.8825489, -98.3964938)",Oklahoma
+Washita,"(35.3234027, -98.92453429999999)",Oklahoma
+Coal,"(34.568577, -96.2800864)",Oklahoma
+Hughes,"(35.1380279, -96.3226072)",Oklahoma
+Ellis,"(36.2920072, -99.8124935)",Oklahoma
+Harmon,"(34.7305114, -99.8124935)",Oklahoma
+Roger Mills,"(35.616176, -99.634135)",Oklahoma
+Johnson,"(38.845412, -94.8520636)",Kansas
+Wyandotte,"(39.0986811, -94.7691586)",Kansas
+Butler,"(37.8649441, -96.83509989999999)",Kansas
+Franklin,"(38.6165913, -95.3102505)",Kansas
+Douglas,"(38.9107835, -95.26844369999999)",Kansas
+Ford,"(37.6540069, -99.8124935)",Kansas
+Leavenworth,"(39.1713075, -95.01824599999999)",Kansas
+Cherokee,"(37.1142482, -94.81059549999999)",Kansas
+Linn,"(38.1339574, -94.81059549999999)",Kansas
+Morris,"(38.7144832, -96.663812)",Kansas
+Sedgwick,"(37.6537367, -97.5247243)",Kansas
+Reno,"(37.9569553, -98.04651849999999)",Kansas
+Riley,"(39.3686475, -96.83509989999999)",Kansas
+Jackson,"(39.4241422, -95.81428849999999)",Kansas
+Mitchell,"(39.443669, -98.2212979)",Kansas
+Bourbon,"(37.7957092, -94.81059549999999)",Kansas
+Lyon,"(38.4078037, -96.15269850000001)",Kansas
+Doniphan,"(39.8245628, -95.18492189999999)",Kansas
+Pottawatomie,"(39.3976344, -96.3226072)",Kansas
+Woodson,"(37.9197853, -95.81428849999999)",Kansas
+Crawford,"(37.45579900000001, -94.81059549999999)",Kansas
+Neosho,"(37.6045688, -95.3102505)",Kansas
+Shawnee,"(39.0928449, -95.81428849999999)",Kansas
+Jefferson,"(39.2827652, -95.3102505)",Kansas
+Sumner,"(37.2236052, -97.6114217)",Kansas
+Clay,"(39.34791999999999, -97.179026)",Kansas
+Coffey,"(38.2570639, -95.81428849999999)",Kansas
+Gove,"(38.9271279, -100.5296115)",Kansas
+Harvey,"(38.0025215, -97.35165579999999)",Kansas
+McPherson,"(38.3164433, -97.69822719999999)",Kansas
+Osage,"(38.6009003, -95.6457951)",Kansas
+Ottawa,"(39.14938360000001, -97.69822719999999)",Kansas
+Miami,"(38.6381689, -94.81059549999999)",Kansas
+Finney,"(38.0625252, -100.8903099)",Kansas
+Montgomery,"(37.240253, -95.81428849999999)",Kansas
+Stafford,"(38.0749046, -98.7481167)",Kansas
+Stevens,"(37.186894, -101.2523792)",Kansas
+Atchison,"(39.5701137, -95.35208759999999)",Kansas
+Saline,"(38.8174853, -97.69822719999999)",Kansas
+Barton,"(38.3613844, -98.7651482)",Kansas
+Chautauqua,"(37.1738044, -96.2800864)",Kansas
+Labette,"(37.2639041, -95.3102505)",Kansas
+Pratt,"(37.5691719, -98.7481167)",Kansas
+Cloud,"(39.4795571, -97.69822719999999)",Kansas
+Cowley,"(37.2660235, -96.9209135)",Kansas
+Marion,"(38.349424, -97.179026)",Kansas
+Osborne,"(39.4051157, -98.7481167)",Kansas
+Greenwood,"(37.9025905, -96.15269850000001)",Kansas
+Jewell,"(39.7720227, -98.2212979)",Kansas
+Geary,"(38.9984685, -96.79223549999999)",Kansas
+Republic,"(39.807989, -97.69822719999999)",Kansas
+Wabaunsee,"(38.9092089, -96.15269850000001)",Kansas
+Morton,"(37.1333387, -101.7979613)",Kansas
+Barber,"(37.2299788, -98.7481167)",Kansas
+Rooks,"(39.3638509, -99.2785583)",Kansas
+Scott,"(38.562531, -100.8903099)",Kansas
+Seward,"(37.221014, -100.8903099)",Kansas
+Ellis,"(38.8683549, -99.2785583)",Kansas
+Hamilton,"(37.9741668, -101.7979613)",Kansas
+Phillips,"(39.766638, -99.3673084)",Kansas
+Kearny,"(38.0281402, -101.2523792)",Kansas
+Stanton,"(37.6390381, -101.7979613)",Kansas
+Dickinson,"(38.85059770000001, -97.179026)",Kansas
+Smith,"(39.7333849, -98.7481167)",Kansas
+Chase,"(38.3007661, -96.57833869999999)",Kansas
+Sherman,"(39.29821889999999, -101.7979613)",Kansas
+Wilson,"(37.5808413, -95.81428849999999)",Kansas
+Sheridan,"(39.3470831, -100.439656)",Kansas
+Haskell,"(37.5588285, -100.8903099)",Kansas
+Edwards,"(37.865958, -99.2785583)",Kansas
+Clark,"(37.3158895, -99.8124935)",Kansas
+Gray,"(37.6840811, -100.439656)",Kansas
+Kiowa,"(37.52851649999999, -99.2785583)",Kansas
+Rice,"(38.2808698, -98.2212979)",Kansas
+Grant,"(37.5245985, -101.2523792)",Kansas
+Meade,"(37.2698449, -100.3497895)",Kansas
+Nemaha,"(39.7451077, -95.9832577)",Kansas
+Cheyenne,"(39.7877848, -101.7979613)",Kansas
+Harper,"(37.1096002, -98.04651849999999)",Kansas
+Norton,"(39.7959566, -99.99122539999999)",Kansas
+Brown,"(39.770047, -95.4777811)",Kansas
+Ellsworth,"(38.615225, -98.2212979)",Kansas
+Anderson,"(38.2809328, -95.3102505)",Kansas
+Ness,"(38.4769509, -99.99122539999999)",Kansas
+Comanche,"(37.1894543, -99.2785583)",Kansas
+Hodgeman,"(38.1429747, -99.99122539999999)",Kansas
+Lane,"(38.4294888, -100.5296115)",Kansas
+Trego,"(38.9900316, -99.8124935)",Kansas
+Pawnee,"(38.2017581, -99.2785583)",Kansas
+Washington,"(39.8413319, -97.179026)",Kansas
+Allen,"(37.9435853, -95.3102505)",Kansas
+Thomas,"(39.3702882, -101.0711758)",Kansas
+Logan,"(38.9504774, -101.1617356)",Kansas
+Marshall,"(39.717719, -96.49297969999999)",Kansas
+Elk,"(37.3936365, -96.15269850000001)",Kansas
+Rush,"(38.5358968, -99.2785583)",Kansas
+Graham,"(39.3198302, -99.8124935)",Kansas
+Kingman,"(37.6071593, -98.2212979)",Kansas
+Lincoln,"(39.1135788, -98.2212979)",Kansas
+Russell,"(38.9094717, -98.7481167)",Kansas
+Decatur,"(39.74803680000001, -100.5296115)",Kansas
+Greeley,"(38.4738028, -101.7979613)",Kansas
+Wichita,"(38.5102583, -101.4339148)",Kansas
+Johnson,"(41.6698982, -91.5983959)",Iowa
+Pottawattamie,"(41.3911501, -95.4777811)",Iowa
+Carroll,"(42.0566912, -94.81059549999999)",Iowa
+Harrison,"(41.6933855, -95.81428849999999)",Iowa
+Dallas,"(41.6120022, -93.9878427)",Iowa
+Allamakee,"(43.2430754, -91.44346900000001)",Iowa
+Polk,"(41.6278423, -93.5003454)",Iowa
+Adair,"(41.2741733, -94.479976)",Iowa
+Black Hawk,"(42.447804, -92.38136209999999)",Iowa
+Washington,"(41.3477966, -91.7538817)",Iowa
+Winneshiek,"(43.2362611, -91.9099238)",Iowa
+Dubuque,"(42.4694679, -90.8294002)",Iowa
+Muscatine,"(41.5156913, -91.13530200000001)",Iowa
+Fayette,"(42.9258199, -91.9099238)",Iowa
+Henry,"(41.0283603, -91.5983959)",Iowa
+Linn,"(42.0659844, -91.67606909999999)",Iowa
+Story,"(42.1040438, -93.5003454)",Iowa
+Cerro Gordo,"(43.1543186, -93.20296750000001)",Iowa
+Kossuth,"(43.25133839999999, -94.2333355)",Iowa
+Poweshiek,"(41.6530119, -92.539603)",Iowa
+Scott,"(41.6393199, -90.6393702)",Iowa
+Sioux,"(43.08699360000001, -96.15269850000001)",Iowa
+Tama,"(42.1292592, -92.539603)",Iowa
+Woodbury,"(42.3166158, -95.9832577)",Iowa
+Hancock,"(43.0387322, -93.66232389999999)",Iowa
+Wapello,"(41.0148894, -92.38136209999999)",Iowa
+Buchanan,"(42.4566006, -91.9099238)",Iowa
+Cedar,"(41.8346154, -91.13530200000001)",Iowa
+Jasper,"(41.6414924, -93.0175712)",Iowa
+Warren,"(41.30805489999999, -93.5003454)",Iowa
+Benton,"(42.1387249, -92.0665197)",Iowa
+Appanoose,"(40.6806102, -92.8577105)",Iowa
+Clayton,"(42.7785285, -91.28910359999999)",Iowa
+Des Moines,"(40.9123374, -91.17369939999999)",Iowa
+Mahaska,"(41.32958800000001, -92.6983868)",Iowa
+Monona,"(42.001594, -95.9832577)",Iowa
+Page,"(40.7635099, -95.1432068)",Iowa
+Butler,"(42.7502186, -92.8577105)",Iowa
+Clinton,"(41.878563, -90.563609)",Iowa
+Dickinson,"(43.4049388, -95.18492189999999)",Iowa
+Hardin,"(42.4285425, -93.17796589999999)",Iowa
+Iowa,"(41.6624604, -92.0665197)",Iowa
+Marshall,"(42.0407088, -92.9375739)",Iowa
+Montgomery,"(41.0438839, -95.18492189999999)",Iowa
+Webster,"(42.3974963, -94.15137639999999)",Iowa
+Wright,"(42.7273744, -93.66232389999999)",Iowa
+Boone,"(42.0881747, -93.9878427)",Iowa
+Keokuk,"(41.3397063, -92.2236667)",Iowa
+Shelby,"(41.7177667, -95.3102505)",Iowa
+Taylor,"(40.7846069, -94.645035)",Iowa
+Audubon,"(41.7326826, -94.976654)",Iowa
+Crawford,"(42.034686, -95.3102505)",Iowa
+Guthrie,"(41.7530909, -94.479976)",Iowa
+Jackson,"(42.1560699, -90.52578229999999)",Iowa
+Jones,"(42.1516737, -91.13530200000001)",Iowa
+Van Buren,"(40.7001158, -91.9099238)",Iowa
+Clay,"(43.1368038, -95.1432068)",Iowa
+Madison,"(41.2922367, -93.9878427)",Iowa
+Mitchell,"(43.37107020000001, -92.8577105)",Iowa
+Bremer,"(42.76108199999999, -92.38136209999999)",Iowa
+Jefferson,"(41.0236358, -91.9099238)",Iowa
+O'Brien,"(43.1131245, -95.6457951)",Iowa
+Louisa,"(41.19330009999999, -91.28910359999999)",Iowa
+Lyon,"(43.3954333, -96.15269850000001)",Iowa
+Plymouth,"(42.776665, -96.15269850000001)",Iowa
+Grundy,"(42.4369506, -92.8577105)",Iowa
+Howard,"(43.3819496, -92.38136209999999)",Iowa
+Lee,"(40.70686630000001, -91.44346900000001)",Iowa
+Mills,"(41.0624496, -95.6457951)",Iowa
+Clarke,"(41.01778360000001, -93.7841503)",Iowa
+Hamilton,"(42.4141275, -93.66232389999999)",Iowa
+Chickasaw,"(43.0724667, -92.38136209999999)",Iowa
+Franklin,"(42.7372361, -93.33889169999999)",Iowa
+Marion,"(41.3173818, -93.17796589999999)",Iowa
+Winnebago,"(43.3481922, -93.66232389999999)",Iowa
+Buena Vista,"(42.6705452, -95.1432068)",Iowa
+Delaware,"(42.4634009, -91.44346900000001)",Iowa
+Greene,"(42.0700527, -94.479976)",Iowa
+Worth,"(43.3580686, -93.33889169999999)",Iowa
+Osceola,"(43.3851953, -95.6037465)",Iowa
+Union,"(41.0006855, -94.27436279999999)",Iowa
+Cass,"(41.2538068, -94.976654)",Iowa
+Cherokee,"(42.8027756, -95.6457951)",Iowa
+Humboldt,"(42.7482597, -94.19234000000002)",Iowa
+Pocahontas,"(42.6918039, -94.645035)",Iowa
+Davis,"(40.6913838, -92.38136209999999)",Iowa
+Calhoun,"(42.3785903, -94.645035)",Iowa
+Floyd,"(43.0615947, -92.8577105)",Iowa
+Sac,"(42.3573517, -95.1432068)",Iowa
+Wayne,"(40.6677356, -93.33889169999999)",Iowa
+Monroe,"(41.0040981, -92.8577105)",Iowa
+Fremont,"(40.7400403, -95.6457951)",Iowa
+Palo Alto,"(43.1580878, -94.645035)",Iowa
+Ida,"(42.3418685, -95.4777811)",Iowa
+Emmet,"(43.34943, -94.6863782)",Iowa
+Adams,"(41.0652066, -94.6863782)",Iowa
+Lucas,"(40.9912021, -93.33889169999999)",Iowa
+Ringgold,"(40.7973811, -94.315422)",Iowa
+Decatur,"(40.8146492, -93.8248241)",Iowa
+Dane,"(43.0186073, -89.5497632)",Wisconsin
+Pierce,"(44.7508921, -92.38136209999999)",Wisconsin
+Fond du Lac,"(43.7008379, -88.24611829999999)",Wisconsin
+Waukesha,"(43.0072599, -88.32393090000001)",Wisconsin
+Milwaukee,"(43.03879490000001, -87.9065334)",Wisconsin
+Racine,"(42.76108199999999, -87.6186379)",Wisconsin
+Sheboygan,"(43.6895227, -87.6186379)",Wisconsin
+Winnebago,"(44.0126679, -88.7108964)",Wisconsin
+Outagamie,"(44.4636545, -88.4016041)",Wisconsin
+Wood,"(44.4747774, -90.0746767)",Wisconsin
+Kenosha,"(42.5663156, -87.658113)",Wisconsin
+Brown,"(44.45616740000001, -87.9334803)",Wisconsin
+La Crosse,"(43.8617023, -91.13530200000001)",Wisconsin
+Washington,"(43.3932586, -88.24611829999999)",Wisconsin
+Bayfield,"(46.6650481, -91.12220070000001)",Wisconsin
+Calumet,"(44.1586082, -88.24611829999999)",Wisconsin
+Columbia,"(43.40466319999999, -89.3226954)",Wisconsin
+Eau Claire,"(44.7683909, -91.28910359999999)",Wisconsin
+Ozaukee,"(43.3819496, -87.6186379)",Wisconsin
+Sauk,"(43.4066375, -89.9253233)",Wisconsin
+Walworth,"(42.6202834, -88.55653099999999)",Wisconsin
+Chippewa,"(45.0673752, -91.2924666)",Wisconsin
+Douglas,"(46.3490012, -91.75768889999999)",Wisconsin
+Dunn,"(44.909416, -91.9099238)",Wisconsin
+Green,"(42.6287336, -89.62516459999999)",Wisconsin
+Jefferson,"(43.089927, -88.7108964)",Wisconsin
+Marathon,"(44.850452, -89.8505012)",Wisconsin
+Rock,"(42.6251506, -89.0179332)",Wisconsin
+St. Croix,"(45.0497844, -92.3875695)",Wisconsin
+Dodge,"(43.3994215, -88.7108964)",Wisconsin
+Grant,"(42.9397015, -90.6773046)",Wisconsin
+Iowa,"(42.9416737, -90.0746767)",Wisconsin
+Juneau,"(43.8672979, -90.0746767)",Wisconsin
+Monroe,"(43.9412045, -90.7532809)",Wisconsin
+Clark,"(44.8480735, -90.7532809)",Wisconsin
+Portage,"(44.4735957, -89.4742177)",Wisconsin
+Vilas,"(45.9787939, -89.45591619999999)",Wisconsin
+Iron,"(46.2855114, -90.2347734)",Wisconsin
+Marinette,"(45.3581961, -88.0649606)",Wisconsin
+Richland,"(43.4060497, -90.37483540000001)",Wisconsin
+Waupaca,"(44.4705941, -89.0179332)",Wisconsin
+Oneida,"(45.6750801, -89.4616564)",Wisconsin
+Door,"(44.8341302, -87.3770488)",Wisconsin
+Jackson,"(44.3206549, -90.8294002)",Wisconsin
+Marquette,"(43.865322, -89.3226954)",Wisconsin
+Ashland,"(46.9794969, -90.48248919999999)",Wisconsin
+Buffalo,"(44.3102354, -91.7538817)",Wisconsin
+Oconto,"(44.8332991, -88.0118473)",Wisconsin
+Crawford,"(43.2491547, -90.8294002)",Wisconsin
+Menominee,"(44.88577919999999, -88.6507943)",Wisconsin
+Adams,"(44.0196955, -89.77553379999999)",Wisconsin
+Trempealeau,"(44.23975919999999, -91.366216)",Wisconsin
+Barron,"(45.3607574, -91.77694799999999)",Wisconsin
+Rusk,"(45.51936490000001, -91.1563029)",Wisconsin
+Manitowoc,"(44.1438879, -87.460397)",Wisconsin
+Shawano,"(44.7683909, -88.7108964)",Wisconsin
+Florence,"(45.8161658, -88.3547524)",Wisconsin
+Kewaunee,"(44.5202599, -87.38107269999999)",Wisconsin
+Waushara,"(44.1313128, -89.20867729999999)",Wisconsin
+Lafayette,"(42.6293203, -90.0746767)",Wisconsin
+Sawyer,"(45.8220169, -91.16858859999999)",Wisconsin
+Polk,"(45.4259345, -92.3388439)",Wisconsin
+Price,"(45.7511666, -90.4622144)",Wisconsin
+Green Lake,"(43.863117, -89.0179332)",Wisconsin
+Washburn,"(45.9657186, -91.8148946)",Wisconsin
+Vernon,"(43.5576968, -90.8294002)",Wisconsin
+Lincoln,"(45.3743102, -89.7725799)",Wisconsin
+Forest,"(45.6704497, -88.83758069999999)",Wisconsin
+Burnett,"(45.8051186, -92.2888131)",Wisconsin
+Pepin,"(44.6451183, -92.02731899999999)",Wisconsin
+Langlade,"(45.220083, -89.01021329999999)",Wisconsin
+Taylor,"(45.2231325, -90.529916)",Wisconsin
+Bernalillo,"(35.0177854, -106.6291304)",New Mexico
+Santa Fe,"(35.3653705, -105.9699878)",New Mexico
+Socorro,"(33.8837087, -106.7234639)",New Mexico
+Sandoval,"(35.6020667, -106.7234639)",New Mexico
+Taos,"(36.4358718, -105.5943388)",New Mexico
+San Miguel,"(35.5117793, -104.8454619)",New Mexico
+Doña Ana,"(32.485767, -106.7234639)",New Mexico
+McKinley,"(35.71524720000001, -108.2377519)",New Mexico
+Lea,"(32.8968816, -103.3587288)",New Mexico
+San Juan,"(36.3882439, -108.2377519)",New Mexico
+Chaves,"(33.4757392, -104.4723301)",New Mexico
+Cibola,"(35.0947557, -107.8583868)",New Mexico
+Curry,"(34.5751567, -103.2663479)",New Mexico
+Eddy,"(32.4170622, -104.4723301)",New Mexico
+Rio Arriba,"(36.6162892, -106.7234639)",New Mexico
+Roosevelt,"(33.9538388, -103.3587288)",New Mexico
+Valencia,"(34.6743674, -106.6291304)",New Mexico
+Torrance,"(34.6784317, -105.9699878)",New Mexico
+Catron,"(34.1515173, -108.4276047)",New Mexico
+Grant,"(32.9690805, -108.2377519)",New Mexico
+Otero,"(32.6341716, -105.5943388)",New Mexico
+Lincoln,"(33.8853309, -105.4068079)",New Mexico
+Los Alamos,"(35.84962489999999, -106.3228338)",New Mexico
+Colfax,"(36.5799757, -104.4723301)",New Mexico
+Luna,"(32.3259122, -107.8583868)",New Mexico
+Quay,"(34.9569924, -103.7289167)",New Mexico
+Guadalupe,"(34.8235801, -104.8454619)",New Mexico
+Harding,"(35.8925537, -103.8216261)",New Mexico
+Union,"(36.37243340000001, -103.3587288)",New Mexico
+Sierra,"(33.13459600000001, -107.1011931)",New Mexico
+Hidalgo,"(31.93552, -108.7125791)",New Mexico
+Mora,"(35.9742154, -105.3300508)",New Mexico
+District of Columbia,"(38.9071923, -77.0368707)",District of Columbia
+Douglas,"(41.3148116, -96.19513200000002)",Nebraska
+Cass,"(40.8755529, -96.15269850000001)",Nebraska
+Knox,"(42.6712397, -97.87216)",Nebraska
+Sarpy,"(41.0744042, -96.19513200000002)",Nebraska
+Adams,"(40.5596231, -98.5721016)",Nebraska
+Lincoln,"(40.9338037, -100.8000051)",Nebraska
+Nemaha,"(40.4074745, -95.81428849999999)",Nebraska
+Buffalo,"(40.84102180000001, -99.1013498)",Nebraska
+Lancaster,"(40.8471492, -96.663812)",Nebraska
+Dawson,"(40.9427264, -99.8124935)",Nebraska
+Madison,"(41.9108264, -97.5247243)",Nebraska
+Washington,"(41.5541889, -96.19513200000002)",Nebraska
+Saunders,"(41.168563, -96.663812)",Nebraska
+Dodge,"(41.6472611, -96.663812)",Nebraska
+Hall,"(40.8817333, -98.5721016)",Nebraska
+Kearney,"(40.5328331, -98.92453429999999)",Nebraska
+Gosper,"(40.4604851, -99.8124935)",Nebraska
+Platte,"(41.59406, -97.5247243)",Nebraska
+Scotts Bluff,"(41.8140936, -103.6362715)",Nebraska
+Antelope,"(42.1902446, -98.04651849999999)",Nebraska
+York,"(40.7941448, -97.5247243)",Nebraska
+Kimball,"(41.1856601, -103.6362715)",Nebraska
+Cuming,"(41.95401529999999, -96.83509989999999)",Nebraska
+Colfax,"(41.6268435, -97.0068393)",Nebraska
+Gage,"(40.1989041, -96.663812)",Nebraska
+Hamilton,"(40.919722, -98.04651849999999)",Nebraska
+Otoe,"(40.675971, -96.11029429999999)",Nebraska
+Merrick,"(41.2031926, -98.0028892)",Nebraska
+Cherry,"(42.474114, -101.1617356)",Nebraska
+Johnson,"(40.3808026, -96.3226072)",Nebraska
+Phelps,"(40.4903536, -99.456155)",Nebraska
+Seward,"(40.9078649, -97.0984646)",Nebraska
+Cheyenne,"(41.2509264, -103.0817903)",Nebraska
+Custer,"(41.3491322, -99.72326729999999)",Nebraska
+Stanton,"(41.9329995, -97.179026)",Nebraska
+Burt,"(41.8252059, -96.3226072)",Nebraska
+Polk,"(41.1526688, -97.56805949999999)",Nebraska
+Clay,"(40.5975479, -98.04651849999999)",Nebraska
+Franklin,"(40.20898570000001, -98.92453429999999)",Nebraska
+Webster,"(40.2357266, -98.5721016)",Nebraska
+Box Butte,"(42.19114709999999, -103.0817903)",Nebraska
+Pierce,"(42.2257474, -97.5247243)",Nebraska
+Wayne,"(42.2479453, -97.179026)",Nebraska
+Dakota,"(42.4040965, -96.5356449)",Nebraska
+Saline,"(40.4930367, -97.179026)",Nebraska
+Morrill,"(41.6552418, -102.989615)",Nebraska
+Howard,"(41.20204349999999, -98.5721016)",Nebraska
+Nance,"(41.3995947, -98.04651849999999)",Nebraska
+Butler,"(41.1375727, -97.179026)",Nebraska
+Red Willow,"(40.2353963, -100.5296115)",Nebraska
+Furnas,"(40.12139699999999, -99.99122539999999)",Nebraska
+Dixon,"(42.4257719, -96.83509989999999)",Nebraska
+Fillmore,"(40.47101190000001, -97.5247243)",Nebraska
+Greeley,"(41.520541, -98.5721016)",Nebraska
+Sherman,"(41.1751661, -98.92453429999999)",Nebraska
+Thurston,"(42.1685528, -96.5356449)",Nebraska
+Jefferson,"(40.16807319999999, -97.179026)",Nebraska
+Cedar,"(42.56103239999999, -97.179026)",Nebraska
+Valley,"(41.4936253, -98.92453429999999)",Nebraska
+Frontier,"(40.5744778, -100.3497895)",Nebraska
+Hitchcock,"(40.1844599, -101.0711758)",Nebraska
+Keith,"(41.1815863, -101.5248055)",Nebraska
+Holt,"(42.3803308, -98.6600586)",Nebraska
+Boone,"(41.7172326, -98.04651849999999)",Nebraska
+Thomas,"(41.9882143, -100.5296115)",Nebraska
+Dawes,"(42.6551733, -103.0817903)",Nebraska
+Richardson,"(40.0898025, -95.6457951)",Nebraska
+Nuckolls,"(40.110932, -98.04651849999999)",Nebraska
+Chase,"(40.4531318, -101.6157773)",Nebraska
+Thayer,"(40.1460895, -97.5247243)",Nebraska
+Boyd,"(42.88237160000001, -98.70407499999999)",Nebraska
+Garden,"(41.7369721, -102.2547919)",Nebraska
+Garfield,"(41.9678957, -98.92453429999999)",Nebraska
+Banner,"(41.500766, -103.6362715)",Nebraska
+Sioux,"(42.5012873, -103.7289167)",Nebraska
+Harlan,"(40.1665848, -99.456155)",Nebraska
+Rock,"(42.3951993, -99.456155)",Nebraska
+Sheridan,"(42.3613076, -102.2547919)",Nebraska
+Hooker,"(41.9368476, -101.0711758)",Nebraska
+McPherson,"(41.6222686, -101.0711758)",Nebraska
+Pawnee,"(40.10258169999999, -96.19513200000002)",Nebraska
+Deuel,"(41.1401755, -102.3005803)",Nebraska
+Dundy,"(40.13061210000001, -101.6157773)",Nebraska
+Perkins,"(40.7922353, -101.4339148)",Nebraska
+Wheeler,"(41.8372138, -98.5721016)",Nebraska
+Arthur,"(41.5680276, -101.6157773)",Nebraska
