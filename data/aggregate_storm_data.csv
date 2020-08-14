@@ -1,0 +1,1537 @@
+index,state,cat_1_count,cat_2_count,cat_3_count,cat_4_count,cat_5_count,hurricane_count,tropical_storm_count,extratropical_system_count,tropical_depression_count,low_count,subtropical_depression_count,subtropical_storm_count,dissipating_storm_count,county
+Calhoun,Texas,2,3,1,0,0,6,2,0,5,0,0,0,0,Calhoun
+Refugio,Texas,3,1,2,0,0,6,5,0,1,0,0,0,0,Refugio
+Bee,Texas,1,0,0,0,0,1,8,0,2,0,0,0,0,Bee
+Live Oak,Texas,0,0,0,0,0,0,4,0,3,0,0,0,0,Live Oak
+McMullen,Texas,0,0,0,0,0,1,7,0,7,0,0,0,0,McMullen
+Frio,Texas,0,0,0,0,0,0,3,0,5,4,0,0,0,Frio
+Uvalde,Texas,0,0,0,0,0,0,2,0,0,0,0,0,0,Uvalde
+Real,Texas,0,0,0,0,0,0,2,0,0,0,0,0,0,Real
+Edwards,Texas,0,0,0,0,0,0,3,0,3,0,0,0,0,Edwards
+Kimble,Texas,0,0,0,0,0,0,2,0,0,0,0,0,0,Kimble
+Schleicher,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Schleicher
+Kenedy,Texas,6,3,0,0,0,10,7,0,6,0,0,0,0,Kenedy
+Cameron,Texas,3,3,1,1,0,9,4,0,2,0,0,0,0,Cameron
+Hidalgo,Texas,1,2,0,0,0,4,6,0,0,0,0,0,0,Hidalgo
+Starr,Texas,1,0,0,0,0,1,3,0,0,0,0,0,0,Starr
+Brazoria,Texas,5,5,3,1,0,15,12,0,11,0,0,0,0,Brazoria
+Harris,Texas,6,0,0,0,0,8,19,5,12,0,0,0,0,Harris
+Montgomery,Texas,0,1,0,0,0,1,12,1,8,0,0,0,0,Montgomery
+Hardin,Texas,1,0,0,0,0,2,8,3,0,0,0,0,0,Hardin
+Jasper,Texas,2,0,0,0,0,4,4,3,3,0,0,0,0,Jasper
+Kleberg,Texas,2,0,0,0,0,3,5,0,3,0,0,0,0,Kleberg
+Nueces,Texas,1,0,0,0,0,1,4,0,1,0,0,0,0,Nueces
+Jim Wells,Texas,1,0,0,0,0,1,2,0,1,0,0,0,0,Jim Wells
+Chambers,Texas,1,1,0,0,0,3,5,0,4,0,0,0,0,Chambers
+Jefferson,Texas,5,3,0,0,0,9,6,0,6,0,0,0,0,Jefferson
+Newton,Texas,1,0,0,0,0,1,5,4,2,0,0,0,0,Newton
+San Augustine,Texas,1,0,0,0,0,1,3,0,1,0,0,0,0,San Augustine
+Shelby,Texas,0,0,0,0,0,1,2,0,0,0,0,0,0,Shelby
+Panola,Texas,0,0,0,0,0,0,4,1,3,0,0,0,0,Panola
+Harrison,Texas,0,0,0,0,0,0,2,4,3,0,0,0,0,Harrison
+Victoria,Texas,3,1,1,0,0,5,6,0,1,0,0,0,0,Victoria
+Gonzales,Texas,0,0,0,0,0,0,7,0,5,0,0,0,0,Gonzales
+Guadalupe,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Guadalupe
+Burnet,Texas,0,0,0,0,0,0,1,0,1,0,0,0,0,Burnet
+San Saba,Texas,0,0,0,0,0,0,0,0,0,0,0,0,0,San Saba
+Aransas,Texas,0,1,0,0,0,1,1,0,0,0,0,0,0,Aransas
+Zavala,Texas,0,0,0,0,0,0,2,0,3,2,0,0,0,Zavala
+Kinney,Texas,0,0,0,0,0,0,0,0,2,0,0,0,0,Kinney
+Val Verde,Texas,0,0,0,0,0,0,2,0,2,0,0,0,0,Val Verde
+Terrell,Texas,0,0,0,0,0,0,1,0,4,0,0,0,0,Terrell
+Pecos,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Pecos
+Reeves,Texas,0,0,0,0,0,0,0,0,0,0,0,0,0,Reeves
+Walker,Texas,0,0,0,0,0,1,3,1,4,0,0,0,0,Walker
+Houston,Texas,0,0,0,0,0,0,2,2,6,0,0,0,0,Houston
+Anderson,Texas,0,0,0,0,0,0,2,1,1,0,0,0,0,Anderson
+Cherokee,Texas,0,0,0,0,0,0,1,1,7,0,0,0,0,Cherokee
+Matagorda,Texas,3,1,1,0,0,5,11,0,7,0,0,0,0,Matagorda
+Galveston,Texas,4,1,0,0,0,5,8,0,1,0,0,0,0,Galveston
+Liberty,Texas,0,0,0,0,0,1,14,2,3,0,0,0,0,Liberty
+Polk,Texas,0,0,0,0,0,0,3,0,9,0,0,0,0,Polk
+Angelina,Texas,0,0,0,0,0,0,7,1,3,0,0,0,0,Angelina
+Sabine,Texas,0,0,0,0,0,0,0,0,3,0,0,0,0,Sabine
+DeWitt,Texas,0,0,0,0,0,1,9,0,3,0,0,0,0,DeWitt
+Brooks,Texas,1,0,0,0,0,1,6,0,7,0,0,0,0,Brooks
+Duval,Texas,4,0,0,0,0,5,5,0,5,0,0,0,0,Duval
+Atascosa,Texas,0,0,0,0,0,0,1,0,8,0,0,0,0,Atascosa
+Bexar,Texas,2,0,0,0,0,2,2,0,5,0,0,0,0,Bexar
+Kendall,Texas,0,0,0,0,0,0,2,0,1,0,0,0,0,Kendall
+Blanco,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Blanco
+Llano,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Llano
+Mills,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Mills
+Hamilton,Texas,0,0,0,0,0,0,0,0,1,1,0,0,0,Hamilton
+Erath,Texas,0,0,0,0,0,0,0,0,3,1,0,0,0,Erath
+Willacy,Texas,3,2,0,0,0,5,2,0,0,0,0,0,0,Willacy
+Jim Hogg,Texas,2,0,0,0,0,2,5,0,4,0,0,0,0,Jim Hogg
+Webb,Texas,2,0,0,0,0,2,5,0,6,3,0,0,0,Webb
+Jackson,Texas,1,0,0,0,0,1,3,0,0,0,0,0,0,Jackson
+Lavaca,Texas,1,0,0,0,0,2,3,0,4,0,0,0,0,Lavaca
+Colorado,Texas,1,0,0,0,0,1,2,0,1,0,0,0,0,Colorado
+Waller,Texas,0,1,0,0,0,1,5,0,6,0,0,0,0,Waller
+Wharton,Texas,4,0,0,0,0,4,3,0,5,0,0,0,0,Wharton
+Zapata,Texas,0,0,0,0,0,0,7,0,1,2,0,0,0,Zapata
+Goliad,Texas,2,1,0,0,0,5,2,0,3,0,0,0,0,Goliad
+Karnes,Texas,0,1,0,0,0,2,0,0,8,0,0,0,0,Karnes
+Wilson,Texas,1,0,0,0,0,1,0,0,6,0,0,0,0,Wilson
+Comal,Texas,0,0,0,0,0,0,0,0,2,0,0,0,0,Comal
+Gillespie,Texas,0,0,0,0,0,0,0,0,2,0,0,0,0,Gillespie
+Bastrop,Texas,0,0,0,0,0,1,3,0,1,0,0,0,0,Bastrop
+Lee,Texas,0,0,0,0,0,0,0,0,2,0,0,0,0,Lee
+Orange,Texas,0,0,0,0,0,0,2,0,0,0,0,0,0,Orange
+Tyler,Texas,0,0,0,0,0,0,6,0,5,0,0,0,0,Tyler
+Trinity,Texas,1,0,0,0,0,1,3,0,8,0,0,0,0,Trinity
+Menard,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Menard
+Tom Green,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Tom Green
+Coke,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Coke
+Mitchell,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Mitchell
+San Patricio,Texas,3,0,0,0,0,3,4,0,1,0,0,0,0,San Patricio
+Bell,Texas,0,0,0,0,0,0,2,0,4,0,0,0,0,Bell
+Bosque,Texas,0,0,0,0,0,0,1,0,10,1,0,0,0,Bosque
+Tarrant,Texas,0,0,0,0,0,0,1,0,1,0,0,0,0,Tarrant
+Cooke,Texas,0,0,0,0,0,0,1,0,1,0,0,0,0,Cooke
+Austin,Texas,0,0,0,0,0,2,2,0,1,0,0,0,0,Austin
+Washington,Texas,0,0,0,0,0,0,4,0,5,0,0,0,0,Washington
+Burleson,Texas,1,0,0,0,0,1,4,0,5,0,0,0,0,Burleson
+Milam,Texas,1,0,0,0,0,1,3,0,6,0,0,0,0,Milam
+Falls,Texas,0,0,0,0,0,0,2,0,6,1,0,0,0,Falls
+Fort Bend,Texas,3,0,0,0,0,3,8,2,10,0,0,0,0,Fort Bend
+Medina,Texas,0,0,0,0,0,0,0,0,0,0,0,0,0,Medina
+Brazos,Texas,0,0,0,0,0,0,3,0,2,0,0,0,0,Brazos
+McLennan,Texas,0,0,0,0,0,1,1,0,9,0,0,0,0,McLennan
+Johnson,Texas,0,0,0,0,0,0,2,0,5,0,0,0,0,Johnson
+Parker,Texas,0,0,0,0,0,0,1,0,5,0,0,0,0,Parker
+Wise,Texas,0,0,0,0,0,0,1,0,4,0,0,0,0,Wise
+Williamson,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Williamson
+Ellis,Texas,0,0,0,0,0,0,1,0,3,0,0,0,0,Ellis
+Dallas,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Dallas
+Fannin,Texas,0,0,0,0,0,0,1,0,3,0,0,0,0,Fannin
+La Salle,Texas,0,0,0,0,0,0,4,0,1,4,0,0,0,La Salle
+Dimmit,Texas,0,0,0,0,0,0,5,0,2,0,0,0,0,Dimmit
+Robertson,Texas,0,0,0,0,0,0,6,0,4,0,0,0,0,Robertson
+Freestone,Texas,0,0,0,0,0,0,3,0,1,0,0,0,0,Freestone
+Henderson,Texas,0,0,0,0,0,0,0,0,2,0,0,0,0,Henderson
+Smith,Texas,0,0,0,0,0,0,1,2,3,0,0,0,0,Smith
+Wood,Texas,0,0,0,0,0,0,1,0,1,0,0,0,0,Wood
+Titus,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Titus
+Bowie,Texas,0,0,0,0,0,0,0,0,4,0,0,0,0,Bowie
+Nacogdoches,Texas,0,0,0,0,0,0,5,0,4,0,0,0,0,Nacogdoches
+Rusk,Texas,0,0,0,0,0,0,1,1,2,0,0,0,0,Rusk
+Camp,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Camp
+Red River,Texas,0,0,0,0,0,0,2,0,0,0,0,0,0,Red River
+Brewster,Texas,0,0,0,0,0,0,3,0,2,0,0,0,0,Brewster
+Presidio,Texas,0,0,0,0,0,0,0,0,3,0,0,0,0,Presidio
+Hudspeth,Texas,0,0,0,0,0,0,1,0,3,0,0,0,0,Hudspeth
+Grimes,Texas,0,0,0,0,0,0,3,0,5,0,0,0,0,Grimes
+Madison,Texas,0,0,0,0,0,0,2,0,1,0,0,0,0,Madison
+Navarro,Texas,0,0,0,0,0,0,0,0,3,0,0,0,0,Navarro
+Kaufman,Texas,0,0,0,0,0,0,0,0,3,0,0,0,0,Kaufman
+Hunt,Texas,0,0,0,0,0,0,0,0,3,0,0,0,0,Hunt
+El Paso,Texas,0,0,0,0,0,0,1,0,1,0,0,0,0,El Paso
+Fayette,Texas,0,0,0,0,0,1,1,0,1,0,0,0,0,Fayette
+Coryell,Texas,0,0,0,0,0,0,0,0,2,0,0,0,0,Coryell
+Comanche,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Comanche
+Eastland,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Eastland
+Shackelford,Texas,0,0,0,0,0,0,0,0,2,0,0,0,0,Shackelford
+Knox,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Knox
+Foard,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Foard
+Leon,Texas,0,0,0,0,0,0,0,0,7,0,0,0,0,Leon
+Gregg,Texas,0,0,0,0,0,0,0,1,1,0,0,0,0,Gregg
+Maverick,Texas,0,0,0,0,0,0,1,0,2,0,0,0,0,Maverick
+Cass,Texas,0,0,0,0,0,0,0,0,3,0,0,0,0,Cass
+Rains,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Rains
+Lamar,Texas,0,0,0,0,0,0,0,0,3,0,0,0,0,Lamar
+Bandera,Texas,0,0,0,0,0,1,0,0,1,0,0,0,0,Bandera
+Sutton,Texas,0,0,0,0,0,0,1,0,0,1,0,0,0,Sutton
+Crockett,Texas,0,0,0,0,0,0,1,0,0,1,0,0,0,Crockett
+Upton,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Upton
+Ector,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Ector
+Winkler,Texas,0,0,0,0,0,0,1,0,0,0,0,0,0,Winkler
+Hill,Texas,0,0,0,0,0,0,1,0,4,0,0,0,0,Hill
+Hood,Texas,0,0,0,0,0,0,0,0,2,0,0,0,0,Hood
+Palo Pinto,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Palo Pinto
+Jack,Texas,0,0,0,0,0,0,0,0,3,0,0,0,0,Jack
+Montague,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Montague
+Hopkins,Texas,0,0,0,0,0,0,1,0,1,0,0,0,0,Hopkins
+San Jacinto,Texas,0,0,0,0,0,0,3,0,8,0,0,0,0,San Jacinto
+Limestone,Texas,0,0,0,0,0,0,1,0,6,0,0,0,0,Limestone
+Rockwall,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Rockwall
+Travis,Texas,0,0,0,0,0,0,1,0,1,0,0,0,0,Travis
+Jeff Davis,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Jeff Davis
+Culberson,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Culberson
+Hays,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Hays
+Clay,Texas,0,0,0,0,0,0,0,0,2,0,0,0,0,Clay
+Upshur,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Upshur
+Reagan,Texas,0,0,0,0,0,0,0,0,1,2,0,0,0,Reagan
+Nolan,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Nolan
+Haskell,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Haskell
+Young,Texas,0,0,0,0,0,0,0,0,10,0,0,0,0,Young
+Choctaw,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Choctaw
+Kerr,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Kerr
+Midland,Texas,0,0,0,0,0,0,0,0,0,1,0,0,0,Midland
+Martin,Texas,0,0,0,0,0,0,0,0,0,2,0,0,0,Martin
+Borden,Texas,0,0,0,0,0,0,0,0,0,1,0,0,0,Borden
+Garza,Texas,0,0,0,0,0,0,0,0,0,1,0,0,0,Garza
+Crosby,Texas,0,0,0,0,0,0,0,0,0,1,0,0,0,Crosby
+Motley,Texas,0,0,0,0,0,0,0,0,0,1,0,0,0,Motley
+Hall,Texas,0,0,0,0,0,0,0,0,0,1,0,0,0,Hall
+Collingsworth,Texas,0,0,0,0,0,0,0,0,0,1,0,0,0,Collingsworth
+Mason,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Mason
+McCulloch,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,McCulloch
+Coleman,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Coleman
+Callahan,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Callahan
+Throckmorton,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Throckmorton
+Archer,Texas,0,0,0,0,0,0,0,0,1,0,0,0,0,Archer
+Calhoun,Florida,0,1,0,0,0,1,9,0,0,1,0,0,0,Calhoun
+Pinellas,Florida,1,1,0,0,0,2,4,0,4,1,0,0,0,Pinellas
+Hillsborough,Florida,2,2,0,0,0,4,8,0,7,0,0,1,0,Hillsborough
+Polk,Florida,10,1,0,0,0,13,26,0,25,0,1,0,0,Polk
+Osceola,Florida,8,0,0,0,0,8,11,1,5,0,1,0,1,Osceola
+Brevard,Florida,0,1,0,0,0,1,10,1,6,0,0,0,0,Brevard
+Jefferson,Florida,3,0,0,0,0,3,7,0,4,0,2,0,0,Jefferson
+DeSoto,Florida,0,1,0,0,0,1,4,0,1,0,0,0,0,DeSoto
+Okeechobee,Florida,1,3,0,0,0,5,13,0,3,0,0,0,1,Okeechobee
+Levy,Florida,0,1,0,0,0,1,10,1,6,0,0,0,0,Levy
+Alachua,Florida,1,0,0,0,0,2,8,0,4,0,0,0,0,Alachua
+Union,Florida,1,0,0,0,0,2,3,1,1,0,0,0,0,Union
+Baker,Florida,1,0,0,0,0,0,4,0,2,0,0,0,0,Baker
+Santa Rosa,Florida,1,1,0,0,0,2,10,1,6,0,0,0,0,Santa Rosa
+Washington,Florida,2,0,0,0,0,2,3,0,3,0,0,0,0,Washington
+Miami-Dade,Florida,12,1,2,2,0,17,15,1,18,1,0,0,0,Miami-Dade
+Collier,Florida,4,8,4,1,0,17,13,1,8,3,0,0,0,Collier
+Broward,Florida,3,0,2,0,0,5,7,0,3,0,0,0,0,Broward
+Palm Beach,Florida,7,3,4,1,0,15,22,0,12,0,0,0,1,Palm Beach
+Glades,Florida,1,1,1,0,0,3,11,1,4,0,0,0,0,Glades
+Highlands,Florida,2,1,0,0,0,3,5,1,10,0,0,0,0,Highlands
+Hernando,Florida,4,0,0,0,0,4,9,0,1,0,0,0,0,Hernando
+Sumter,Florida,2,0,0,0,0,2,4,0,6,0,0,0,0,Sumter
+Volusia,Florida,5,0,0,0,0,6,11,1,9,1,2,0,0,Volusia
+Bradford,Florida,1,0,0,0,0,1,1,0,0,0,0,0,0,Bradford
+Escambia,Florida,0,2,0,0,0,3,6,0,4,0,0,0,0,Escambia
+Hendry,Florida,0,1,1,0,0,2,15,0,5,0,0,0,0,Hendry
+Charlotte,Florida,3,1,0,1,0,5,8,0,2,0,0,0,0,Charlotte
+Orange,Florida,4,0,0,0,0,4,5,0,1,1,1,0,0,Orange
+Leon,Florida,1,0,0,0,0,1,6,0,3,0,0,0,0,Leon
+Walton,Florida,2,1,0,0,0,3,10,3,6,0,0,0,0,Walton
+Indian River,Florida,1,1,0,0,0,3,3,0,5,0,0,0,0,Indian River
+Pasco,Florida,7,1,0,0,0,8,11,0,4,1,0,0,0,Pasco
+Franklin,Florida,2,1,0,0,0,3,6,0,0,0,0,0,0,Franklin
+Bay,Florida,3,1,1,1,0,7,9,1,1,1,0,0,0,Bay
+Okaloosa,Florida,3,3,2,0,0,9,6,2,6,0,0,0,0,Okaloosa
+Gulf,Florida,4,1,1,0,0,7,2,0,1,0,0,0,0,Gulf
+Martin,Florida,2,3,2,0,0,7,11,0,3,0,0,0,1,Martin
+Monroe,Florida,3,1,0,2,0,6,13,0,6,0,0,0,0,Monroe
+Dixie,Florida,1,0,0,0,0,1,11,0,1,0,0,0,0,Dixie
+Gilchrist,Florida,1,0,1,0,0,2,4,0,0,0,0,0,0,Gilchrist
+Clay,Florida,2,0,0,0,0,2,6,0,3,1,0,0,0,Clay
+Flagler,Florida,4,0,0,0,0,4,9,1,3,0,1,0,0,Flagler
+Gadsden,Florida,1,1,0,0,0,2,7,1,6,0,0,0,0,Gadsden
+St. Lucie,Florida,2,4,0,0,0,6,6,0,2,0,0,0,0,St. Lucie
+Lake,Florida,6,0,0,0,0,5,12,0,8,0,1,1,0,Lake
+Marion,Florida,8,0,0,0,0,8,13,1,11,2,0,0,0,Marion
+Nassau,Florida,0,0,0,0,0,0,8,0,0,0,0,0,0,Nassau
+Lafayette,Florida,0,0,0,0,0,0,8,0,2,0,0,0,0,Lafayette
+Columbia,Florida,0,0,0,0,0,0,4,0,3,0,0,0,0,Columbia
+Hamilton,Florida,0,0,0,0,0,1,4,0,5,0,1,1,0,Hamilton
+Seminole,Florida,0,0,0,0,0,0,3,0,1,0,0,0,0,Seminole
+Madison,Florida,1,0,0,0,0,1,5,0,7,0,0,0,0,Madison
+Jackson,Florida,0,0,0,0,0,2,5,1,2,2,0,0,0,Jackson
+Liberty,Florida,3,1,0,0,0,4,2,0,2,0,0,0,0,Liberty
+Putnam,Florida,1,0,0,0,0,1,9,0,5,1,0,0,0,Putnam
+Lee,Florida,0,2,0,0,0,2,9,0,1,0,0,0,0,Lee
+Sarasota,Florida,0,0,0,0,0,0,1,0,3,0,0,0,0,Sarasota
+Citrus,Florida,1,0,0,0,0,2,4,0,4,1,0,0,0,Citrus
+Suwannee,Florida,1,0,0,0,0,1,7,0,2,0,0,0,0,Suwannee
+Holmes,Florida,2,0,0,0,0,3,3,0,3,0,0,0,0,Holmes
+Duval,Florida,1,0,0,0,0,1,10,0,2,0,1,0,0,Duval
+Wakulla,Florida,3,0,0,0,0,3,10,0,2,0,0,0,0,Wakulla
+Taylor,Florida,1,1,0,0,0,2,10,0,2,0,1,0,0,Taylor
+Manatee,Florida,1,0,0,0,0,1,5,0,3,0,0,0,0,Manatee
+Hardee,Florida,4,1,0,0,0,5,3,0,3,0,0,0,0,Hardee
+St. Johns,Florida,0,0,0,0,0,0,2,0,1,0,1,1,0,St. Johns
+Seminole,Georgia,2,0,1,0,0,3,1,0,1,0,0,0,0,Seminole
+Baker,Georgia,1,0,0,0,0,1,4,0,2,0,0,0,0,Baker
+Worth,Georgia,1,0,0,0,0,1,5,1,3,0,0,0,0,Worth
+Wilcox,Georgia,0,0,0,0,0,1,3,0,4,0,0,0,0,Wilcox
+Laurens,Georgia,0,0,0,0,0,1,4,1,0,0,1,0,0,Laurens
+Burke,Georgia,0,0,0,0,0,0,8,1,2,0,0,0,0,Burke
+Talbot,Georgia,0,0,0,0,0,0,2,0,1,0,0,0,0,Talbot
+Jones,Georgia,1,0,0,0,0,1,1,0,2,1,0,0,0,Jones
+Jefferson,Georgia,0,0,0,0,0,0,1,0,4,0,1,0,0,Jefferson
+McDuffie,Georgia,0,0,0,0,0,0,1,0,0,0,0,0,0,McDuffie
+Berrien,Georgia,1,0,0,0,0,1,4,0,3,0,0,0,0,Berrien
+Toombs,Georgia,0,0,0,0,0,1,3,0,0,0,0,0,0,Toombs
+Charlton,Georgia,0,1,0,0,0,1,7,2,2,0,1,1,0,Charlton
+Wayne,Georgia,1,0,0,0,0,1,5,0,4,0,0,0,0,Wayne
+Liberty,Georgia,2,0,0,0,0,2,3,0,2,0,0,0,0,Liberty
+McIntosh,Georgia,2,0,0,0,0,2,4,1,2,0,0,0,0,McIntosh
+Bryan,Georgia,2,0,0,0,0,2,8,1,3,0,0,0,0,Bryan
+Bulloch,Georgia,2,0,0,0,0,3,6,2,5,0,1,0,0,Bulloch
+Emanuel,Georgia,1,0,0,0,0,1,8,0,3,0,2,0,0,Emanuel
+Chatham,Georgia,2,4,0,0,0,6,1,0,1,0,0,0,0,Chatham
+Effingham,Georgia,2,0,0,0,0,3,3,1,3,0,1,0,0,Effingham
+Screven,Georgia,1,0,0,0,0,1,5,2,2,0,0,0,0,Screven
+Dougherty,Georgia,1,0,0,0,0,1,2,0,2,0,0,0,0,Dougherty
+Treutlen,Georgia,0,0,0,0,0,0,4,1,0,0,0,0,0,Treutlen
+Meriwether,Georgia,0,0,0,0,0,0,3,0,4,0,0,0,0,Meriwether
+Walton,Georgia,0,0,0,0,0,0,1,0,4,0,0,0,0,Walton
+Early,Georgia,0,0,0,0,0,0,4,0,4,1,0,0,0,Early
+Irwin,Georgia,0,0,0,0,0,0,3,1,0,0,1,0,0,Irwin
+Bacon,Georgia,1,0,0,0,0,1,4,0,1,0,0,0,0,Bacon
+Long,Georgia,0,0,0,0,0,0,4,1,4,0,0,0,0,Long
+Evans,Georgia,1,0,0,0,0,1,1,0,0,0,0,0,0,Evans
+Telfair,Georgia,2,0,0,0,0,2,4,2,1,0,0,0,0,Telfair
+Candler,Georgia,0,0,0,0,0,0,3,0,1,0,1,0,0,Candler
+Pulaski,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Pulaski
+Decatur,Georgia,1,0,0,0,0,1,6,1,3,0,0,0,0,Decatur
+Thomas,Georgia,2,0,0,0,0,3,3,0,0,0,1,0,0,Thomas
+Jeff Davis,Georgia,0,0,0,0,0,0,1,0,2,0,0,0,0,Jeff Davis
+Tattnall,Georgia,0,0,0,0,0,0,3,1,2,0,0,0,0,Tattnall
+Clinch,Georgia,1,0,0,0,0,1,6,0,2,0,0,0,0,Clinch
+Camden,Georgia,0,1,0,0,0,1,7,1,3,0,1,0,0,Camden
+Brantley,Georgia,0,0,0,0,0,0,5,0,3,0,0,0,0,Brantley
+Ware,Georgia,0,0,0,0,0,0,9,1,2,0,0,0,0,Ware
+Atkinson,Georgia,0,0,0,0,0,0,4,0,4,0,0,0,0,Atkinson
+Colquitt,Georgia,0,0,0,0,0,1,5,0,2,0,1,0,0,Colquitt
+Mitchell,Georgia,0,0,0,0,0,0,6,1,1,0,0,0,0,Mitchell
+Calhoun,Georgia,1,0,0,0,0,1,1,0,3,1,0,0,0,Calhoun
+Randolph,Georgia,0,0,0,0,0,0,1,0,3,0,0,0,0,Randolph
+Stewart,Georgia,0,0,0,0,0,0,1,0,3,1,0,0,0,Stewart
+Muscogee,Georgia,0,0,0,0,0,0,1,0,2,1,0,0,0,Muscogee
+Harris,Georgia,0,0,0,0,0,0,0,0,2,2,0,0,0,Harris
+Lamar,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Lamar
+Butts,Georgia,0,0,0,0,0,0,1,0,3,0,0,0,0,Butts
+Jasper,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Jasper
+Putnam,Georgia,0,0,0,0,0,0,1,0,1,1,0,0,0,Putnam
+Hancock,Georgia,0,0,0,0,0,0,0,0,3,1,0,0,0,Hancock
+Warren,Georgia,0,0,0,0,0,0,0,0,3,0,0,0,0,Warren
+Columbia,Georgia,0,0,0,0,0,0,0,1,2,0,0,0,0,Columbia
+Echols,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Echols
+Appling,Georgia,0,0,0,0,0,0,3,1,1,0,0,0,0,Appling
+Coffee,Georgia,1,0,0,0,0,2,5,0,2,0,0,0,0,Coffee
+Pierce,Georgia,0,0,0,0,0,0,5,0,1,0,0,0,0,Pierce
+Glynn,Georgia,1,0,0,0,0,1,3,0,0,0,0,0,0,Glynn
+Jackson,Georgia,0,0,0,0,0,0,0,0,0,0,0,0,0,Jackson
+Grady,Georgia,1,0,0,0,0,1,2,1,0,0,0,0,0,Grady
+Brooks,Georgia,0,0,0,0,0,0,7,1,2,0,0,0,0,Brooks
+Lanier,Georgia,0,0,0,0,0,0,3,1,0,0,0,0,0,Lanier
+Tift,Georgia,2,0,0,0,0,2,2,1,2,0,1,0,0,Tift
+Houston,Georgia,0,0,0,0,0,1,1,0,2,0,0,0,0,Houston
+Marion,Georgia,0,0,0,0,0,0,1,0,2,0,0,0,0,Marion
+Crawford,Georgia,0,0,0,0,0,0,3,0,1,0,0,0,0,Crawford
+Greene,Georgia,0,0,0,0,0,0,1,0,0,0,0,0,0,Greene
+Wilkes,Georgia,0,0,0,0,0,0,1,0,3,0,0,0,0,Wilkes
+Washington,Georgia,0,0,0,0,0,0,1,0,2,0,0,0,0,Washington
+Webster,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Webster
+Sumter,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Sumter
+Dooly,Georgia,1,0,0,0,0,1,0,0,3,0,0,0,0,Dooly
+Dodge,Georgia,0,0,0,0,0,0,4,1,1,0,1,0,0,Dodge
+Clay,Georgia,0,0,0,0,0,0,1,0,1,1,0,0,0,Clay
+Johnson,Georgia,0,0,0,0,0,0,1,0,3,0,0,0,0,Johnson
+Lowndes,Georgia,1,0,0,0,0,1,7,0,4,0,0,0,0,Lowndes
+Taliaferro,Georgia,0,0,0,0,0,0,2,0,2,0,0,0,0,Taliaferro
+Troup,Georgia,0,0,0,0,0,0,2,0,7,1,0,0,0,Troup
+Taylor,Georgia,0,0,0,0,0,0,1,0,0,0,1,0,0,Taylor
+Oglethorpe,Georgia,0,0,0,0,0,0,1,0,2,0,0,0,0,Oglethorpe
+Wilkinson,Georgia,0,0,0,0,0,0,2,0,1,0,1,0,0,Wilkinson
+Twiggs,Georgia,0,0,0,0,0,0,2,0,1,0,0,0,0,Twiggs
+Monroe,Georgia,0,0,0,0,0,0,2,0,3,0,0,0,0,Monroe
+Pike,Georgia,0,0,0,0,0,0,1,0,0,0,0,0,0,Pike
+Heard,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Heard
+Floyd,Georgia,0,0,0,0,0,0,1,1,2,0,0,0,0,Floyd
+Upson,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Upson
+Carroll,Georgia,0,0,0,0,0,0,2,0,2,0,0,0,0,Carroll
+Douglas,Georgia,0,0,0,0,0,0,0,2,2,0,0,0,0,Douglas
+Gwinnett,Georgia,0,0,0,0,0,0,0,1,1,0,0,0,0,Gwinnett
+Bleckley,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Bleckley
+Macon,Georgia,0,0,0,0,0,0,1,1,1,1,0,0,0,Macon
+Oconee,Georgia,0,0,0,0,0,0,0,1,0,0,0,0,0,Oconee
+Montgomery,Georgia,0,0,0,0,0,1,5,1,0,0,0,0,0,Montgomery
+Hall,Georgia,0,0,0,0,0,0,0,3,1,0,0,0,0,Hall
+Coweta,Georgia,0,0,0,0,0,0,1,0,4,0,0,0,0,Coweta
+Fayette,Georgia,0,0,0,0,0,0,1,1,6,0,0,0,0,Fayette
+Clayton,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Clayton
+Rockdale,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Rockdale
+Clarke,Georgia,0,0,0,0,0,0,0,0,2,0,0,0,0,Clarke
+Turner,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Turner
+Wheeler,Georgia,0,0,0,0,0,0,1,1,2,0,0,0,0,Wheeler
+Miller,Georgia,0,0,0,0,0,0,3,1,2,0,0,0,0,Miller
+Lee,Georgia,0,0,0,0,0,0,0,0,4,1,0,0,0,Lee
+Crisp,Georgia,0,0,0,0,0,0,3,0,2,0,0,0,0,Crisp
+Peach,Georgia,0,0,0,0,0,0,0,0,1,1,0,0,0,Peach
+Newton,Georgia,0,0,0,0,0,0,0,0,2,0,0,0,0,Newton
+Rabun,Georgia,0,0,0,0,0,0,0,1,0,0,0,0,0,Rabun
+Elbert,Georgia,0,0,0,0,0,0,0,1,0,0,0,0,0,Elbert
+Gordon,Georgia,0,0,0,0,0,0,1,0,2,0,0,0,0,Gordon
+Terrell,Georgia,0,0,0,0,0,0,3,0,1,0,0,0,0,Terrell
+Quitman,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Quitman
+Cook,Georgia,0,0,0,0,0,0,2,0,1,0,0,0,0,Cook
+Paulding,Georgia,0,0,0,0,0,0,0,0,2,0,0,0,0,Paulding
+Bartow,Georgia,0,0,0,0,0,0,0,0,3,0,0,0,0,Bartow
+Gilmer,Georgia,0,0,0,0,0,0,0,0,2,0,0,0,0,Gilmer
+Jenkins,Georgia,0,0,0,0,0,0,1,1,2,0,0,0,0,Jenkins
+Walker,Georgia,0,0,0,0,0,0,0,1,0,0,0,0,0,Walker
+Spalding,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Spalding
+Murray,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Murray
+Baldwin,Georgia,0,0,0,0,0,0,1,0,1,0,0,0,0,Baldwin
+Glascock,Georgia,0,0,0,0,0,0,1,1,1,1,0,0,0,Glascock
+Lincoln,Georgia,0,0,0,0,0,0,1,0,0,0,0,0,0,Lincoln
+Chattahoochee,Georgia,0,0,0,0,0,0,0,0,1,0,1,0,0,Chattahoochee
+Haralson,Georgia,0,0,0,0,0,0,0,1,3,0,0,0,0,Haralson
+Cherokee,Georgia,0,0,0,0,0,0,0,0,3,0,0,0,0,Cherokee
+Richmond,Georgia,0,0,0,0,0,0,1,0,0,1,1,0,0,Richmond
+Chattooga,Georgia,0,0,0,0,0,0,0,1,2,0,0,0,0,Chattooga
+Lumpkin,Georgia,0,0,0,0,0,0,0,1,1,0,0,0,0,Lumpkin
+Dade,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Dade
+Banks,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Banks
+Forsyth,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Forsyth
+Franklin,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Franklin
+Bibb,Georgia,0,0,0,0,0,0,0,0,0,1,1,0,0,Bibb
+Cobb,Georgia,0,0,0,0,0,0,0,0,1,0,0,0,0,Cobb
+Barnwell,South Carolina,0,0,0,0,0,0,3,0,0,1,0,0,0,Barnwell
+Richland,South Carolina,0,0,0,0,0,0,11,1,2,0,0,0,0,Richland
+Darlington,South Carolina,0,0,0,0,0,0,9,1,2,0,0,0,0,Darlington
+Orangeburg,South Carolina,0,0,0,0,0,1,10,2,2,0,1,0,0,Orangeburg
+Williamsburg,South Carolina,2,0,0,0,0,2,10,4,1,1,0,0,0,Williamsburg
+Edgefield,South Carolina,0,0,0,0,0,0,3,2,0,0,0,0,0,Edgefield
+Lee,South Carolina,0,0,0,0,0,0,2,2,4,0,0,0,0,Lee
+Screven,South Carolina,0,0,0,0,0,0,1,0,0,0,0,0,0,Screven
+Clarendon,South Carolina,1,1,0,0,0,2,10,2,2,0,1,1,0,Clarendon
+Marion,South Carolina,0,0,0,0,0,0,1,2,1,0,0,0,0,Marion
+Jasper,South Carolina,4,0,0,0,0,4,5,1,3,0,0,0,0,Jasper
+Beaufort,South Carolina,2,2,0,0,0,4,2,2,1,0,1,1,0,Beaufort
+Dorchester,South Carolina,1,0,0,0,0,1,4,1,3,1,0,1,0,Dorchester
+Berkeley,South Carolina,4,0,0,0,0,5,13,0,8,2,0,1,0,Berkeley
+Aiken,South Carolina,0,0,0,0,0,0,5,2,4,0,1,0,0,Aiken
+Chesterfield,South Carolina,0,0,0,0,0,0,6,1,1,0,0,0,0,Chesterfield
+Horry,South Carolina,1,1,0,1,0,4,10,3,2,0,1,0,0,Horry
+Abbeville,South Carolina,0,0,0,0,0,0,1,0,4,0,0,0,0,Abbeville
+York,South Carolina,0,0,0,0,0,0,3,0,3,0,0,0,0,York
+Marlboro,South Carolina,0,0,0,0,0,0,2,0,2,0,1,0,0,Marlboro
+Lancaster,South Carolina,0,0,0,0,0,0,1,0,3,0,0,0,0,Lancaster
+Fairfield,South Carolina,0,0,0,0,0,1,1,1,0,0,0,0,0,Fairfield
+Florence,South Carolina,0,0,0,0,0,0,2,1,1,0,1,1,0,Florence
+Colleton,South Carolina,3,1,0,0,0,5,5,5,2,0,0,0,0,Colleton
+Dillon,South Carolina,0,0,0,0,0,0,4,0,2,0,0,0,0,Dillon
+Calhoun,South Carolina,1,0,0,0,0,1,1,0,3,0,1,0,0,Calhoun
+Charleston,South Carolina,4,1,0,1,0,8,3,1,8,0,0,0,0,Charleston
+Spartanburg,South Carolina,0,0,0,0,0,0,0,1,5,0,0,0,0,Spartanburg
+Lexington,South Carolina,1,0,0,0,0,1,1,2,2,0,0,0,0,Lexington
+Kershaw,South Carolina,0,0,0,0,0,0,4,3,1,0,0,0,0,Kershaw
+Greenwood,South Carolina,0,0,0,0,0,0,1,1,3,0,0,0,0,Greenwood
+Union,South Carolina,0,0,0,0,0,0,2,1,1,0,0,0,0,Union
+Allendale,South Carolina,1,0,0,0,0,1,1,0,1,0,0,0,0,Allendale
+Bamberg,South Carolina,0,0,0,0,0,0,0,0,2,1,0,0,0,Bamberg
+McCormick,South Carolina,0,0,0,0,0,0,1,0,1,0,0,0,0,McCormick
+Laurens,South Carolina,0,0,0,0,0,0,1,0,2,0,0,0,0,Laurens
+Sumter,South Carolina,0,0,0,0,0,0,7,2,2,0,0,0,0,Sumter
+Newberry,South Carolina,0,0,0,0,0,0,2,0,2,0,0,0,0,Newberry
+Chester,South Carolina,2,0,0,0,0,2,2,0,1,0,0,0,0,Chester
+Georgetown,South Carolina,0,1,0,0,0,1,8,2,1,3,0,0,0,Georgetown
+Anderson,South Carolina,0,0,0,0,0,0,0,0,3,0,0,0,0,Anderson
+Pickens,South Carolina,0,0,0,0,0,0,1,1,0,0,0,0,0,Pickens
+Greenville,South Carolina,0,0,0,0,0,0,3,0,0,0,0,0,0,Greenville
+Oconee,South Carolina,0,0,0,0,0,0,0,1,3,0,0,0,0,Oconee
+Cherokee,South Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,Cherokee
+Saluda,South Carolina,0,0,0,0,0,0,2,0,0,0,0,0,0,Saluda
+Hampton,South Carolina,0,0,0,0,0,0,1,0,1,0,0,0,0,Hampton
+Robeson,North Carolina,1,0,0,0,0,1,3,1,10,0,1,0,0,Robeson
+Wayne,North Carolina,1,0,0,0,0,0,6,1,2,0,0,0,0,Wayne
+Martin,North Carolina,1,1,0,0,0,2,1,1,1,0,0,0,0,Martin
+Pasquotank,North Carolina,0,0,0,0,0,0,4,0,0,0,0,0,0,Pasquotank
+Scotland,North Carolina,0,0,0,0,0,0,3,1,2,0,0,0,0,Scotland
+Cumberland,North Carolina,2,0,0,0,0,2,1,2,2,0,1,0,0,Cumberland
+Johnston,North Carolina,0,0,0,0,0,0,3,0,5,0,0,0,0,Johnston
+Edgecombe,North Carolina,0,0,0,0,0,0,0,1,3,0,0,0,0,Edgecombe
+Bertie,North Carolina,0,0,0,0,0,0,4,0,0,0,1,0,0,Bertie
+Bladen,North Carolina,2,0,0,0,0,2,6,3,5,0,0,0,0,Bladen
+Lenoir,North Carolina,0,0,0,0,0,0,6,1,0,0,0,0,0,Lenoir
+Tyrrell,North Carolina,0,1,0,0,0,1,3,1,1,0,0,0,0,Tyrrell
+Harnett,North Carolina,1,0,0,0,0,1,6,1,3,0,2,0,0,Harnett
+Halifax,North Carolina,0,0,0,0,0,0,4,2,3,0,0,0,0,Halifax
+Montgomery,North Carolina,0,0,0,0,0,0,1,0,0,0,0,0,0,Montgomery
+Chatham,North Carolina,1,0,0,0,0,1,2,0,1,0,0,0,0,Chatham
+Granville,North Carolina,0,0,0,0,0,0,3,0,3,0,1,0,0,Granville
+Currituck,North Carolina,1,0,0,0,0,1,4,0,1,0,0,0,0,Currituck
+Jones,North Carolina,3,1,0,0,0,4,5,3,0,0,0,0,0,Jones
+Carteret,North Carolina,4,1,0,0,0,5,5,1,1,0,0,0,0,Carteret
+Onslow,North Carolina,4,2,0,0,0,6,4,0,0,0,2,0,0,Onslow
+Craven,North Carolina,1,0,0,0,0,1,7,5,0,0,1,0,0,Craven
+Pamlico,North Carolina,3,1,0,0,0,4,2,0,1,0,1,0,0,Pamlico
+Hyde,North Carolina,5,0,0,0,0,5,11,5,2,0,0,0,0,Hyde
+Randolph,North Carolina,0,0,0,0,0,0,2,0,2,0,0,0,0,Randolph
+Camden,North Carolina,2,0,0,0,0,2,0,0,0,0,1,0,0,Camden
+Sampson,North Carolina,0,1,0,0,0,2,7,3,4,0,0,0,0,Sampson
+Lee,North Carolina,0,0,0,0,0,0,0,0,0,0,0,0,0,Lee
+Franklin,North Carolina,0,0,0,0,0,0,3,1,3,0,0,0,0,Franklin
+Guilford,North Carolina,0,0,0,0,0,0,1,0,4,0,0,0,0,Guilford
+Union,North Carolina,0,0,0,0,0,0,3,0,2,0,0,0,0,Union
+Person,North Carolina,0,0,0,0,0,0,0,0,0,0,0,0,0,Person
+Dare,North Carolina,1,2,0,0,0,3,3,0,0,0,0,0,0,Dare
+Greene,North Carolina,0,0,0,0,0,0,1,2,1,0,0,0,0,Greene
+Brunswick,North Carolina,7,1,0,0,0,10,12,3,3,0,0,0,0,Brunswick
+Pender,North Carolina,1,3,0,0,0,4,7,1,2,0,5,0,0,Pender
+Duplin,North Carolina,1,0,0,0,0,1,8,5,0,0,0,0,0,Duplin
+Pitt,North Carolina,0,0,0,0,0,1,3,0,0,0,0,0,0,Pitt
+Northampton,North Carolina,1,0,0,0,0,1,2,2,4,0,0,0,0,Northampton
+Richmond,North Carolina,0,0,0,0,0,0,1,1,1,0,0,0,0,Richmond
+Wake,North Carolina,0,0,0,0,0,0,3,3,3,0,1,0,0,Wake
+Rockingham,North Carolina,0,0,0,0,0,0,2,1,1,0,0,0,0,Rockingham
+Hertford,North Carolina,0,0,0,0,0,0,1,1,1,0,0,0,0,Hertford
+Cabarrus,North Carolina,0,0,0,0,0,0,2,0,0,0,0,0,0,Cabarrus
+Beaufort,North Carolina,3,0,0,0,0,3,4,7,0,0,2,0,0,Beaufort
+Gates,North Carolina,0,0,0,0,0,0,3,0,0,0,0,0,0,Gates
+Nash,North Carolina,0,0,0,0,0,0,3,0,1,0,0,0,0,Nash
+Warren,North Carolina,0,0,0,0,0,0,3,1,1,0,0,0,0,Warren
+Anson,North Carolina,0,0,0,0,0,0,2,0,1,0,0,0,0,Anson
+Moore,North Carolina,0,0,0,0,0,0,3,1,1,0,0,0,0,Moore
+Orange,North Carolina,0,0,0,0,0,0,2,0,2,0,0,0,0,Orange
+Cleveland,North Carolina,0,0,0,0,0,0,3,0,1,0,0,0,0,Cleveland
+Iredell,North Carolina,0,0,0,0,0,0,1,1,1,0,0,0,0,Iredell
+Perquimans,North Carolina,0,0,0,0,0,0,0,2,0,0,0,0,0,Perquimans
+New Hanover,North Carolina,1,1,0,0,0,2,3,0,0,0,0,0,0,New Hanover
+Mecklenburg,North Carolina,1,0,0,0,0,1,0,1,1,0,0,0,0,Mecklenburg
+Forsyth,North Carolina,0,0,0,0,0,1,2,0,1,0,0,0,0,Forsyth
+Hoke,North Carolina,0,0,0,0,0,0,0,2,2,0,0,0,0,Hoke
+Haywood,North Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,Haywood
+Columbus,North Carolina,0,0,0,0,0,0,6,1,2,0,1,0,0,Columbus
+Greenville,North Carolina,0,0,0,0,0,0,0,1,0,0,0,0,0,Greenville
+Durham,North Carolina,0,0,0,0,0,1,2,0,0,0,1,0,0,Durham
+Burke,North Carolina,0,0,0,0,0,0,0,3,0,0,0,0,0,Burke
+Surry,North Carolina,0,0,0,0,0,0,1,3,0,0,0,0,0,Surry
+Graham,North Carolina,0,0,0,0,0,0,0,0,3,0,0,0,0,Graham
+Catawba,North Carolina,0,0,0,0,0,0,0,1,2,0,0,0,0,Catawba
+Jackson,North Carolina,0,0,0,0,0,0,1,1,0,0,0,0,0,Jackson
+Henderson,North Carolina,0,0,0,0,0,0,0,1,0,0,0,0,0,Henderson
+Davidson,North Carolina,0,0,0,0,0,0,2,2,1,0,0,0,0,Davidson
+Gaston,North Carolina,0,0,0,0,0,0,1,0,1,0,0,0,0,Gaston
+Stokes,North Carolina,0,0,0,0,0,0,0,0,2,0,0,0,0,Stokes
+Davie,North Carolina,0,0,0,0,0,0,1,0,1,0,0,0,0,Davie
+Cherokee,North Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,Cherokee
+Wilson,North Carolina,0,0,0,0,0,0,1,0,2,0,0,0,0,Wilson
+Ashe,North Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,Ashe
+Washington,North Carolina,0,0,0,0,0,0,0,1,0,0,0,0,0,Washington
+Caldwell,North Carolina,0,0,0,0,0,0,2,0,0,0,0,0,0,Caldwell
+Rowan,North Carolina,0,0,0,0,0,0,1,1,2,0,0,0,0,Rowan
+Alamance,North Carolina,0,0,0,0,0,0,0,0,3,0,0,0,0,Alamance
+Rutherford,North Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,Rutherford
+Vance,North Carolina,0,0,0,0,0,0,0,0,0,0,1,0,0,Vance
+Swain,North Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,Swain
+Buncombe,North Carolina,0,0,0,0,0,0,0,0,3,0,0,0,0,Buncombe
+McDowell,North Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,McDowell
+Alexander,North Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,Alexander
+Caswell,North Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,Caswell
+Chowan,North Carolina,0,0,0,0,0,0,0,0,0,0,1,0,0,Chowan
+Clay,North Carolina,0,0,0,0,0,0,0,0,1,0,0,0,0,Clay
+Transylvania,North Carolina,0,0,0,0,0,0,0,1,0,0,0,0,0,Transylvania
+Jackson,Mississippi,3,3,1,0,0,8,12,0,0,2,0,0,0,Jackson
+Hancock,Mississippi,0,0,1,0,1,2,5,1,0,0,0,0,0,Hancock
+Harrison,Mississippi,5,3,1,0,0,10,6,1,2,0,0,0,0,Harrison
+Stone,Mississippi,1,0,0,0,0,1,7,1,0,0,0,1,0,Stone
+Forrest,Mississippi,0,0,0,0,0,1,0,1,1,0,0,0,0,Forrest
+Jones,Mississippi,0,0,0,0,0,0,8,0,3,0,0,0,0,Jones
+Smith,Mississippi,1,0,0,0,0,1,4,0,2,0,0,0,0,Smith
+Copiah,Mississippi,0,0,0,0,0,0,2,0,2,0,0,0,0,Copiah
+Warren,Mississippi,0,0,0,0,0,0,3,0,1,0,0,0,0,Warren
+Hinds,Mississippi,0,0,0,0,0,0,0,0,4,0,0,0,0,Hinds
+Perry,Mississippi,3,0,0,0,0,4,5,0,1,0,0,0,0,Perry
+Greene,Mississippi,0,0,0,0,0,0,13,1,0,0,0,0,0,Greene
+Franklin,Mississippi,0,0,0,0,0,0,8,0,2,1,0,0,0,Franklin
+Claiborne,Mississippi,0,0,0,0,0,0,4,1,0,0,0,0,0,Claiborne
+Issaquena,Mississippi,0,0,0,0,0,0,1,0,4,1,0,0,0,Issaquena
+Humphreys,Mississippi,0,0,0,0,0,0,1,0,0,0,0,0,0,Humphreys
+Sunflower,Mississippi,0,0,0,0,0,0,1,0,3,0,0,0,0,Sunflower
+George,Mississippi,2,1,0,0,0,3,6,0,0,1,0,0,0,George
+Lawrence,Mississippi,0,0,0,0,0,0,0,1,1,0,0,0,0,Lawrence
+Wayne,Mississippi,1,0,0,0,0,1,4,0,4,0,0,0,0,Wayne
+Jasper,Mississippi,0,0,0,0,0,1,4,0,4,0,0,0,0,Jasper
+Scott,Mississippi,0,0,0,0,0,0,0,0,1,0,0,0,0,Scott
+Madison,Mississippi,0,0,0,0,0,1,1,0,4,0,0,0,0,Madison
+Yazoo,Mississippi,0,0,0,0,0,0,2,0,2,0,0,0,0,Yazoo
+Holmes,Mississippi,0,0,0,0,0,0,4,0,2,0,0,0,0,Holmes
+Coahoma,Mississippi,0,0,0,0,0,0,0,0,2,0,0,0,0,Coahoma
+Kemper,Mississippi,0,0,0,0,0,0,1,0,7,0,0,0,0,Kemper
+Amite,Mississippi,0,0,0,0,0,0,3,0,3,0,0,0,0,Amite
+Simpson,Mississippi,1,0,0,0,0,1,2,1,4,0,0,0,0,Simpson
+Newton,Mississippi,0,0,0,0,0,0,7,1,3,0,0,0,0,Newton
+Neshoba,Mississippi,0,0,0,0,0,0,4,0,5,0,0,0,0,Neshoba
+Noxubee,Mississippi,0,0,0,0,0,1,2,0,3,0,0,0,0,Noxubee
+Lowndes,Mississippi,0,0,0,0,0,0,0,1,3,0,0,0,0,Lowndes
+Winston,Mississippi,0,0,0,0,0,0,0,1,5,0,0,0,0,Winston
+Oktibbeha,Mississippi,0,0,0,0,0,0,1,1,3,0,0,0,0,Oktibbeha
+Clay,Mississippi,0,0,0,0,0,0,1,0,6,0,0,0,0,Clay
+Marion,Mississippi,0,1,0,0,0,1,5,0,7,0,0,0,0,Marion
+Lincoln,Mississippi,0,0,0,0,0,0,1,0,2,0,0,0,0,Lincoln
+Rankin,Mississippi,0,0,0,0,0,0,5,0,4,0,0,0,0,Rankin
+Leake,Mississippi,0,0,0,0,0,0,4,1,3,0,0,0,0,Leake
+Jefferson Davis,Mississippi,0,0,0,0,0,0,1,0,2,0,0,0,0,Jefferson Davis
+Lee,Mississippi,0,0,0,0,0,0,1,0,1,0,0,0,0,Lee
+Monroe,Mississippi,0,0,0,0,0,0,3,0,1,0,0,0,0,Monroe
+Pontotoc,Mississippi,0,0,0,0,0,0,2,0,2,0,0,0,0,Pontotoc
+DeSoto,Mississippi,0,0,0,0,0,0,1,0,1,0,0,0,0,DeSoto
+Wilkinson,Mississippi,1,0,0,0,0,1,5,0,3,0,0,0,0,Wilkinson
+Washington,Mississippi,0,0,0,0,0,0,1,0,3,0,0,0,0,Washington
+Bolivar,Mississippi,0,0,0,0,0,0,1,1,1,0,0,0,0,Bolivar
+Tunica,Mississippi,0,0,0,0,0,0,1,0,1,0,0,0,0,Tunica
+Sharkey,Mississippi,0,0,0,0,0,0,0,0,2,0,0,0,0,Sharkey
+Attala,Mississippi,0,0,0,0,0,0,2,0,2,0,0,0,0,Attala
+Marshall,Mississippi,0,0,0,0,0,0,0,0,2,1,0,0,0,Marshall
+Alcorn,Mississippi,0,0,0,0,0,0,1,0,1,0,0,0,0,Alcorn
+Covington,Mississippi,0,0,0,0,0,0,3,0,2,0,0,0,0,Covington
+Choctaw,Mississippi,0,0,0,0,0,0,1,0,3,0,0,0,0,Choctaw
+Leflore,Mississippi,0,0,0,0,0,0,3,0,4,0,0,0,0,Leflore
+Quitman,Mississippi,0,0,0,0,0,0,0,0,2,0,0,0,0,Quitman
+Panola,Mississippi,0,0,0,0,0,0,1,1,0,0,0,0,0,Panola
+Benton,Mississippi,0,0,0,0,0,0,1,0,1,0,0,0,0,Benton
+Lamar,Mississippi,1,0,0,0,0,1,1,0,1,0,0,0,0,Lamar
+Calhoun,Mississippi,0,0,0,0,0,0,1,1,0,0,0,0,0,Calhoun
+Jefferson,Mississippi,0,0,0,0,0,0,2,0,0,0,0,0,0,Jefferson
+Walthall,Mississippi,0,0,0,0,0,0,1,0,1,1,0,0,0,Walthall
+Montgomery,Mississippi,0,0,0,0,0,0,1,0,0,0,0,0,0,Montgomery
+Tate,Mississippi,0,0,0,0,0,0,2,1,0,0,0,0,0,Tate
+Pearl River,Mississippi,0,1,0,1,0,2,2,0,3,1,0,1,0,Pearl River
+Clarke,Mississippi,1,0,0,0,0,1,2,0,4,0,0,0,0,Clarke
+Lauderdale,Mississippi,0,0,0,0,0,0,1,0,4,0,0,0,0,Lauderdale
+Grenada,Mississippi,0,0,0,0,0,0,3,0,0,0,0,0,0,Grenada
+Chickasaw,Mississippi,0,0,0,0,0,0,1,0,3,1,0,0,0,Chickasaw
+East Carroll,Mississippi,0,0,0,0,0,0,1,0,0,0,0,0,0,East Carroll
+Desha,Mississippi,0,0,0,0,0,0,1,0,0,0,0,0,0,Desha
+Carroll,Mississippi,0,0,0,0,0,0,3,0,3,0,0,0,0,Carroll
+Tallahatchie,Mississippi,0,0,0,0,0,0,2,1,1,0,0,0,0,Tallahatchie
+Lafayette,Mississippi,0,0,0,0,0,0,1,0,0,1,0,0,0,Lafayette
+Tippah,Mississippi,0,0,0,0,0,0,2,0,1,0,0,0,0,Tippah
+Union,Mississippi,0,0,0,0,0,0,0,0,2,0,0,0,0,Union
+Pike,Mississippi,0,0,0,0,0,0,0,0,1,1,0,0,0,Pike
+Adams,Mississippi,0,0,0,0,0,0,0,0,1,0,0,0,0,Adams
+Itawamba,Mississippi,0,0,0,0,0,0,1,0,1,0,0,0,0,Itawamba
+Yalobusha,Mississippi,0,0,0,0,0,0,0,1,3,0,0,0,0,Yalobusha
+Prentiss,Mississippi,0,0,0,0,0,0,0,0,1,0,0,0,0,Prentiss
+Tishomingo,Mississippi,0,0,0,0,0,0,1,1,0,0,0,0,0,Tishomingo
+Jackson,Alabama,1,0,1,0,0,2,1,0,5,0,0,0,0,Jackson
+Mobile,Alabama,2,1,0,0,0,4,11,1,4,1,0,1,0,Mobile
+Clarke,Alabama,1,0,0,0,0,2,9,0,14,1,0,0,0,Clarke
+Monroe,Alabama,1,0,0,0,0,2,10,0,7,0,1,0,0,Monroe
+Lowndes,Alabama,1,0,0,0,0,1,1,0,3,0,0,0,0,Lowndes
+Montgomery,Alabama,0,0,0,0,0,0,3,0,1,0,0,0,0,Montgomery
+Lee,Alabama,0,0,0,0,0,0,4,0,4,0,0,0,0,Lee
+Covington,Alabama,0,0,0,0,0,0,4,2,3,0,0,0,0,Covington
+Barbour,Alabama,1,0,0,0,0,1,5,1,3,0,1,0,0,Barbour
+Talladega,Alabama,0,0,0,0,0,1,1,0,2,1,0,0,0,Talladega
+Etowah,Alabama,0,0,0,0,0,0,0,1,4,0,0,0,0,Etowah
+DeKalb,Alabama,0,0,0,0,0,0,1,1,7,0,0,0,0,DeKalb
+Baldwin,Alabama,7,1,0,0,0,9,18,3,6,0,0,1,0,Baldwin
+Escambia,Alabama,1,0,0,0,0,3,8,0,4,0,0,0,0,Escambia
+Conecuh,Alabama,0,0,0,0,0,0,6,0,5,0,0,0,0,Conecuh
+Butler,Alabama,0,0,0,0,0,0,2,0,6,0,1,0,0,Butler
+Macon,Alabama,0,0,0,0,0,0,4,0,5,0,0,0,0,Macon
+Coffee,Alabama,2,0,0,0,0,2,7,0,4,0,0,0,0,Coffee
+Dale,Alabama,0,0,0,0,0,0,1,0,1,0,0,0,0,Dale
+Choctaw,Alabama,0,0,0,0,0,0,5,1,6,0,0,0,0,Choctaw
+Hale,Alabama,0,0,0,0,0,0,2,0,5,0,0,0,0,Hale
+Shelby,Alabama,0,0,0,0,0,0,7,2,7,0,0,0,0,Shelby
+Washington,Alabama,0,0,0,0,0,0,5,2,6,1,0,0,0,Washington
+Geneva,Alabama,1,0,0,0,0,2,5,0,1,0,0,0,0,Geneva
+Crenshaw,Alabama,0,0,0,0,0,0,2,0,0,0,0,0,0,Crenshaw
+Autauga,Alabama,0,0,0,0,0,0,1,1,5,1,0,0,0,Autauga
+Jefferson,Alabama,0,0,0,0,0,0,1,0,4,1,0,0,0,Jefferson
+Lawrence,Alabama,0,0,0,0,0,0,0,0,0,0,0,0,0,Lawrence
+Tuscaloosa,Alabama,0,0,0,0,0,0,4,0,11,0,0,0,0,Tuscaloosa
+Cullman,Alabama,0,0,0,0,0,0,0,0,4,0,0,0,0,Cullman
+Marengo,Alabama,0,0,0,0,0,0,3,1,6,0,0,0,0,Marengo
+Greene,Alabama,0,0,0,0,0,0,0,0,6,0,0,0,0,Greene
+Lamar,Alabama,0,0,0,0,0,0,2,0,0,0,0,0,0,Lamar
+Marion,Alabama,0,0,0,0,0,0,0,2,1,0,0,0,0,Marion
+Limestone,Alabama,0,0,0,0,0,0,0,0,1,0,0,0,0,Limestone
+Franklin,Alabama,0,0,0,0,0,0,1,0,0,1,0,0,0,Franklin
+Wilcox,Alabama,0,0,0,0,0,1,2,1,3,1,0,0,0,Wilcox
+Sumter,Alabama,0,0,0,0,0,0,2,0,7,0,0,0,0,Sumter
+Tallapoosa,Alabama,0,0,0,0,0,0,4,1,3,3,0,0,0,Tallapoosa
+Russell,Alabama,0,0,0,0,0,0,3,0,2,1,0,0,0,Russell
+Pike,Alabama,0,0,0,0,0,0,2,0,2,0,1,0,0,Pike
+Bullock,Alabama,0,0,0,0,0,0,2,0,2,0,0,0,0,Bullock
+Walker,Alabama,0,0,0,0,0,0,2,0,2,0,0,0,0,Walker
+Madison,Alabama,0,0,0,0,0,0,1,1,5,0,0,0,0,Madison
+Pickens,Alabama,0,0,0,0,0,0,1,0,3,0,0,0,0,Pickens
+Henry,Alabama,0,0,0,0,0,0,4,0,5,1,0,0,0,Henry
+Cleburne,Alabama,0,0,0,0,0,0,0,0,2,0,0,0,0,Cleburne
+Calhoun,Alabama,0,0,0,0,0,0,2,0,1,0,0,0,0,Calhoun
+Dallas,Alabama,0,0,0,0,0,0,1,0,6,1,0,0,0,Dallas
+Coosa,Alabama,0,0,0,0,0,0,1,1,4,0,0,0,0,Coosa
+Randolph,Alabama,0,0,0,0,0,0,0,3,1,0,0,0,0,Randolph
+Elmore,Alabama,0,0,0,0,0,0,0,1,6,1,0,0,0,Elmore
+Chambers,Alabama,0,0,0,0,0,0,2,0,2,1,0,0,0,Chambers
+Houston,Alabama,1,0,0,0,0,1,4,0,1,1,0,0,0,Houston
+Perry,Alabama,0,0,0,0,0,1,2,1,3,0,0,0,0,Perry
+St. Clair,Alabama,0,0,0,0,0,0,0,1,9,0,0,0,0,St. Clair
+Bibb,Alabama,0,0,0,0,0,0,0,1,11,0,0,0,0,Bibb
+Morgan,Alabama,0,0,0,0,0,0,1,0,2,0,0,0,0,Morgan
+Blount,Alabama,0,0,0,0,0,0,0,0,3,0,0,0,0,Blount
+Marshall,Alabama,0,0,0,0,0,0,0,0,2,0,0,0,0,Marshall
+Colbert,Alabama,0,0,0,0,0,0,1,0,3,1,0,0,0,Colbert
+Clay,Alabama,0,0,0,0,0,0,0,0,1,0,0,0,0,Clay
+Lauderdale,Alabama,0,0,0,0,0,0,0,0,2,0,0,0,0,Lauderdale
+Cherokee,Alabama,0,0,0,0,0,0,0,0,2,0,0,0,0,Cherokee
+Chilton,Alabama,0,0,0,0,0,0,0,0,3,0,0,0,0,Chilton
+Fayette,Alabama,0,0,0,0,0,0,0,0,2,0,0,0,0,Fayette
+Muscogee,Alabama,0,0,0,0,0,0,1,0,0,0,0,0,0,Muscogee
+Winston,Alabama,0,0,0,0,0,0,0,0,1,0,0,0,0,Winston
+Chesapeake,Virginia,1,0,0,0,0,1,1,1,0,0,1,0,0,Chesapeake
+Southampton,Virginia,0,0,0,0,0,0,2,2,1,0,0,0,0,Southampton
+Dinwiddie,Virginia,0,0,0,0,0,0,2,0,1,0,0,0,0,Dinwiddie
+Loudoun,Virginia,0,0,0,0,0,0,1,2,1,0,0,0,0,Loudoun
+King George,Virginia,0,0,0,0,0,0,0,0,0,0,0,0,0,King George
+Halifax,Virginia,0,0,0,0,0,0,2,1,0,0,0,0,0,Halifax
+Fluvanna,Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Fluvanna
+Culpeper,Virginia,0,0,0,0,0,0,0,0,0,0,0,0,0,Culpeper
+Lunenburg,Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Lunenburg
+Hanover,Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Hanover
+Prince George,Virginia,0,0,0,0,0,0,1,0,1,0,0,0,0,Prince George
+King and Queen,Virginia,0,0,0,0,0,0,0,1,2,0,0,0,0,King and Queen
+Isle of Wight,Virginia,0,0,0,0,0,0,2,1,0,0,0,0,0,Isle of Wight
+Accomack,Virginia,0,0,0,0,0,0,3,2,1,0,0,0,0,Accomack
+Henrico,Virginia,1,0,0,0,0,1,0,0,0,0,0,0,0,Henrico
+Stafford,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Stafford
+Chesterfield,Virginia,0,0,0,0,0,0,1,2,0,0,0,0,0,Chesterfield
+Rockbridge,Virginia,0,0,0,0,0,0,2,0,2,0,0,0,0,Rockbridge
+Charles City,Virginia,0,1,0,0,0,1,1,1,1,0,0,0,0,Charles City
+Giles,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Giles
+Bedford,Virginia,0,0,0,0,0,0,2,1,2,0,0,0,0,Bedford
+Amelia,Virginia,0,0,0,0,0,0,0,0,0,0,0,0,0,Amelia
+Mecklenburg,Virginia,1,0,0,0,0,1,1,1,0,0,1,0,0,Mecklenburg
+Nottoway,Virginia,0,0,0,0,0,0,1,1,1,0,0,0,0,Nottoway
+Powhatan,Virginia,0,0,0,0,0,0,1,2,0,0,0,0,0,Powhatan
+Caroline,Virginia,0,0,0,0,0,0,1,2,2,0,0,0,0,Caroline
+Prince William,Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Prince William
+Buckingham,Virginia,1,0,0,0,0,2,0,1,2,0,0,0,0,Buckingham
+Louisa,Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Louisa
+Fauquier,Virginia,0,0,0,0,0,0,2,1,0,0,0,0,0,Fauquier
+Pittsylvania,Virginia,0,0,0,0,0,0,2,1,0,0,0,0,0,Pittsylvania
+Brunswick,Virginia,1,0,0,0,0,1,2,3,0,0,0,0,0,Brunswick
+Sussex,Virginia,0,0,0,0,0,0,2,2,1,0,0,0,0,Sussex
+Surry,Virginia,0,0,0,0,0,0,2,2,0,0,0,0,0,Surry
+Gloucester,Virginia,0,0,0,0,0,0,2,1,1,0,0,0,0,Gloucester
+Henry,Virginia,0,0,0,0,0,0,2,0,1,0,0,0,0,Henry
+Amherst,Virginia,0,0,0,0,0,0,1,1,0,0,0,0,0,Amherst
+Madison,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Madison
+Page,Virginia,1,0,0,0,0,1,0,0,1,0,0,0,0,Page
+Essex,Virginia,0,0,0,0,0,1,0,1,1,0,0,0,0,Essex
+Lancaster,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Lancaster
+Wythe,Virginia,0,0,0,0,0,0,0,2,0,0,0,0,0,Wythe
+Roanoke,Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Roanoke
+Nelson,Virginia,0,0,0,0,0,0,1,1,0,0,0,0,0,Nelson
+Albemarle,Virginia,0,0,0,0,0,0,2,0,1,0,0,0,0,Albemarle
+York,Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,York
+Floyd,Virginia,0,0,0,0,0,0,0,0,2,0,0,0,0,Floyd
+Bath,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Bath
+Richmond,Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Richmond
+Lee,Virginia,0,0,0,0,0,0,0,2,2,0,0,0,0,Lee
+Wise,Virginia,0,0,0,0,0,0,0,2,2,0,0,0,0,Wise
+James City,Virginia,1,0,0,0,0,1,1,0,1,0,0,0,0,James City
+Fairfax,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Fairfax
+Shenandoah,Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Shenandoah
+Hardy,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Hardy
+Westmoreland,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Westmoreland
+Rappahannock,Virginia,0,0,0,0,0,0,2,0,0,0,0,0,0,Rappahannock
+Spotsylvania,Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Spotsylvania
+Charlotte,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Charlotte
+Greene,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Greene
+Portsmouth,Virginia,0,0,0,0,0,0,1,0,1,0,0,0,0,Portsmouth
+Smyth,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Smyth
+Appomattox,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Appomattox
+Hopewell,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Hopewell
+Buchanan,Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Buchanan
+Rockingham,Virginia,0,0,0,0,0,0,1,1,1,0,0,0,0,Rockingham
+Franklin,Virginia,0,0,0,0,0,0,1,1,1,0,0,0,0,Franklin
+Augusta,Virginia,0,0,0,0,0,0,1,0,1,0,0,0,0,Augusta
+Northampton,Virginia,0,0,0,0,0,0,1,1,0,0,0,0,0,Northampton
+Patrick,Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Patrick
+Botetourt,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Botetourt
+Russell,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Russell
+Highland,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Highland
+Lynchburg,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Lynchburg
+Virginia Beach,Virginia,1,0,0,0,0,1,0,0,0,0,1,0,0,Virginia Beach
+King William,Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,King William
+Grayson,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Grayson
+Prince Edward,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Prince Edward
+Greensville,Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Greensville
+Suffolk,Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Suffolk
+Bland,Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Bland
+Marion,Tennessee,0,0,0,0,0,0,0,0,5,0,0,0,0,Marion
+Hamilton,Tennessee,0,0,0,0,0,0,0,0,0,0,0,0,0,Hamilton
+McMinn,Tennessee,0,0,0,0,0,0,0,1,1,0,0,0,0,McMinn
+Loudon,Tennessee,0,0,0,0,0,0,0,0,0,0,0,0,0,Loudon
+Lawrence,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Lawrence
+Perry,Tennessee,0,0,0,0,0,0,1,0,1,0,0,0,0,Perry
+Henry,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Henry
+Lincoln,Tennessee,0,0,0,0,0,0,0,2,5,0,0,0,0,Lincoln
+Lauderdale,Tennessee,0,0,0,0,0,0,0,0,3,0,0,0,0,Lauderdale
+Gibson,Tennessee,0,0,0,0,0,0,0,0,3,0,0,0,0,Gibson
+Carroll,Tennessee,0,0,0,0,0,0,0,0,2,0,0,0,0,Carroll
+Houston,Tennessee,0,0,0,0,0,0,0,0,2,0,0,0,0,Houston
+Wayne,Tennessee,0,0,0,0,0,0,1,0,3,0,0,0,0,Wayne
+McNairy,Tennessee,0,0,0,0,0,0,0,0,3,1,0,0,0,McNairy
+Henderson,Tennessee,0,0,0,0,0,0,0,0,0,0,0,0,0,Henderson
+Hardeman,Tennessee,0,0,0,0,0,0,1,0,3,0,0,0,0,Hardeman
+Humphreys,Tennessee,0,0,0,0,0,0,1,1,2,0,0,0,0,Humphreys
+Warren,Tennessee,0,0,0,0,0,0,1,1,1,0,0,0,0,Warren
+Roane,Tennessee,0,0,0,0,0,0,0,1,1,0,0,0,0,Roane
+Grainger,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Grainger
+Hawkins,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Hawkins
+Sequatchie,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Sequatchie
+Van Buren,Tennessee,0,0,0,0,0,0,0,0,0,0,0,0,0,Van Buren
+Maury,Tennessee,0,0,0,0,0,0,1,0,1,0,0,0,0,Maury
+Montgomery,Tennessee,0,0,0,0,0,0,0,0,2,0,0,0,0,Montgomery
+Bedford,Tennessee,0,0,0,0,0,0,0,0,3,0,0,0,0,Bedford
+Williamson,Tennessee,0,0,0,0,0,0,0,2,1,0,0,0,0,Williamson
+Shelby,Tennessee,0,0,0,0,0,0,2,1,2,1,0,0,0,Shelby
+Carter,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Carter
+Monroe,Tennessee,0,0,0,0,0,0,0,1,2,0,0,0,0,Monroe
+Jefferson,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Jefferson
+Washington,Tennessee,0,0,0,0,0,0,0,1,1,0,0,0,0,Washington
+Giles,Tennessee,0,0,0,0,0,0,1,0,1,0,0,0,0,Giles
+Morgan,Tennessee,0,0,0,0,0,0,0,0,2,0,0,0,0,Morgan
+Fentress,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Fentress
+Haywood,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Haywood
+Tipton,Tennessee,0,0,0,0,0,0,0,0,2,1,0,0,0,Tipton
+Obion,Tennessee,0,0,0,0,0,0,0,1,4,0,0,0,0,Obion
+Blount,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Blount
+Sevier,Tennessee,0,0,0,0,0,0,0,0,2,0,0,0,0,Sevier
+Hancock,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Hancock
+Bradley,Tennessee,0,0,0,0,0,0,0,1,3,0,0,0,0,Bradley
+Knox,Tennessee,0,0,0,0,0,0,0,1,1,0,0,0,0,Knox
+Hardin,Tennessee,0,0,0,0,0,0,1,0,1,0,0,0,0,Hardin
+Wilson,Tennessee,0,0,0,0,0,0,0,0,2,0,0,0,0,Wilson
+Overton,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Overton
+Madison,Tennessee,0,0,0,0,0,0,1,0,1,1,0,0,0,Madison
+Weakley,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Weakley
+Rutherford,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Rutherford
+Sumner,Tennessee,0,0,0,0,0,0,0,1,1,0,0,0,0,Sumner
+Meigs,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Meigs
+Campbell,Tennessee,0,0,0,0,0,0,0,1,1,0,0,0,0,Campbell
+Union,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Union
+Fayette,Tennessee,0,0,0,0,0,0,0,0,3,0,0,0,0,Fayette
+Crockett,Tennessee,0,0,0,0,0,0,0,0,2,1,0,0,0,Crockett
+Dyer,Tennessee,0,0,0,0,0,0,0,1,3,0,0,0,0,Dyer
+Macon,Tennessee,0,0,0,0,0,0,1,0,0,0,0,0,0,Macon
+Hickman,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Hickman
+Cheatham,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Cheatham
+Franklin,Tennessee,0,0,0,0,0,0,0,0,2,0,0,0,0,Franklin
+Claiborne,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Claiborne
+DeKalb,Tennessee,0,0,0,0,0,0,1,0,0,0,0,0,0,DeKalb
+Sullivan,Tennessee,0,0,0,0,0,0,0,1,1,0,0,0,0,Sullivan
+Grundy,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Grundy
+Polk,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Polk
+Greene,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Greene
+Cocke,Tennessee,0,0,0,0,0,0,0,0,2,0,0,0,0,Cocke
+Unicoi,Tennessee,0,0,0,0,0,0,0,0,1,0,0,0,0,Unicoi
+Rhea,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Rhea
+Anderson,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Anderson
+Lewis,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Lewis
+Davidson,Tennessee,0,0,0,0,0,0,0,1,0,0,0,0,0,Davidson
+Lake,Tennessee,0,0,0,0,0,0,0,0,0,1,0,0,0,Lake
+Putnam,Tennessee,0,0,0,0,0,0,0,0,0,1,0,0,0,Putnam
+Allen,Louisiana,0,0,0,0,0,1,7,0,0,0,0,0,0,Allen
+Evangeline,Louisiana,0,0,0,0,0,0,4,0,3,0,0,0,0,Evangeline
+St. Landry,Louisiana,0,0,0,0,0,0,9,0,3,0,0,0,0,St. Landry
+St. Tammany,Louisiana,1,0,1,0,0,2,3,3,4,0,0,1,0,St. Tammany
+Tangipahoa,Louisiana,0,0,0,0,0,0,5,1,6,0,0,0,0,Tangipahoa
+Plaquemines,Louisiana,5,3,4,1,0,14,8,0,4,0,0,0,0,Plaquemines
+St. Charles,Louisiana,0,0,0,0,0,2,0,1,1,0,0,1,0,St. Charles
+Ascension,Louisiana,1,0,0,0,0,2,1,0,0,0,0,0,0,Ascension
+West Baton Rouge,Louisiana,0,0,0,0,0,0,4,0,0,0,0,0,0,West Baton Rouge
+West Feliciana,Louisiana,0,0,0,0,0,0,2,0,1,0,0,0,0,West Feliciana
+Catahoula,Louisiana,0,0,0,0,0,0,2,1,2,0,0,0,0,Catahoula
+LaSalle,Louisiana,0,0,0,0,0,1,3,1,4,0,0,0,0,LaSalle
+Iberia,Louisiana,2,1,0,0,0,4,2,0,3,0,0,1,0,Iberia
+Lafayette,Louisiana,1,0,0,0,0,1,2,0,0,0,0,0,0,Lafayette
+Acadia,Louisiana,0,0,0,0,0,1,2,1,0,0,0,0,0,Acadia
+Avoyelles,Louisiana,0,0,0,0,0,0,4,0,3,0,0,0,0,Avoyelles
+Rapides,Louisiana,0,0,0,0,0,0,7,0,5,0,0,0,0,Rapides
+Grant,Louisiana,0,0,0,0,0,0,1,0,3,0,0,0,0,Grant
+Winn,Louisiana,0,0,0,0,0,0,3,3,1,0,0,0,0,Winn
+Caldwell,Louisiana,0,0,0,0,0,0,2,1,1,0,0,0,0,Caldwell
+Franklin,Louisiana,1,0,0,0,0,1,1,3,3,0,0,0,0,Franklin
+Tensas,Louisiana,0,0,0,0,0,0,0,0,2,0,0,0,0,Tensas
+Lafourche,Louisiana,8,2,0,1,0,11,6,0,6,1,0,0,0,Lafourche
+St. Martin,Louisiana,3,1,0,0,0,4,3,2,1,0,0,2,0,St. Martin
+St. Bernard,Louisiana,0,0,1,0,0,1,3,0,2,0,0,0,0,St. Bernard
+St. Mary,Louisiana,1,4,2,0,0,8,5,0,0,0,1,0,0,St. Mary
+East Baton Rouge,Louisiana,4,0,0,0,0,4,2,0,1,0,0,0,0,East Baton Rouge
+Amite,Louisiana,0,0,0,0,0,0,3,0,0,0,0,0,0,Amite
+Cameron,Louisiana,3,1,3,0,0,7,12,0,4,0,0,0,0,Cameron
+Calcasieu,Louisiana,2,0,1,0,0,4,7,0,0,0,0,0,0,Calcasieu
+Jefferson Davis,Louisiana,0,0,0,0,0,0,6,1,0,0,0,0,0,Jefferson Davis
+Iberville,Louisiana,3,1,0,0,0,5,5,2,4,0,0,2,0,Iberville
+Livingston,Louisiana,0,0,0,0,0,0,5,2,2,0,0,0,0,Livingston
+Jefferson,Louisiana,1,0,0,0,0,1,4,0,1,1,0,0,0,Jefferson
+Orleans,Louisiana,0,0,0,0,0,0,5,0,1,0,0,0,0,Orleans
+Sabine,Louisiana,0,0,0,0,0,0,3,0,3,0,0,0,0,Sabine
+East Feliciana,Louisiana,0,0,0,0,0,0,1,0,4,0,0,0,0,East Feliciana
+Terrebonne,Louisiana,7,4,0,0,0,12,7,1,3,0,0,0,0,Terrebonne
+De Soto,Louisiana,0,0,0,0,0,1,5,0,0,0,0,0,0,De Soto
+Webster,Louisiana,0,0,0,0,0,0,2,0,4,0,0,0,0,Webster
+Beauregard,Louisiana,2,0,0,0,0,3,8,0,2,0,0,0,0,Beauregard
+Madison,Louisiana,0,0,0,0,0,1,0,0,1,1,0,0,0,Madison
+Assumption,Louisiana,1,0,0,0,0,1,2,0,0,0,0,0,0,Assumption
+Bossier,Louisiana,0,0,0,0,0,0,2,1,2,0,0,0,0,Bossier
+Claiborne,Louisiana,0,0,0,0,0,0,1,0,2,0,0,0,0,Claiborne
+Washington,Louisiana,0,0,0,0,0,0,7,0,2,0,0,0,0,Washington
+Vermilion,Louisiana,4,0,0,0,0,4,11,0,2,0,0,1,0,Vermilion
+Lincoln,Louisiana,0,0,0,0,0,0,2,0,1,0,0,0,0,Lincoln
+Union,Louisiana,0,0,0,0,0,0,1,0,0,0,0,0,0,Union
+East Carroll,Louisiana,0,0,0,0,0,0,1,1,1,0,0,0,0,East Carroll
+St. James,Louisiana,1,0,0,0,0,1,3,0,0,1,0,0,0,St. James
+Vernon,Louisiana,1,0,0,0,0,1,8,0,2,0,0,0,0,Vernon
+Concordia,Louisiana,1,0,0,0,0,1,0,0,1,0,0,0,0,Concordia
+Wilkinson,Louisiana,0,0,0,0,0,0,1,0,1,0,0,0,0,Wilkinson
+Natchitoches,Louisiana,0,0,0,0,0,0,2,0,8,0,0,0,0,Natchitoches
+Red River,Louisiana,0,0,0,0,0,0,0,0,2,0,0,0,0,Red River
+St. John the Baptist,Louisiana,0,0,0,0,0,0,3,1,1,0,0,0,0,St. John the Baptist
+Pointe Coupee,Louisiana,2,0,0,0,0,2,7,0,3,0,0,0,0,Pointe Coupee
+Jackson,Louisiana,0,0,0,0,0,0,2,0,1,0,0,0,0,Jackson
+Bienville,Louisiana,0,0,0,0,0,0,0,3,3,0,0,0,0,Bienville
+Caddo,Louisiana,0,0,0,0,0,0,2,1,5,0,0,0,0,Caddo
+Ouachita,Louisiana,0,0,0,0,0,0,2,0,3,0,0,0,0,Ouachita
+St. Helena,Louisiana,0,0,0,0,0,0,2,0,4,0,0,0,0,St. Helena
+Richland,Louisiana,0,0,0,0,0,0,1,0,4,0,0,0,0,Richland
+West Carroll,Louisiana,0,0,0,0,0,0,0,1,2,0,0,0,0,West Carroll
+Morehouse,Louisiana,0,0,0,0,0,0,1,0,1,0,0,0,0,Morehouse
+Providence,Rhode Island,1,0,0,0,0,1,2,3,0,0,0,0,0,Providence
+Washington,Rhode Island,0,1,0,0,0,1,0,2,0,0,0,0,0,Washington
+Cumberland,Maine,0,0,0,0,0,1,0,4,1,0,0,0,0,Cumberland
+Piscataquis,Maine,0,0,0,0,0,0,3,11,0,0,0,0,0,Piscataquis
+Franklin,Maine,1,0,0,0,0,1,0,1,0,0,0,0,0,Franklin
+Penobscot,Maine,1,0,0,0,0,1,0,2,1,0,0,0,0,Penobscot
+Lincoln,Maine,0,1,0,0,0,1,0,1,0,0,0,0,0,Lincoln
+Waldo,Maine,1,0,0,0,0,1,1,0,1,0,0,0,0,Waldo
+Somerset,Maine,0,0,0,0,0,0,1,13,0,0,0,0,0,Somerset
+Aroostook,Maine,0,0,0,0,0,0,0,10,2,0,0,0,0,Aroostook
+Hancock,Maine,0,0,0,0,0,0,4,3,0,0,0,0,0,Hancock
+Oxford,Maine,0,0,0,0,0,0,3,4,0,0,0,0,0,Oxford
+Kennebec,Maine,0,0,0,0,0,0,0,4,0,0,0,0,0,Kennebec
+York,Maine,0,0,0,0,0,0,1,2,1,0,0,0,0,York
+Washington,Maine,0,0,0,0,0,0,2,4,0,0,0,0,0,Washington
+Knox,Maine,0,0,0,0,0,0,1,0,0,0,0,0,0,Knox
+Sagadahoc,Maine,0,0,0,0,0,0,0,1,0,0,0,0,0,Sagadahoc
+Snyder,Pennsylvania,0,0,0,0,0,0,0,0,1,0,0,0,0,Snyder
+Schuylkill,Pennsylvania,0,0,0,0,0,0,0,1,0,0,0,0,0,Schuylkill
+Sullivan,Pennsylvania,0,0,0,0,0,0,2,0,0,0,0,0,0,Sullivan
+York,Pennsylvania,0,0,0,0,0,0,2,1,0,0,0,0,0,York
+Columbia,Pennsylvania,0,0,0,0,0,0,0,0,0,0,0,0,0,Columbia
+Cumberland,Pennsylvania,0,0,0,0,0,0,0,1,1,0,0,0,0,Cumberland
+Lycoming,Pennsylvania,0,0,0,0,0,0,0,3,0,0,0,0,0,Lycoming
+Bradford,Pennsylvania,0,0,0,0,0,0,1,0,0,0,0,0,0,Bradford
+Lancaster,Pennsylvania,0,0,0,0,0,0,4,2,0,0,0,0,0,Lancaster
+Berks,Pennsylvania,0,0,0,0,0,0,0,0,0,0,0,0,0,Berks
+Lehigh,Pennsylvania,0,0,0,0,0,0,0,0,0,0,0,0,0,Lehigh
+Northampton,Pennsylvania,0,0,0,0,0,0,1,0,0,0,0,0,0,Northampton
+Huntingdon,Pennsylvania,0,0,0,0,0,0,1,0,1,0,0,0,0,Huntingdon
+Cameron,Pennsylvania,0,0,0,0,0,0,1,0,0,0,0,0,0,Cameron
+Westmoreland,Pennsylvania,0,0,0,0,0,0,0,1,0,0,0,0,0,Westmoreland
+McKean,Pennsylvania,0,0,0,0,0,0,0,2,0,0,0,0,0,McKean
+Lebanon,Pennsylvania,1,0,0,0,0,1,0,0,0,0,0,0,0,Lebanon
+Wayne,Pennsylvania,1,0,0,0,0,1,0,0,0,0,0,0,0,Wayne
+Franklin,Pennsylvania,0,0,0,0,0,0,0,2,0,0,0,0,0,Franklin
+Juniata,Pennsylvania,0,0,0,0,0,0,1,1,0,0,0,0,0,Juniata
+Somerset,Pennsylvania,0,0,0,0,0,0,1,0,0,0,0,0,0,Somerset
+Dauphin,Pennsylvania,0,0,0,0,0,0,1,1,1,0,0,0,0,Dauphin
+Blair,Pennsylvania,0,0,0,0,0,1,0,0,0,0,0,0,0,Blair
+Clearfield,Pennsylvania,0,0,0,0,0,0,2,2,0,0,0,0,0,Clearfield
+Chester,Pennsylvania,0,0,0,0,0,0,2,2,0,0,0,0,0,Chester
+Pike,Pennsylvania,0,0,0,0,0,0,0,1,0,0,0,0,0,Pike
+Washington,Pennsylvania,0,0,0,0,0,0,0,1,1,0,0,0,0,Washington
+Forest,Pennsylvania,0,0,0,0,0,0,0,2,0,0,0,0,0,Forest
+Crawford,Pennsylvania,0,0,0,0,0,0,0,2,1,0,0,0,0,Crawford
+Bucks,Pennsylvania,0,0,0,0,0,0,2,1,0,0,0,0,0,Bucks
+Monroe,Pennsylvania,0,0,0,0,0,0,1,0,0,0,0,0,0,Monroe
+Wyoming,Pennsylvania,0,0,0,0,0,0,1,0,0,0,0,0,0,Wyoming
+Cambria,Pennsylvania,0,0,0,0,0,0,0,3,0,0,0,0,0,Cambria
+Lackawanna,Pennsylvania,0,0,0,0,0,0,0,1,0,0,0,0,0,Lackawanna
+Perry,Pennsylvania,0,0,0,0,0,0,2,0,1,0,0,0,0,Perry
+Union,Pennsylvania,0,0,0,0,0,0,0,0,1,0,0,0,0,Union
+Northumberland,Pennsylvania,0,0,0,0,0,0,1,0,0,0,0,0,0,Northumberland
+Warren,Pennsylvania,0,0,0,0,0,0,1,0,0,0,0,0,0,Warren
+Greene,Pennsylvania,0,0,0,0,0,0,0,1,1,0,0,0,0,Greene
+Indiana,Pennsylvania,0,0,0,0,0,0,0,2,0,0,0,0,0,Indiana
+Tioga,Pennsylvania,0,0,0,0,0,0,0,1,1,0,0,0,0,Tioga
+Adams,Pennsylvania,0,0,0,0,0,0,0,1,1,0,0,0,0,Adams
+Luzerne,Pennsylvania,0,0,0,0,0,0,0,0,1,0,0,0,0,Luzerne
+Beaver,Pennsylvania,0,0,0,0,0,0,0,0,1,0,0,0,0,Beaver
+Mercer,Pennsylvania,0,0,0,0,0,0,0,1,1,0,0,0,0,Mercer
+Erie,Pennsylvania,0,0,0,0,0,0,0,0,1,0,0,0,0,Erie
+Lawrence,Pennsylvania,0,0,0,0,0,0,0,2,0,0,0,0,0,Lawrence
+Allegheny,Pennsylvania,0,0,0,0,0,0,0,1,0,0,0,0,0,Allegheny
+Bedford,Pennsylvania,0,0,0,0,0,0,0,1,0,0,0,0,0,Bedford
+Butler,Pennsylvania,0,0,0,0,0,0,0,2,0,0,0,0,0,Butler
+Tioga,New York,0,0,0,0,0,0,0,0,0,0,0,0,0,Tioga
+Lewis,New York,0,0,0,0,0,0,0,0,0,0,0,0,0,Lewis
+Onondaga,New York,0,0,0,0,0,0,0,1,1,0,0,0,0,Onondaga
+Jefferson,New York,0,0,0,0,0,0,0,3,0,0,0,0,0,Jefferson
+Broome,New York,0,0,0,0,0,0,0,1,0,0,0,0,0,Broome
+Delaware,New York,1,0,0,0,0,1,1,2,0,0,0,0,0,Delaware
+Albany,New York,0,0,0,0,0,0,0,0,0,0,0,0,0,Albany
+Tompkins,New York,0,0,0,0,0,0,1,0,0,0,0,0,0,Tompkins
+Bronx,New York,0,0,0,0,0,0,0,1,0,0,0,0,0,Bronx
+Orange,New York,0,0,0,0,0,0,0,0,0,0,0,0,0,Orange
+Queens,New York,0,0,0,0,0,0,2,0,0,0,0,0,0,Queens
+Nassau,New York,0,0,0,0,0,0,1,0,0,0,0,0,0,Nassau
+Allegany,New York,0,0,0,0,0,0,1,0,0,0,0,0,0,Allegany
+Steuben,New York,0,0,0,0,0,0,1,1,0,0,0,0,0,Steuben
+Yates,New York,0,0,0,0,0,0,1,0,0,0,0,0,0,Yates
+Cayuga,New York,0,0,0,0,0,0,1,0,0,0,0,0,0,Cayuga
+Cortland,New York,0,0,0,0,0,0,0,1,1,0,0,0,0,Cortland
+Chenango,New York,0,0,0,0,0,0,0,0,1,0,0,0,0,Chenango
+Otsego,New York,0,0,0,0,0,0,1,0,2,0,0,0,0,Otsego
+Schoharie,New York,0,0,0,0,0,0,0,0,3,0,0,0,0,Schoharie
+Columbia,New York,0,0,0,0,0,0,0,0,0,0,0,0,0,Columbia
+Rensselaer,New York,0,0,0,0,0,0,0,2,0,0,0,0,0,Rensselaer
+Suffolk,New York,0,0,0,0,0,1,2,4,0,0,0,0,0,Suffolk
+Kings,New York,1,0,0,0,0,1,1,0,0,0,0,0,0,Kings
+Dutchess,New York,1,0,0,0,0,1,2,0,1,0,0,0,0,Dutchess
+Cattaraugus,New York,0,0,0,0,0,0,1,1,0,0,0,0,0,Cattaraugus
+Greene,New York,0,0,0,0,0,0,0,1,0,0,0,0,0,Greene
+Erie,New York,0,0,0,0,0,0,0,1,0,0,0,0,0,Erie
+Schuyler,New York,0,0,0,0,0,0,1,0,0,0,0,0,0,Schuyler
+Ontario,New York,0,0,0,0,0,0,0,1,0,0,0,0,0,Ontario
+Westchester,New York,0,0,0,0,0,0,2,3,0,0,0,0,0,Westchester
+Chautauqua,New York,0,0,0,0,0,0,0,1,0,0,0,0,0,Chautauqua
+Montgomery,New York,0,0,0,0,0,0,0,1,0,0,0,0,0,Montgomery
+Warren,New York,0,0,0,0,0,0,0,3,0,0,0,0,0,Warren
+Madison,New York,0,0,0,0,0,0,1,0,0,0,0,0,0,Madison
+Oneida,New York,0,0,0,0,0,0,0,0,1,0,0,0,0,Oneida
+Herkimer,New York,0,0,0,0,0,0,0,0,1,0,0,0,0,Herkimer
+Hamilton,New York,0,0,0,0,0,0,0,0,1,0,0,0,0,Hamilton
+Essex,New York,0,0,0,0,0,0,0,0,1,0,0,0,0,Essex
+Clinton,New York,0,0,0,0,0,0,0,0,2,0,0,0,0,Clinton
+Orleans,New York,0,0,0,0,0,0,0,2,0,0,0,0,0,Orleans
+Rockland,New York,0,0,0,0,0,0,1,0,0,0,0,0,0,Rockland
+Sullivan,New York,0,0,0,0,0,0,0,1,1,0,0,0,0,Sullivan
+Livingston,New York,0,0,0,0,0,0,0,1,1,0,0,0,0,Livingston
+Monroe,New York,0,0,0,0,0,0,0,1,1,0,0,0,0,Monroe
+St. Lawrence,New York,0,0,0,0,0,0,0,2,0,0,0,0,0,St. Lawrence
+Franklin,New York,0,0,0,0,0,0,0,1,0,0,0,0,0,Franklin
+Hartford,Connecticut,1,0,0,0,0,1,3,0,1,0,0,0,0,Hartford
+New Haven,Connecticut,0,0,1,0,0,1,3,0,0,0,0,0,0,New Haven
+New London,Connecticut,0,0,0,0,0,0,1,1,0,0,0,0,0,New London
+Middlesex,Connecticut,1,0,0,0,0,1,1,0,0,0,0,0,0,Middlesex
+Windham,Connecticut,1,0,0,0,0,1,2,1,0,0,0,0,0,Windham
+Tolland,Connecticut,0,0,0,0,0,0,0,3,0,0,0,0,0,Tolland
+Litchfield,Connecticut,0,0,0,0,0,0,0,1,0,0,0,0,0,Litchfield
+Fairfield,Connecticut,0,0,0,0,0,0,1,0,0,0,0,0,0,Fairfield
+Carroll,Maryland,0,0,0,0,0,0,3,0,0,0,0,0,0,Carroll
+Prince George's,Maryland,0,0,0,0,0,0,1,1,0,0,0,0,0,Prince George's
+Anne Arundel,Maryland,0,0,0,0,0,0,1,2,1,0,0,0,0,Anne Arundel
+St. Mary's,Maryland,0,0,0,0,0,0,0,1,1,0,0,0,0,St. Mary's
+Baltimore,Maryland,0,0,0,0,0,0,2,1,1,0,0,0,0,Baltimore
+Calvert,Maryland,0,0,0,0,0,0,2,0,0,0,0,0,0,Calvert
+Queen Anne's,Maryland,0,0,0,0,0,0,1,0,0,0,0,0,0,Queen Anne's
+Washington,Maryland,0,0,0,0,0,0,1,1,1,0,0,0,0,Washington
+Montgomery,Maryland,1,0,0,0,0,1,1,0,0,0,0,0,0,Montgomery
+Worcester,Maryland,0,0,0,0,0,0,3,3,0,0,0,0,0,Worcester
+Frederick,Maryland,0,0,0,0,0,0,1,0,2,0,0,0,0,Frederick
+Charles,Maryland,0,0,0,0,0,0,0,1,1,0,0,0,0,Charles
+Somerset,Maryland,0,0,0,0,0,0,1,0,0,0,0,0,0,Somerset
+Dorchester,Maryland,0,0,0,0,0,0,3,1,1,0,0,0,0,Dorchester
+Howard,Maryland,0,0,0,0,0,0,1,0,0,0,0,0,0,Howard
+Harford,Maryland,0,0,0,0,0,0,0,1,0,0,0,0,0,Harford
+Kent,Maryland,0,0,0,0,0,0,0,1,0,0,0,0,0,Kent
+Wicomico,Maryland,0,0,0,0,0,0,1,0,0,0,0,0,0,Wicomico
+Cecil,Maryland,0,0,0,0,0,0,1,0,0,0,0,0,0,Cecil
+Caroline,Maryland,0,0,0,0,0,0,0,1,0,0,0,0,0,Caroline
+Rockingham,New Hampshire,0,0,0,0,0,0,4,2,0,0,0,0,0,Rockingham
+Grafton,New Hampshire,0,0,0,0,0,0,1,3,0,0,0,0,0,Grafton
+Coos,New Hampshire,0,0,0,0,0,0,0,2,0,0,0,0,0,Coos
+Merrimack,New Hampshire,0,0,0,0,0,0,0,1,0,0,0,0,0,Merrimack
+Cheshire,New Hampshire,0,0,0,0,0,0,1,1,0,0,0,0,0,Cheshire
+Carroll,New Hampshire,0,0,0,0,0,1,0,1,0,0,0,0,0,Carroll
+Strafford,New Hampshire,0,0,0,0,0,0,1,0,0,0,0,0,0,Strafford
+Hillsborough,New Hampshire,0,0,0,0,0,0,2,2,1,0,0,0,0,Hillsborough
+Belknap,New Hampshire,0,0,0,0,0,0,1,0,0,0,0,0,0,Belknap
+Coahoma,Arkansas,0,0,0,0,0,0,0,0,0,0,0,0,0,Coahoma
+Phillips,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Phillips
+Lee,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Lee
+Columbia,Arkansas,0,0,0,0,0,0,3,0,0,0,0,0,0,Columbia
+Ouachita,Arkansas,0,0,0,0,0,0,1,0,0,0,0,0,0,Ouachita
+Dallas,Arkansas,0,0,0,0,0,0,1,0,1,0,0,0,0,Dallas
+Jefferson,Arkansas,0,0,0,0,0,0,2,0,2,4,0,0,0,Jefferson
+Prairie,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Prairie
+Woodruff,Arkansas,0,0,0,0,0,0,1,0,1,0,0,0,0,Woodruff
+Poinsett,Arkansas,0,0,0,0,0,0,1,0,2,0,0,0,0,Poinsett
+Hot Spring,Arkansas,0,0,0,0,0,0,1,0,2,0,0,0,0,Hot Spring
+Newton,Arkansas,0,0,0,0,0,0,1,0,0,2,0,0,0,Newton
+Union,Arkansas,0,0,0,0,0,0,1,0,2,0,0,0,0,Union
+Bradley,Arkansas,0,0,0,0,0,0,1,0,1,0,0,0,0,Bradley
+Drew,Arkansas,0,0,0,0,0,0,3,0,1,0,0,0,0,Drew
+Arkansas,Arkansas,0,0,0,0,0,0,1,0,3,0,0,0,0,Arkansas
+Calhoun,Arkansas,0,0,0,0,0,0,1,0,1,0,0,0,0,Calhoun
+Grant,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Grant
+Pulaski,Arkansas,0,0,0,0,0,0,1,0,4,3,0,0,0,Pulaski
+Cleburne,Arkansas,0,0,0,0,0,0,0,1,1,0,0,0,0,Cleburne
+Mississippi,Arkansas,0,0,0,0,0,0,1,2,2,0,0,0,0,Mississippi
+Saline,Arkansas,0,0,0,0,0,0,1,0,1,0,0,0,0,Saline
+Greene,Arkansas,0,0,0,0,0,0,1,0,0,0,0,0,0,Greene
+Ashley,Arkansas,0,0,0,0,0,0,2,0,1,0,0,0,0,Ashley
+Lawrence,Arkansas,0,0,0,0,0,0,2,1,0,0,0,0,0,Lawrence
+Lafayette,Arkansas,0,0,0,0,0,0,0,0,4,0,0,0,0,Lafayette
+Clark,Arkansas,0,0,0,0,0,0,0,0,4,0,0,0,0,Clark
+Sevier,Arkansas,0,0,0,0,0,0,0,0,4,0,0,0,0,Sevier
+Pike,Arkansas,0,0,0,0,0,0,0,0,3,0,0,0,0,Pike
+Faulkner,Arkansas,0,0,0,0,0,0,0,1,1,1,0,0,0,Faulkner
+Scott,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Scott
+Washington,Arkansas,0,0,0,0,0,0,0,1,1,0,0,0,0,Washington
+Monroe,Arkansas,0,0,0,0,0,0,1,0,0,0,0,0,0,Monroe
+Independence,Arkansas,0,0,0,0,0,0,1,0,1,0,0,0,0,Independence
+Crittenden,Arkansas,0,0,0,0,0,0,0,1,1,0,0,0,0,Crittenden
+Little River,Arkansas,0,0,0,0,0,0,0,0,6,0,0,0,0,Little River
+Chicot,Arkansas,0,0,0,0,0,0,1,1,4,0,0,0,0,Chicot
+Lonoke,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Lonoke
+Howard,Arkansas,0,0,0,0,0,0,0,0,3,0,0,0,0,Howard
+Montgomery,Arkansas,0,0,0,0,0,0,0,0,2,1,0,0,0,Montgomery
+Yell,Arkansas,0,0,0,0,0,0,0,0,5,1,0,0,0,Yell
+Logan,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Logan
+Nevada,Arkansas,0,0,0,0,0,0,1,0,3,0,0,0,0,Nevada
+Franklin,Arkansas,0,0,0,0,0,0,0,0,3,0,0,0,0,Franklin
+Boone,Arkansas,0,0,0,0,0,0,0,0,2,1,0,0,0,Boone
+Crawford,Arkansas,0,0,0,0,0,0,0,0,1,1,0,0,0,Crawford
+White,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,White
+Lincoln,Arkansas,0,0,0,0,0,0,0,0,4,0,0,0,0,Lincoln
+Garland,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Garland
+Sebastian,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Sebastian
+Madison,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Madison
+St. Francis,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,St. Francis
+Polk,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Polk
+Carroll,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Carroll
+Pope,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Pope
+Van Buren,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Van Buren
+Izard,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Izard
+Shelby,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Shelby
+Miller,Arkansas,0,0,0,0,0,0,1,0,1,0,0,0,0,Miller
+Hempstead,Arkansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Hempstead
+Randolph,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Randolph
+Baxter,Arkansas,0,0,0,0,0,0,0,1,0,1,0,0,0,Baxter
+Johnson,Arkansas,0,0,0,0,0,0,1,0,0,1,0,0,0,Johnson
+Benton,Arkansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Benton
+Searcy,Arkansas,0,0,0,0,0,0,0,0,0,1,0,0,0,Searcy
+Marshall,Kentucky,0,0,0,0,0,0,0,1,1,0,0,0,0,Marshall
+Todd,Kentucky,0,0,0,0,0,0,0,0,0,0,0,0,0,Todd
+Warren,Kentucky,0,0,0,0,0,0,1,0,0,0,0,0,0,Warren
+Adair,Kentucky,0,0,0,0,0,0,0,0,0,0,0,0,0,Adair
+Laurel,Kentucky,0,0,0,0,0,0,0,0,0,0,0,0,0,Laurel
+Knott,Kentucky,0,0,0,0,0,0,0,0,0,0,0,0,0,Knott
+Muhlenberg,Kentucky,0,0,0,0,0,0,0,0,0,0,0,0,0,Muhlenberg
+Crittenden,Kentucky,0,0,0,0,0,0,0,0,0,0,0,0,0,Crittenden
+Mercer,Kentucky,0,0,0,0,0,0,1,2,1,0,0,0,0,Mercer
+Carter,Kentucky,0,0,0,0,0,0,1,0,1,0,0,0,0,Carter
+Cumberland,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Cumberland
+Owsley,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Owsley
+Robertson,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Robertson
+Christian,Kentucky,0,0,0,0,0,0,0,0,2,0,0,0,0,Christian
+Webster,Kentucky,0,0,0,0,0,0,0,0,2,0,0,0,0,Webster
+Lyon,Kentucky,0,0,0,0,0,0,0,0,2,0,0,0,0,Lyon
+Livingston,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Livingston
+Union,Kentucky,0,0,0,0,0,0,0,2,1,0,0,0,0,Union
+Pulaski,Kentucky,0,0,0,0,0,0,1,0,3,0,0,0,0,Pulaski
+Garrard,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Garrard
+Scott,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Scott
+Clay,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Clay
+Fulton,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Fulton
+McCracken,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,McCracken
+Letcher,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Letcher
+Pike,Kentucky,0,0,0,0,0,0,0,1,3,0,0,0,0,Pike
+Daviess,Kentucky,0,0,0,0,0,0,0,1,1,0,0,0,0,Daviess
+Carroll,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Carroll
+Gallatin,Kentucky,0,0,0,0,0,0,0,1,1,0,0,0,0,Gallatin
+Whitley,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Whitley
+Perry,Kentucky,0,0,0,0,0,0,0,2,0,0,0,0,0,Perry
+Barren,Kentucky,0,0,0,0,0,0,0,1,1,0,0,0,0,Barren
+Green,Kentucky,0,0,0,0,0,0,0,1,1,0,0,0,0,Green
+Clark,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Clark
+Hickman,Kentucky,0,0,0,0,0,0,0,0,2,0,0,0,0,Hickman
+Powell,Kentucky,0,0,0,0,0,0,1,0,0,0,0,0,0,Powell
+Caldwell,Kentucky,0,0,0,0,0,0,0,1,2,0,0,0,0,Caldwell
+Breckinridge,Kentucky,0,0,0,0,0,0,0,1,1,0,0,0,0,Breckinridge
+Owen,Kentucky,0,0,0,0,0,0,0,1,0,1,0,0,0,Owen
+Graves,Kentucky,0,0,0,0,0,0,0,0,2,0,0,0,0,Graves
+Ohio,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Ohio
+Hardin,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Hardin
+Washington,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Washington
+Estill,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Estill
+Boone,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Boone
+Elliott,Kentucky,0,0,0,0,0,0,1,0,0,0,0,0,0,Elliott
+Lewis,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Lewis
+Henderson,Kentucky,0,0,0,0,0,0,0,0,1,1,0,0,0,Henderson
+Ballard,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Ballard
+Oldham,Kentucky,0,0,0,0,0,0,0,0,0,1,0,0,0,Oldham
+Jefferson,Kentucky,0,0,0,0,0,0,0,0,0,3,0,0,0,Jefferson
+Meade,Kentucky,0,0,0,0,0,0,0,0,0,4,0,0,0,Meade
+Logan,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Logan
+Trimble,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Trimble
+Bell,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Bell
+Leslie,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Leslie
+Magoffin,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Magoffin
+Fleming,Kentucky,0,0,0,0,0,0,0,0,0,1,0,0,0,Fleming
+Calloway,Kentucky,0,0,0,0,0,0,0,0,0,1,0,0,0,Calloway
+Butler,Kentucky,0,0,0,0,0,0,0,0,0,1,0,0,0,Butler
+Madison,Kentucky,0,0,0,0,0,0,0,0,0,1,0,0,0,Madison
+Marion,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Marion
+Woodford,Kentucky,0,0,0,0,0,0,0,1,0,0,0,0,0,Woodford
+Boyle,Kentucky,0,0,0,0,0,0,0,0,0,1,0,0,0,Boyle
+Trigg,Kentucky,0,0,0,0,0,0,0,0,1,0,0,0,0,Trigg
+Gallatin,Illinois,0,0,0,0,0,0,0,0,0,0,0,0,0,Gallatin
+Lawrence,Illinois,0,0,0,0,0,0,0,0,0,0,0,0,0,Lawrence
+Adams,Illinois,0,0,0,0,0,0,0,0,1,0,0,0,0,Adams
+Hancock,Illinois,0,0,0,0,0,0,0,0,1,0,0,0,0,Hancock
+Knox,Illinois,0,0,0,0,0,0,0,0,0,0,0,0,0,Knox
+LaSalle,Illinois,0,0,0,0,0,0,0,0,0,0,0,0,0,LaSalle
+Williamson,Illinois,0,0,0,0,0,0,0,1,1,0,0,0,0,Williamson
+Alexander,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Alexander
+Johnson,Illinois,0,0,0,0,0,0,0,1,2,0,0,0,0,Johnson
+Saline,Illinois,0,0,0,0,0,0,0,1,1,1,0,0,0,Saline
+White,Illinois,0,0,0,0,0,0,0,2,1,0,0,0,0,White
+Wabash,Illinois,0,0,0,0,0,0,0,1,1,0,0,0,0,Wabash
+Moultrie,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Moultrie
+Franklin,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Franklin
+Bond,Illinois,0,0,0,0,0,0,0,2,1,0,0,0,0,Bond
+Logan,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Logan
+Peoria,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Peoria
+Randolph,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Randolph
+Perry,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Perry
+Jefferson,Illinois,0,0,0,0,0,0,0,1,2,0,0,0,0,Jefferson
+Hamilton,Illinois,0,0,0,0,0,0,0,2,1,0,0,0,0,Hamilton
+Pope,Illinois,0,0,0,0,0,0,0,1,1,0,0,0,0,Pope
+Wayne,Illinois,0,0,0,0,0,0,0,2,0,0,0,0,0,Wayne
+Jackson,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Jackson
+Washington,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Washington
+Fayette,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Fayette
+Douglas,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Douglas
+Iroquois,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Iroquois
+Marion,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Marion
+Union,Illinois,0,0,0,0,0,0,0,0,1,1,0,0,0,Union
+Clay,Illinois,0,0,0,0,0,0,0,0,1,0,0,0,0,Clay
+Coles,Illinois,0,0,0,0,0,0,0,0,1,0,0,0,0,Coles
+Madison,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Madison
+Sangamon,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Sangamon
+Woodford,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Woodford
+Kane,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Kane
+St. Clair,Illinois,0,0,0,0,0,0,0,0,1,0,0,0,0,St. Clair
+Piatt,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Piatt
+Cass,Illinois,0,0,0,0,0,0,0,0,1,0,0,0,0,Cass
+Ford,Illinois,0,0,0,0,0,0,0,0,1,0,0,0,0,Ford
+Richland,Illinois,0,0,0,0,0,0,0,0,1,0,0,0,0,Richland
+Mason,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Mason
+DuPage,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,DuPage
+Edwards,Illinois,0,0,0,0,0,0,0,0,1,0,0,0,0,Edwards
+Macoupin,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Macoupin
+De Witt,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,De Witt
+Kankakee,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Kankakee
+Champaign,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Champaign
+Will,Illinois,0,0,0,0,0,0,0,1,0,0,0,0,0,Will
+Vigo,Indiana,0,0,0,0,0,0,0,1,0,0,0,0,0,Vigo
+Tippecanoe,Indiana,0,0,0,0,0,0,0,1,0,0,0,0,0,Tippecanoe
+Elkhart,Indiana,0,0,0,0,0,0,0,1,1,0,0,0,0,Elkhart
+Perry,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Perry
+Jackson,Indiana,0,0,0,0,0,0,0,0,0,0,0,0,0,Jackson
+Shelby,Indiana,0,0,0,0,0,0,0,0,0,0,0,0,0,Shelby
+Wayne,Indiana,0,0,0,0,0,0,0,0,0,0,0,0,0,Wayne
+Gibson,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Gibson
+Daviess,Indiana,0,0,0,0,0,0,0,1,1,0,0,0,0,Daviess
+Owen,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Owen
+Hamilton,Indiana,0,0,0,0,0,0,0,0,1,1,0,0,0,Hamilton
+Knox,Indiana,0,0,0,0,0,0,0,2,3,0,0,0,0,Knox
+Greene,Indiana,0,0,0,0,0,0,0,1,1,1,0,0,0,Greene
+Johnson,Indiana,0,0,0,0,0,0,0,2,0,0,0,0,0,Johnson
+Montgomery,Indiana,0,0,0,0,0,0,0,1,1,0,0,0,0,Montgomery
+Wells,Indiana,0,0,0,0,0,0,0,1,0,1,0,0,0,Wells
+Monroe,Indiana,0,0,0,0,0,0,0,1,0,1,0,0,0,Monroe
+Henry,Indiana,0,0,0,0,0,0,0,1,0,0,0,0,0,Henry
+Pike,Indiana,0,0,0,0,0,0,0,1,0,0,0,0,0,Pike
+Lawrence,Indiana,0,0,0,0,0,0,0,1,2,0,0,0,0,Lawrence
+Rush,Indiana,0,0,0,0,0,0,0,2,0,0,0,0,0,Rush
+Marshall,Indiana,0,0,0,0,0,0,0,1,0,0,0,0,0,Marshall
+Crawford,Indiana,0,0,0,0,0,0,0,1,0,1,0,0,0,Crawford
+Clark,Indiana,0,0,0,0,0,0,0,2,0,1,0,0,0,Clark
+Warrick,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Warrick
+Benton,Indiana,0,0,0,0,0,0,0,1,0,0,0,0,0,Benton
+Pulaski,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Pulaski
+Noble,Indiana,0,0,0,0,0,0,0,0,2,0,0,0,0,Noble
+Spencer,Indiana,0,0,0,0,0,0,0,0,1,1,0,0,0,Spencer
+Orange,Indiana,0,0,0,0,0,0,0,0,1,1,0,0,0,Orange
+Washington,Indiana,0,0,0,0,0,0,0,0,2,0,0,0,0,Washington
+Jefferson,Indiana,0,0,0,0,0,0,0,0,1,1,0,0,0,Jefferson
+Ripley,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Ripley
+Posey,Indiana,0,0,0,0,0,0,0,0,2,0,0,0,0,Posey
+Dubois,Indiana,0,0,0,0,0,0,0,0,1,1,0,0,0,Dubois
+Putnam,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Putnam
+Howard,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Howard
+Brown,Indiana,0,0,0,0,0,0,0,0,0,1,0,0,0,Brown
+Bartholomew,Indiana,0,0,0,0,0,0,0,0,0,3,0,0,0,Bartholomew
+Jennings,Indiana,0,0,0,0,0,0,0,0,0,3,0,0,0,Jennings
+Martin,Indiana,0,0,0,0,0,0,0,0,0,1,0,0,0,Martin
+Morgan,Indiana,0,0,0,0,0,0,0,0,0,1,0,0,0,Morgan
+Hendricks,Indiana,0,0,0,0,0,0,0,0,0,1,0,0,0,Hendricks
+Grant,Indiana,0,0,0,0,0,0,0,0,0,1,0,0,0,Grant
+Fountain,Indiana,0,0,0,0,0,0,0,1,0,0,0,0,0,Fountain
+Sullivan,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Sullivan
+Carroll,Indiana,0,0,0,0,0,0,0,0,1,0,0,0,0,Carroll
+Shiawassee,Michigan,0,0,0,0,0,0,0,1,0,0,0,0,0,Shiawassee
+Wayne,Michigan,0,0,0,0,0,0,0,0,1,1,0,0,0,Wayne
+Macomb,Michigan,0,0,0,0,0,0,0,0,0,0,0,0,0,Macomb
+Bay,Michigan,0,0,0,0,0,0,0,0,0,0,0,0,0,Bay
+St. Clair,Michigan,0,0,0,0,0,0,0,1,0,0,0,0,0,St. Clair
+Washtenaw,Michigan,0,0,0,0,0,0,0,0,1,0,0,0,0,Washtenaw
+Oakland,Michigan,0,0,0,0,0,0,0,0,1,0,0,0,0,Oakland
+Tuscola,Michigan,0,0,0,0,0,0,0,0,1,0,0,0,0,Tuscola
+Iosco,Michigan,0,0,0,0,0,0,0,0,1,0,0,0,0,Iosco
+Allegan,Michigan,0,0,0,0,0,0,0,0,0,0,0,0,0,Allegan
+Ionia,Michigan,0,0,0,0,0,0,0,1,1,0,0,0,0,Ionia
+Saginaw,Michigan,0,0,0,0,0,0,0,2,0,0,0,0,0,Saginaw
+Hillsdale,Michigan,0,0,0,0,0,0,0,1,1,0,0,0,0,Hillsdale
+Calhoun,Michigan,0,0,0,0,0,0,0,1,1,0,0,0,0,Calhoun
+Eaton,Michigan,0,0,0,0,0,0,0,1,0,1,0,0,0,Eaton
+Genesee,Michigan,0,0,0,0,0,0,0,1,0,0,0,0,0,Genesee
+Van Buren,Michigan,0,0,0,0,0,0,0,1,0,0,0,0,0,Van Buren
+Midland,Michigan,0,0,0,0,0,0,0,1,0,1,0,0,0,Midland
+Clare,Michigan,0,0,0,0,0,0,0,1,0,0,0,0,0,Clare
+Branch,Michigan,0,0,0,0,0,0,0,0,0,1,0,0,0,Branch
+Sanilac,Michigan,0,0,0,0,0,0,0,1,0,0,0,0,0,Sanilac
+Barry,Michigan,0,0,0,0,0,0,0,0,1,0,0,0,0,Barry
+Oscoda,Michigan,0,0,0,0,0,0,0,0,0,1,0,0,0,Oscoda
+Oceana,Michigan,0,0,0,0,0,0,0,1,0,0,0,0,0,Oceana
+Roscommon,Michigan,0,0,0,0,0,0,0,1,0,0,0,0,0,Roscommon
+Bennington,Vermont,0,0,0,0,0,0,0,0,0,0,0,0,0,Bennington
+Windham,Vermont,0,0,0,0,0,0,1,2,0,0,0,0,0,Windham
+Caledonia,Vermont,0,0,0,0,0,0,1,1,0,0,0,0,0,Caledonia
+Addison,Vermont,0,0,0,0,0,0,0,1,0,0,0,0,0,Addison
+Lamoille,Vermont,0,0,0,0,0,0,0,1,0,0,0,0,0,Lamoille
+Franklin,Vermont,0,0,0,0,0,0,0,0,1,0,0,0,0,Franklin
+Essex,Vermont,0,0,0,0,0,0,0,1,0,0,0,0,0,Essex
+Rutland,Vermont,0,0,0,0,0,0,0,1,0,0,0,0,0,Rutland
+Windsor,Vermont,0,0,0,0,0,0,1,1,0,0,0,0,0,Windsor
+Sussex,Delaware,0,0,0,0,0,0,6,2,0,0,0,0,0,Sussex
+New Castle,Delaware,0,0,0,0,0,0,1,0,1,0,0,0,0,New Castle
+Kent,Delaware,0,0,0,0,0,0,3,0,1,0,0,0,0,Kent
+Mercer,New Jersey,0,0,0,0,0,0,1,0,0,0,0,0,0,Mercer
+Burlington,New Jersey,0,0,0,0,0,1,2,1,0,0,0,0,0,Burlington
+Warren,New Jersey,0,0,0,0,0,0,1,0,0,0,0,0,0,Warren
+Sussex,New Jersey,0,0,0,0,0,0,1,0,0,0,0,0,0,Sussex
+Camden,New Jersey,0,0,0,0,0,0,1,0,0,0,0,0,0,Camden
+Monmouth,New Jersey,0,0,0,0,0,0,4,0,0,0,0,0,0,Monmouth
+Cumberland,New Jersey,0,0,0,0,0,0,0,2,0,0,0,0,0,Cumberland
+Atlantic,New Jersey,1,0,0,0,0,1,2,1,0,0,0,0,0,Atlantic
+Ocean,New Jersey,0,0,0,0,0,0,2,1,1,0,0,0,0,Ocean
+Passaic,New Jersey,0,0,0,0,0,0,1,0,0,0,0,0,0,Passaic
+Cape May,New Jersey,0,0,0,0,0,0,0,2,0,0,0,0,0,Cape May
+Hunterdon,New Jersey,0,0,0,0,0,0,1,0,0,0,0,0,0,Hunterdon
+Essex,New Jersey,0,0,0,0,0,0,1,1,0,0,0,0,0,Essex
+Gloucester,New Jersey,0,0,0,0,0,0,0,2,0,0,0,0,0,Gloucester
+Somerset,New Jersey,0,0,0,0,0,0,1,0,0,0,0,0,0,Somerset
+Worcester,Massachusetts,0,0,0,0,0,0,6,2,0,0,0,0,0,Worcester
+Middlesex,Massachusetts,0,0,0,0,0,0,0,0,0,0,0,0,0,Middlesex
+Berkshire,Massachusetts,0,0,0,0,0,0,1,1,0,0,0,0,0,Berkshire
+Essex,Massachusetts,1,0,0,0,0,1,1,0,0,0,0,0,0,Essex
+Bristol,Massachusetts,0,0,0,0,0,0,1,0,0,0,0,0,0,Bristol
+Hampden,Massachusetts,0,0,0,0,0,0,1,0,0,0,0,0,0,Hampden
+Plymouth,Massachusetts,1,0,0,0,0,1,2,2,0,0,0,0,0,Plymouth
+Barnstable,Massachusetts,0,1,0,0,0,2,1,0,0,0,0,0,0,Barnstable
+Norfolk,Massachusetts,0,0,0,0,0,0,0,1,0,0,0,0,0,Norfolk
+Hampshire,Massachusetts,0,0,0,0,0,0,0,1,0,0,0,0,0,Hampshire
+Franklin,Massachusetts,0,0,0,0,0,0,1,0,0,0,0,0,0,Franklin
+Tucker,West Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Tucker
+McDowell,West Virginia,0,0,0,0,0,0,0,0,0,0,0,0,0,McDowell
+Ritchie,West Virginia,0,0,0,0,0,0,1,2,0,0,0,0,0,Ritchie
+Hampshire,West Virginia,0,0,0,0,0,0,1,1,0,0,0,0,0,Hampshire
+Raleigh,West Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Raleigh
+Gilmer,West Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Gilmer
+Wayne,West Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Wayne
+Logan,West Virginia,0,0,0,0,0,0,0,0,2,0,0,0,0,Logan
+Kanawha,West Virginia,0,0,0,0,0,0,0,1,3,1,0,0,0,Kanawha
+Calhoun,West Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Calhoun
+Fayette,West Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Fayette
+Pocahontas,West Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Pocahontas
+Webster,West Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Webster
+Wyoming,West Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Wyoming
+Wirt,West Virginia,0,0,0,0,0,0,0,1,1,0,0,0,0,Wirt
+Braxton,West Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Braxton
+Randolph,West Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Randolph
+Pendleton,West Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Pendleton
+Jackson,West Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Jackson
+Tyler,West Virginia,0,0,0,0,0,0,1,1,0,0,0,0,0,Tyler
+Putnam,West Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Putnam
+Greenbrier,West Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Greenbrier
+Barbour,West Virginia,0,0,0,0,0,0,0,0,1,0,0,0,0,Barbour
+Preston,West Virginia,0,0,0,0,0,0,1,0,0,0,0,0,0,Preston
+Roane,West Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Roane
+Lincoln,West Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Lincoln
+Mason,West Virginia,0,0,0,0,0,0,0,2,0,0,0,0,0,Mason
+Wetzel,West Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Wetzel
+Nicholas,West Virginia,0,0,0,0,0,0,0,1,0,0,0,0,0,Nicholas
+Mercer,Ohio,0,0,0,0,0,0,0,1,1,0,0,0,0,Mercer
+Putnam,Ohio,0,0,0,0,0,0,0,0,0,0,0,0,0,Putnam
+Lucas,Ohio,0,0,0,0,0,0,0,1,0,1,0,0,0,Lucas
+Hamilton,Ohio,0,0,0,0,0,0,0,1,1,0,0,0,0,Hamilton
+Hardin,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Hardin
+Greene,Ohio,0,0,0,0,0,0,0,0,1,0,0,0,0,Greene
+Auglaize,Ohio,0,0,0,0,0,0,0,1,1,0,0,0,0,Auglaize
+Henry,Ohio,0,0,0,0,0,0,0,0,1,1,0,0,0,Henry
+Paulding,Ohio,0,0,0,0,0,0,0,0,2,1,0,0,0,Paulding
+Hancock,Ohio,0,0,0,0,0,0,0,2,0,0,0,0,0,Hancock
+Lorain,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Lorain
+Preble,Ohio,0,0,0,0,0,0,0,0,1,0,0,0,0,Preble
+Darke,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Darke
+Seneca,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Seneca
+Brown,Ohio,0,0,0,0,0,0,0,2,2,0,0,0,0,Brown
+Scioto,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Scioto
+Miami,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Miami
+Adams,Ohio,0,0,0,0,0,0,0,0,2,0,0,0,0,Adams
+Jackson,Ohio,0,0,0,0,0,0,0,0,2,0,0,0,0,Jackson
+Meigs,Ohio,0,0,0,0,0,0,0,0,1,0,0,0,0,Meigs
+Tuscarawas,Ohio,0,0,0,0,0,0,1,0,0,0,0,0,0,Tuscarawas
+Pickaway,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Pickaway
+Knox,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Knox
+Summit,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Summit
+Pike,Ohio,0,0,0,0,0,0,0,0,1,0,0,0,0,Pike
+Harrison,Ohio,0,0,0,0,0,0,0,0,1,0,0,0,0,Harrison
+Warren,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Warren
+Lawrence,Ohio,0,0,0,0,0,0,0,0,0,1,0,0,0,Lawrence
+Highland,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Highland
+Coshocton,Ohio,0,0,0,0,0,0,0,1,0,0,0,0,0,Coshocton
+Oregon,Missouri,0,0,0,0,0,0,1,0,2,1,0,0,0,Oregon
+Miller,Missouri,0,0,0,0,0,0,0,0,2,0,0,0,0,Miller
+Cooper,Missouri,0,0,0,0,0,0,0,0,0,0,0,0,0,Cooper
+Livingston,Missouri,0,0,0,0,0,0,0,0,0,0,0,0,0,Livingston
+Camden,Missouri,0,0,0,0,0,0,1,0,1,0,0,0,0,Camden
+Monroe,Missouri,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe
+Howell,Missouri,0,0,0,0,0,0,0,1,1,0,0,0,0,Howell
+Dent,Missouri,0,0,0,0,0,0,1,0,2,0,0,0,0,Dent
+Franklin,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Franklin
+Pike,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Pike
+Holt,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Holt
+Pemiscot,Missouri,0,0,0,0,0,0,0,1,1,1,0,0,0,Pemiscot
+New Madrid,Missouri,0,0,0,0,0,0,0,2,0,2,0,0,0,New Madrid
+Stone,Missouri,0,0,0,0,0,0,0,2,0,0,0,0,0,Stone
+Laclede,Missouri,0,0,0,0,0,0,0,1,0,0,0,0,0,Laclede
+St. Louis,Missouri,0,0,0,0,0,0,0,2,0,0,0,0,0,St. Louis
+Butler,Missouri,0,0,0,0,0,0,1,0,1,0,0,0,0,Butler
+Wayne,Missouri,0,0,0,0,0,0,1,0,1,0,0,0,0,Wayne
+St. Francois,Missouri,0,0,0,0,0,0,0,1,2,0,0,0,0,St. Francois
+Ste. Genevieve,Missouri,0,0,0,0,0,0,0,1,0,0,0,0,0,Ste. Genevieve
+Ripley,Missouri,0,0,0,0,0,0,0,1,0,0,0,0,0,Ripley
+Stoddard,Missouri,0,0,0,0,0,0,0,2,1,1,0,0,0,Stoddard
+Cape Girardeau,Missouri,0,0,0,0,0,0,0,1,0,0,0,0,0,Cape Girardeau
+Jasper,Missouri,0,0,0,0,0,0,0,0,2,0,0,0,0,Jasper
+Maries,Missouri,0,0,0,0,0,0,1,0,0,0,0,0,0,Maries
+Scott,Missouri,0,0,0,0,0,0,0,1,0,0,0,0,0,Scott
+Bollinger,Missouri,0,0,0,0,0,0,1,0,0,1,0,0,0,Bollinger
+Wright,Missouri,0,0,0,0,0,0,0,0,2,0,0,0,0,Wright
+Mississippi,Missouri,0,0,0,0,0,0,0,0,4,0,0,0,0,Mississippi
+Randolph,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Randolph
+Iron,Missouri,0,0,0,0,0,0,0,1,0,0,0,0,0,Iron
+Taney,Missouri,0,0,0,0,0,0,0,0,1,1,0,0,0,Taney
+Webster,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Webster
+Texas,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Texas
+Crawford,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Crawford
+Douglas,Missouri,0,0,0,0,0,0,0,1,0,0,0,0,0,Douglas
+Newton,Missouri,0,0,0,0,0,0,0,0,2,0,0,0,0,Newton
+Morgan,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Morgan
+Audrain,Missouri,0,0,0,0,0,0,0,0,2,0,0,0,0,Audrain
+Polk,Missouri,0,0,0,0,0,0,0,0,2,0,0,0,0,Polk
+Warren,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Warren
+Christian,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Christian
+Dallas,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Dallas
+Osage,Missouri,0,0,0,0,0,0,0,0,2,0,0,0,0,Osage
+Montgomery,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Montgomery
+Hickman,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Hickman
+Shannon,Missouri,0,0,0,0,0,0,0,1,0,0,0,0,0,Shannon
+Marion,Missouri,0,0,0,0,0,0,1,0,0,0,0,0,0,Marion
+Reynolds,Missouri,0,0,0,0,0,0,0,1,0,0,0,0,0,Reynolds
+Dade,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Dade
+Cedar,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Cedar
+St. Clair,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,St. Clair
+Carter,Missouri,0,0,0,0,0,0,0,0,0,1,0,0,0,Carter
+Lewis,Missouri,0,0,0,0,0,0,0,0,1,0,0,0,0,Lewis
+Murray,Oklahoma,0,0,0,0,0,0,0,0,0,0,0,0,0,Murray
+Seminole,Oklahoma,0,0,0,0,0,0,0,0,0,0,0,0,0,Seminole
+Tulsa,Oklahoma,0,0,0,0,0,0,0,0,0,0,0,0,0,Tulsa
+Jefferson,Oklahoma,0,0,0,0,0,0,1,0,0,0,0,0,0,Jefferson
+Grady,Oklahoma,0,0,0,0,0,0,1,0,1,0,0,0,0,Grady
+Canadian,Oklahoma,0,0,0,0,0,0,1,0,0,2,0,0,0,Canadian
+Logan,Oklahoma,0,0,0,0,0,0,1,0,0,0,0,0,0,Logan
+Grant,Oklahoma,0,0,0,0,0,0,1,0,0,0,0,0,0,Grant
+Atoka,Oklahoma,0,0,0,0,0,0,1,0,0,0,0,0,0,Atoka
+Latimer,Oklahoma,0,0,0,0,0,0,1,0,3,0,0,0,0,Latimer
+Adair,Oklahoma,0,0,0,0,0,0,0,1,0,0,0,0,0,Adair
+Pushmataha,Oklahoma,0,0,0,0,0,0,1,0,3,0,0,0,0,Pushmataha
+Muskogee,Oklahoma,0,0,0,0,0,0,0,1,2,0,0,0,0,Muskogee
+Cherokee,Oklahoma,0,0,0,0,0,0,0,0,2,0,0,0,0,Cherokee
+Delaware,Oklahoma,0,0,0,0,0,0,0,0,2,0,0,0,0,Delaware
+Ottawa,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Ottawa
+McCurtain,Oklahoma,0,0,0,0,0,0,1,0,3,0,0,0,0,McCurtain
+Le Flore,Oklahoma,0,0,0,0,0,0,0,0,2,0,0,0,0,Le Flore
+Stephens,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Stephens
+Bryan,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Bryan
+Pontotoc,Oklahoma,0,0,0,0,0,0,0,0,2,0,0,0,0,Pontotoc
+Pottawatomie,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Pottawatomie
+Oklahoma,Oklahoma,0,0,0,0,0,0,0,0,2,0,0,0,0,Oklahoma
+Kingfisher,Oklahoma,0,0,0,0,0,0,0,0,2,0,0,0,0,Kingfisher
+Blaine,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Blaine
+Choctaw,Oklahoma,0,0,0,0,0,0,0,0,2,0,0,0,0,Choctaw
+Carter,Oklahoma,0,0,0,0,0,0,1,0,0,0,0,0,0,Carter
+Hughes,Oklahoma,0,0,0,0,0,0,1,0,2,0,0,0,0,Hughes
+Marshall,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Marshall
+Wagoner,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Wagoner
+Pittsburg,Oklahoma,0,0,0,0,0,0,0,0,2,1,0,0,0,Pittsburg
+Benton,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Benton
+Cotton,Oklahoma,0,0,0,0,0,0,0,0,2,0,0,0,0,Cotton
+Kiowa,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Kiowa
+Washita,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Washita
+Dewey,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Dewey
+Woodward,Oklahoma,0,0,0,0,0,0,0,1,0,0,0,0,0,Woodward
+Tillman,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Tillman
+Nowata,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Nowata
+Beckham,Oklahoma,0,0,0,0,0,0,0,0,0,1,0,0,0,Beckham
+Custer,Oklahoma,0,0,0,0,0,0,0,0,0,1,0,0,0,Custer
+Lincoln,Oklahoma,0,0,0,0,0,0,0,0,1,1,0,0,0,Lincoln
+McClain,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,McClain
+Osage,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Osage
+Washington,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Washington
+Labette,Oklahoma,0,0,0,0,0,0,0,0,0,1,0,0,0,Labette
+Love,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Love
+Johnston,Oklahoma,0,0,0,0,0,0,0,0,1,0,0,0,0,Johnston
+Haskell,Oklahoma,0,0,0,0,0,0,0,0,0,1,0,0,0,Haskell
+Sequoyah,Oklahoma,0,0,0,0,0,0,0,0,0,1,0,0,0,Sequoyah
+Labette,Kansas,0,0,0,0,0,0,0,0,0,1,0,0,0,Labette
+Sumner,Kansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Sumner
+Marion,Kansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Marion
+Morris,Kansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Morris
+Jackson,Kansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Jackson
+Cherokee,Kansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Cherokee
+Crawford,Kansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Crawford
+Bourbon,Kansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Bourbon
+Linn,Kansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Linn
+Miami,Kansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Miami
+Johnson,Kansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Johnson
+Leavenworth,Kansas,0,0,0,0,0,0,0,0,2,0,0,0,0,Leavenworth
+Doniphan,Kansas,0,0,0,0,0,0,0,0,1,0,0,0,0,Doniphan
+Comanche,Kansas,0,0,0,0,0,0,0,1,0,0,0,0,0,Comanche
+Kiowa,Kansas,0,0,0,0,0,0,0,1,0,0,0,0,0,Kiowa
+Pawnee,Kansas,0,0,0,0,0,0,0,1,0,0,0,0,0,Pawnee
+Russell,Kansas,0,0,0,0,0,0,0,1,0,0,0,0,0,Russell
+Osborne,Kansas,0,0,0,0,0,0,0,1,0,0,0,0,0,Osborne
+Van Buren,Iowa,0,0,0,0,0,0,0,0,0,0,0,0,0,Van Buren
+Clinton,Iowa,0,0,0,0,0,0,0,0,0,0,0,0,0,Clinton
+Decatur,Iowa,0,0,0,0,0,0,0,0,1,0,0,0,0,Decatur
+Keokuk,Iowa,0,0,0,0,0,0,0,1,0,0,0,0,0,Keokuk
+Jackson,Iowa,0,0,0,0,0,0,0,1,0,0,0,0,0,Jackson
+Louisa,Iowa,0,0,0,0,0,0,0,0,1,0,0,0,0,Louisa
+Dubuque,Iowa,0,0,0,0,0,0,0,1,0,0,0,0,0,Dubuque
+Rock,Wisconsin,0,0,0,0,0,0,0,0,0,0,0,0,0,Rock
+Walworth,Wisconsin,0,0,0,0,0,0,0,1,0,0,0,0,0,Walworth
+Milwaukee,Wisconsin,0,0,0,0,0,0,0,1,0,0,0,0,0,Milwaukee
+Juneau,Wisconsin,0,0,0,0,0,0,0,1,0,0,0,0,0,Juneau
+Luna,New Mexico,0,0,0,0,0,0,1,0,0,0,0,0,0,Luna
+Lea,New Mexico,0,0,0,0,0,0,1,0,0,0,0,0,0,Lea
+Eddy,New Mexico,0,0,0,0,0,0,1,0,4,0,0,0,0,Eddy
+Doña Ana,New Mexico,0,0,0,0,0,0,0,0,0,2,0,0,0,Doña Ana
+Arlington,District of Columbia,0,0,0,0,0,0,0,0,1,0,0,0,0,Arlington
+Jewell,Nebraska,0,0,0,0,0,0,0,1,0,0,0,0,0,Jewell
+Fillmore,Nebraska,0,0,0,0,0,0,0,1,0,0,0,0,0,Fillmore
