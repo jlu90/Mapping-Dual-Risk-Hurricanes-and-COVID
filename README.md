@@ -40,7 +40,7 @@ To gather, clean, and run models for the COVID-19 and hurricane dataset, you wou
 ## Data Dictionary
 ---
 Column | Description
-- | - 
+|- | - |
 state | a state is a constituent political entity 
 county | administrative division of a state or country 
 cat_1_count | a hurricane where winds range from 74 to 95 mph 
